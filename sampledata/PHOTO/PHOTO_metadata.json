@@ -1,0 +1,68 @@
+[
+  {
+    "uid": "179281_10319_14261984_28112147",
+    "course_code": "DOCST-227S-01",
+    "title": "SOCIOLOGY THRU PHOTOGRAPHY.DOCST-227S-01.PHOTO-227S-01.SOCIOL-352S-01.VMS-218S-01.",
+    "instructor": "Hyde, Katie",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "13 of 14  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "kdo2QI7P4tT%2byHdjH8Mz1g%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "PHOTO",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:34:48.407966"
+  },
+  {
+    "uid": "179281_10319_14262039_28112128",
+    "course_code": "DOCST-115S-01",
+    "title": "INTRO TO B&W PHOTOGRAPHY.DOCST-115S-01.ARTSVIS-115S-01.PHOTO-115S-01.VMS-115S-01.",
+    "instructor": "Post-Rust, Susie",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "iaUDP%2bR5prAM1YKXcC4Mgw%3d%3d",
+      "data-id3": "PORtd70qpTK8YpehgC6O4g%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ARTSVIS",
+      "PHOTO",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:34:48.408062"
+  },
+  {
+    "uid": "179281_10319_14262324_28112147",
+    "course_code": "DOCST-224S-01",
+    "title": "LITERACY/PHOTOGRAPHY.DOCST-224S-01.EDUC-244S-01.PHOTO-224S-01.VMS-207S-01.",
+    "instructor": "Hyde, Katie",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "PDA6FIV7m2rIAiPNF2fM3A%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "EDUC",
+      "PHOTO",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:34:48.408178"
+  }
+]

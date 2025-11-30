@@ -1,0 +1,4676 @@
+[
+  {
+    "uid": "149911_8928_11987227_27466679",
+    "course_code": "CLST-340A-01",
+    "title": "ROME: HISTORY OF CITY.CLST-340A-01.ARTHIST-209A-01.HISTORY-238A-01.",
+    "instructor": "Casias, Cassandra",
+    "term": "Summer I 2023",
+    "area": "CLASSICAL",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+      "data-id2": "%2fFWFjJZ6kIsg49D1mLU%2bBw%3d%3d",
+      "data-id3": "aY64I15J7j0YoYpvSZvf%2bA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "ARTHIST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.923833"
+  },
+  {
+    "uid": "149911_8928_11987238_27466690",
+    "course_code": "AAAS-103-01",
+    "title": "INTRO TO AFRICAN STUDIES.AAAS-103-01.CULANTH-105-01.HISTORY-129-01.POLSCI-108-01.ICS-110-01.",
+    "instructor": "Daly, Samuel",
+    "term": "Summer I 2023",
+    "area": "AFRAMRST",
+    "response_rate": "5 of 20  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+      "data-id2": "zX8pbnMD1QLyVlk5%2fPZCEg%3d%3d",
+      "data-id3": "jM0e%2bv8aMV1e00v6crH5vQ%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "HISTORY",
+      "POLSCI",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.923936"
+  },
+  {
+    "uid": "152527_9107_12076178_27675590",
+    "course_code": "HISTORY-311S-02",
+    "title": "MEN, WOMEN, AND SPORTS.HISTORY-311S-02.",
+    "instructor": "Kuchinski, Alyssa",
+    "term": "Summer II 2023",
+    "area": "HISTORY",
+    "response_rate": "12 of 13  responded (92.31%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "4TxgzUHg4Suz2MS8X7frbw%3d%3d",
+      "data-id2": "6FZb1Yfit9jPGGDm6TfkHA%3d%3d",
+      "data-id3": "sy%2f4Q6Gz907FSUKdc%2fHhOQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924017"
+  },
+  {
+    "uid": "154503_9169_12241352_27991564",
+    "course_code": "HISTORY-790S-11-01",
+    "title": "LABOR/CPTLSM/BUS CULTR (TOP).HISTORY-790S-11-01.",
+    "instructor": "Leroy, Justin",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "6 of 9  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "XSjIvmTfPmeZ4JWyzdJ1nw%3d%3d",
+      "data-id3": "1mkROCQaUcRQDSm1olx3kg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924094"
+  },
+  {
+    "uid": "154503_9169_12241491_27445979",
+    "course_code": "RELIGION-885-01",
+    "title": "CHRISTIAN MANUSCRIPT CULTURE.RELIGION-885-01.CLST-881-01.HISTORY-881-01.",
+    "instructor": "Knust, Jennifer",
+    "term": "Fall 2023",
+    "area": "RELIGION",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98883",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "%2ff9Gc2AGvvKUNwIxskMudA%3d%3d",
+      "data-id3": "vy1gy1wVu8adBDwwmtCBmw%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CLST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924173"
+  },
+  {
+    "uid": "154503_9169_12241568_27991733",
+    "course_code": "LIT-650S-01",
+    "title": "HISTORY OF MENTAL ILLNESS.LIT-650S-01.HISTORY-650S-01.NEUROSCI-650S-01.PSY-650S-01.",
+    "instructor": "Bassiri, Nima",
+    "term": "Fall 2023",
+    "area": "LITERATURE",
+    "response_rate": "14 of 18  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98858",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "iMOl4hBxa1wx2zta%2bAqBCg%3d%3d",
+      "data-id3": "gRFBCJ8VWFP172BM4DDsiw%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "HISTORY",
+      "NEUROSCI",
+      "PSY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924273"
+  },
+  {
+    "uid": "154503_9169_12241577_27991723",
+    "course_code": "POLSCI-562S-01",
+    "title": "AMERICAN GRAND STRATEGY.POLSCI-562S-01.HISTORY-567S-01.PUBPOL-501S-01.",
+    "instructor": "Feaver, Peter",
+    "term": "Fall 2023",
+    "area": "POLISCI",
+    "response_rate": "14 of 19  responded (73.68%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98879",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "KUvPQuBYxUUXrb3YoTgCEQ%3d%3d",
+      "data-id3": "oWExn8qLkUUm%2btaxOPbCow%3d%3d"
+    },
+    "department_codes": [
+      "POLSCI",
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924358"
+  },
+  {
+    "uid": "154503_9169_12241580_27991648",
+    "course_code": "HISTORY-548S-01",
+    "title": "GLOBAL HISTORY OF MEDICINE.HISTORY-548S-01.GLHLTH-548S-01.GSF-584S-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "WFpfucXz0voWyjbD8aW%2biA%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GLHLTH",
+      "GSF"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924439"
+  },
+  {
+    "uid": "154503_9169_12241588_27446110",
+    "course_code": "EAS-700-01",
+    "title": "EAST ASIAN STUDIES CORE COURSE.EAS-700-01.AMES-700-01.HISTORY-707-01.RELIGION-700-01.",
+    "instructor": "Chow, Eileen",
+    "term": "Fall 2023",
+    "area": "EAS",
+    "response_rate": "9 of 18  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98835",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "zg011vLXpFdh52rMViwMQg%3d%3d",
+      "data-id3": "bQQFUoukquPG0h%2bvAo1agQ%3d%3d"
+    },
+    "department_codes": [
+      "EAS",
+      "AMES",
+      "HISTORY",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924525"
+  },
+  {
+    "uid": "153858_9169_12282459_28111927",
+    "course_code": "HISTORY-362-01",
+    "title": "U S POLITICAL HST 1900-PRESENT.HISTORY-362-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "ct5zHDtxe5L%2bFcYsDl%2b70g%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924613"
+  },
+  {
+    "uid": "153858_9169_12282507_28111927",
+    "course_code": "HISTORY-120-01",
+    "title": "HISTORY OF AMERICAN DEMOCRACY.HISTORY-120-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "15 of 21  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "hf63Yt7cnrVbdlVf1OwOUQ%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924694"
+  },
+  {
+    "uid": "153858_9169_12282524_27991648",
+    "course_code": "HISTORY-111FS-01",
+    "title": "HISTORY OF GLOBAL HEALTH.HISTORY-111FS-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "sGni4Ujv1LpiW1NDo8d14g%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:29.924771"
+  },
+  {
+    "uid": "153858_9169_12282674_27991557",
+    "course_code": "HISTORY-89S-01",
+    "title": "FIRST-YEAR SEMINAR (TOP).HISTORY-89S-01.AAAS-89S-03.",
+    "instructor": "Lentz-Smith, Adriane",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "14 of 16  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "yC9nNT%2fhoyajJdS8uXSRpQ%3d%3d",
+      "data-id3": "NkkiAsXWbfTfAu5gm%2ffSnA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924849"
+  },
+  {
+    "uid": "153858_9169_12282727_27991721",
+    "course_code": "PUBPOL-224-01",
+    "title": "RUSSIA IN THE WORLD.PUBPOL-224-01.HISTORY-237-01.POLSCI-259-01.RUSSIAN-237-01.SES-237-01.",
+    "instructor": "Miles, Simon",
+    "term": "Fall 2023",
+    "area": "PPS",
+    "response_rate": "26 of 31  responded (83.87%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "FkO5cxQqD46MDUmj7Y34yg%3d%3d",
+      "data-id3": "rQC6i6PewdHj1l2ruT737g%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY",
+      "POLSCI",
+      "RUSSIAN",
+      "SES"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924923"
+  },
+  {
+    "uid": "153858_9169_12282738_28112139",
+    "course_code": "HISTORY-288-01",
+    "title": "HISTORY OF INEQUALITY.HISTORY-288-01.AAAS-288-01.SOCIOL-288-01.",
+    "instructor": "Hollowell, Adam",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "8 of 22  responded (36.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "dPxoOgebg8cTbrahtB1rBg%3d%3d",
+      "data-id3": "%2bKrXL7yE0sd77DOUu9NLPQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.924997"
+  },
+  {
+    "uid": "153858_9169_12282738_28112153",
+    "course_code": "HISTORY-288-01",
+    "title": "HISTORY OF INEQUALITY.HISTORY-288-01.AAAS-288-01.SOCIOL-288-01.",
+    "instructor": "Harper, Jim",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "8 of 22  responded (36.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "dPxoOgebg8cTbrahtB1rBg%3d%3d",
+      "data-id3": "ZyR0FiHe98N5d%2brKtK0ASA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.925072"
+  },
+  {
+    "uid": "153858_9169_12282744_27446110",
+    "course_code": "AMES-335-01",
+    "title": "CHINATOWNS: A CULTURAL HISTORY.AMES-335-01.AADS-335-01.HISTORY-228-01.ICS-336-01.",
+    "instructor": "Chow, Eileen",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "24 of 51  responded (47.06%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Hg7LmdiVHQgUlvbfbDJHtg%3d%3d",
+      "data-id3": "bQQFUoukquPG0h%2bvAo1agQ%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "AADS",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.925147"
+  },
+  {
+    "uid": "153858_9169_12282748_28080088",
+    "course_code": "HISTORY-190FS-01",
+    "title": "TOPICS IN FOCUS PROGRAM.HISTORY-190FS-01.JEWISHST-190FS-01.RELIGION-190FS-02.",
+    "instructor": "Casarella, Peter",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "x4%2bV0xxE5ACVruljQbpf%2fQ%3d%3d",
+      "data-id3": "TwVZhr5XPTlR%2bgA0ZYsW%2fw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:29.925225"
+  },
+  {
+    "uid": "153858_9169_12282763_27991555",
+    "course_code": "GERMAN-432S-01",
+    "title": "MODERN GERMAN-JEWISH CULTURE.GERMAN-432S-01.HISTORY-445S-01.JEWISHST-432S-01.",
+    "instructor": "Gellen, Kata",
+    "term": "Fall 2023",
+    "area": "GERMAN",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98994",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "gffa9EM6cKAvUZw%2bwOtRbg%3d%3d",
+      "data-id3": "04OniV0Tp784oyJoHl%2f6kA%3d%3d"
+    },
+    "department_codes": [
+      "GERMAN",
+      "HISTORY",
+      "JEWISHST"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.925333"
+  },
+  {
+    "uid": "153858_9169_12282775_28112114",
+    "course_code": "HISTORY-257-01",
+    "title": "RELIGION/REFORM/VIOLENCE.HISTORY-257-01.MEDREN-281-01.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "8 of 10  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "KcaiB2IxCLZJ0RT1KCWgIA%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:29.925416"
+  },
+  {
+    "uid": "153858_9169_12282779_28112078",
+    "course_code": "HISTORY-370-01",
+    "title": "AZTECS AND MAYANS.HISTORY-370-01.MEDREN-270-01.",
+    "instructor": "Sigal, Peter",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "7 of 17  responded (41.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "uAkmy68urdvcWRNAyqWl2g%3d%3d",
+      "data-id3": "Y%2bNhBL%2buLHPaktukAFTdpg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755342"
+  },
+  {
+    "uid": "153858_9169_12282781_28112047",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Mathers, Catherine",
+    "term": "Fall 2023",
+    "area": "ICS",
+    "response_rate": "16 of 34  responded (47.06%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "KW7j7bzurEMF932WPnLX6g%3d%3d",
+      "data-id3": "9wqThcI7SxPZAGIjOJktNA%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755463"
+  },
+  {
+    "uid": "153858_9169_12282785_27991797",
+    "course_code": "AMES-408S-01",
+    "title": "GEOPOLITICS OF ISLAMOPHOBIA.AMES-408S-01.HISTORY-416S-01.ICS-421S-01.PUBPOL-413S-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "10 of 13  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "BLu%2b%2bzMd%2bYMv5jPAthL4iQ%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "HISTORY",
+      "ICS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755559"
+  },
+  {
+    "uid": "153858_9169_12282791_28112114",
+    "course_code": "HISTORY-190FS-02",
+    "title": "TOPICS IN FOCUS PROGRAM.HISTORY-190FS-02.MEDREN-190FS-03.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "9 of 9  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "qwiGnG7aqwoxUBLwQ5FKBg%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:30.755646"
+  },
+  {
+    "uid": "153858_9169_12282817_28112052",
+    "course_code": "HISTORY-371-01",
+    "title": "FOOD IN GLOBAL HISTORY.HISTORY-371-01.GLHLTH-361-01.SCISOC-371-01.",
+    "instructor": "Humphreys, Margaret",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "5 of 10  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "cWNnpkUj5lVXiXc9VBhDEQ%3d%3d",
+      "data-id3": "CJRJ72OShMqCfZVopxGJnQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GLHLTH",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755726"
+  },
+  {
+    "uid": "153858_9169_12282821_27445831",
+    "course_code": "ICS-335S-01",
+    "title": "DECOLONIZATION.ICS-335S-01.AADS-337S-01.GSF-335S-01.HISTORY-289S-01.",
+    "instructor": "Namakkal, Jessica",
+    "term": "Fall 2023",
+    "area": "ICS",
+    "response_rate": "11 of 18  responded (61.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "L56pdBs1mHsQucqiYVISpQ%3d%3d",
+      "data-id3": "1DXES5LQTzWXOSO8uSZSyQ%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "AADS",
+      "GSF",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755807"
+  },
+  {
+    "uid": "153858_9169_12282822_27991569",
+    "course_code": "HISTORY-114-01",
+    "title": "INTRO HISTORY MODERN WARFARE.HISTORY-114-01.PUBPOL-160-01.",
+    "instructor": "Bonker, Dirk",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "7 of 28  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "TsY9OMZSRTonsLZXOROI5A%3d%3d",
+      "data-id3": "Awmn0%2bGfuxWU6dkeivrVeQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755901"
+  },
+  {
+    "uid": "153858_9169_12282835_27446132",
+    "course_code": "AAAS-316S-01",
+    "title": "APARTHEID S-AFRICA/DEMOCRACY.AAAS-316S-01.HISTORY-386S-01.ICS-211S-2-01.POLSCI-337S-01.PUBPOL-327S-01.RIGHTS-316S-01.",
+    "instructor": "Shapiro, Karin",
+    "term": "Fall 2023",
+    "area": "AFRAMRST",
+    "response_rate": "11 of 14  responded (78.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "xOHyG52S2lr1Fig80PbEEg%3d%3d",
+      "data-id3": "yE7KOjM%2bqKr1WotVPjMxlg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "HISTORY",
+      "ICS",
+      "POLSCI",
+      "PUBPOL",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.755995"
+  },
+  {
+    "uid": "153858_9169_12282842_27446034",
+    "course_code": "ARTHIST-284-01",
+    "title": "POLITICS & MODERN ARCHITECTURE.ARTHIST-284-01.HISTORY-263-01.POLSCI-263-01.PUBPOL-287-01.",
+    "instructor": "Jaskot, Paul",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 26  responded (23.08%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Hh6f1k8fH7XPnjZEtamTeg%3d%3d",
+      "data-id3": "Mbri0f%2fPxUSyScTcBtm9Lw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "HISTORY",
+      "POLSCI",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756115"
+  },
+  {
+    "uid": "153858_9169_12282875_28112164",
+    "course_code": "HISTORY-352-01",
+    "title": "IMMIGRANT DREAMS/US REALITIES.HISTORY-352-01.PUBPOL-220-01.RIGHTS-352-01.",
+    "instructor": "Peck, Gunther",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "16 of 18  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Z0sEA5mWHg4tv66v%2b0GprQ%3d%3d",
+      "data-id3": "Fo0P4fSLQAXrq0l2NbW7oA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756223"
+  },
+  {
+    "uid": "153858_9169_12282889_28112040",
+    "course_code": "AAAS-103-01",
+    "title": "INTRO TO AFRICAN STUDIES.AAAS-103-01.CULANTH-105-01.HISTORY-129-01.ICS-110-01.POLSCI-108-01.",
+    "instructor": "Piot, Charlie",
+    "term": "Fall 2023",
+    "area": "AFRAMRST",
+    "response_rate": "17 of 43  responded (39.53%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "0m0wWebJJGm8q%2fzoS7kETA%3d%3d",
+      "data-id3": "0RXuugHTpnV8S70TMJoroQ%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756310"
+  },
+  {
+    "uid": "153858_9169_12282899_27991797",
+    "course_code": "AMES-186-01",
+    "title": "TURKS AND EUROPE.AMES-186-01.HISTORY-212-01.RELIGION-228-01.SES-287-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "N%2fEhuAt0GGy1s2MpUJdgkQ%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "HISTORY",
+      "RELIGION",
+      "SES"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756402"
+  },
+  {
+    "uid": "153858_9169_12282928_28111943",
+    "course_code": "ECON-311-01",
+    "title": "HISTORY OF ECONOMIC THOUGHT.ECON-311-01.HISTORY-307-01.",
+    "instructor": "Brent, Jason",
+    "term": "Fall 2023",
+    "area": "ECONOMICS",
+    "response_rate": "22 of 25  responded (88.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98985",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "EVjQHn0m1FFo06fQPp595Q%3d%3d",
+      "data-id3": "z6tnjWIWw0R6FObvPRYkDg%3d%3d"
+    },
+    "department_codes": [
+      "ECON",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756488"
+  },
+  {
+    "uid": "153858_9169_12282930_27446062",
+    "course_code": "HISTORY-226-01",
+    "title": "ANCIENT AND EARLY MODERN JAPAN.HISTORY-226-01.AMES-167-01.",
+    "instructor": "Partner, Simon",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "s3rErhPfBkM%2fHVCJX8wRdg%3d%3d",
+      "data-id3": "EzGdAKgnP4kzJZQMdoNKNQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756570"
+  },
+  {
+    "uid": "153858_9169_12282972_27446125",
+    "course_code": "SPANISH-437S-01",
+    "title": "MIGRATION/EXILE/SECOND SLAVERY.SPANISH-437S-01.HISTORY-425S-01.ICS-435S-01.",
+    "instructor": "Rodriguez-Garcia, Jose",
+    "term": "Fall 2023",
+    "area": "ROMANCE",
+    "response_rate": "13 of 14  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "LvMatArOcI0a4Ttky%2bzygw%3d%3d",
+      "data-id3": "VO5Y3zp6ilV5z1JVm0Iazw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756656"
+  },
+  {
+    "uid": "153858_9169_12282984_28112108",
+    "course_code": "RUSSIAN-325-01",
+    "title": "TOLSTOY AND RUSSIAN EXPERIENCE.RUSSIAN-325-01.HISTORY-277-01.",
+    "instructor": "Apollonio, Carol",
+    "term": "Fall 2023",
+    "area": "SLAVICS",
+    "response_rate": "10 of 18  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99031",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "%2fKrS3SWwJNFl3%2bYF5jW5vw%3d%3d",
+      "data-id3": "cS4y3fGUQ%2ba96OxQsYKc1w%3d%3d"
+    },
+    "department_codes": [
+      "RUSSIAN",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756743"
+  },
+  {
+    "uid": "153858_9169_12282996_28112041",
+    "course_code": "HISTORY-279-01",
+    "title": "MODERN TERRORISM.HISTORY-279-01.ICS-276-01.",
+    "instructor": "Miller, Martin",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "17 of 25  responded (68.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "iaD2PylpfT7fpTL%2buMZhBA%3d%3d",
+      "data-id3": "L06Cubwv%2faSS8I4w%2bwLKZQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756825"
+  },
+  {
+    "uid": "153858_9169_12283014_27991355",
+    "course_code": "HISTORY-119FS-01",
+    "title": "RELIGIOUS FREEDOM IN AMERICA.HISTORY-119FS-01.RELIGION-118FS-01.",
+    "instructor": "Wood Crowley, Jenny",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "14 of 18  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "cC3q2hl4lVOU7kpm6vbgXA%3d%3d",
+      "data-id3": "T8W9fg%2bFQ7Sbx5h1cWYUAw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:30.756910"
+  },
+  {
+    "uid": "153858_9169_12283016_28111931",
+    "course_code": "RELIGION-261-01",
+    "title": "HISTORY TO FANTASY: RELIGIONS.RELIGION-261-01.ENGLISH-254-01.GSF-261-01.HISTORY-244-01.MEDREN-354-01.",
+    "instructor": "Dubois, Katharine",
+    "term": "Fall 2023",
+    "area": "RELIGION",
+    "response_rate": "6 of 25  responded (24.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "YNU6SqlBc6BEivEL83GThw%3d%3d",
+      "data-id3": "EketNiIHngD8k0sI2y46iA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "ENGLISH",
+      "GSF",
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:30.756995"
+  },
+  {
+    "uid": "153858_9169_12283021_28112135",
+    "course_code": "PUBPOL-171FS-01",
+    "title": "BEYOND DENIAL.PUBPOL-171FS-01.ECON-182FS-01.ETHICS-182FS-01.HISTORY-170FS-01.",
+    "instructor": "Philipsen, Dirk",
+    "term": "Fall 2023",
+    "area": "PPS",
+    "response_rate": "14 of 18  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "6v%2fSDnXXTatfoirwVbr%2bJg%3d%3d",
+      "data-id3": "e%2bMpAzY2ccNJ8vl%2fnMXeRg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:30.757107"
+  },
+  {
+    "uid": "153858_9169_12283043_28112041",
+    "course_code": "HISTORY-166S-01",
+    "title": "GTWY SEM- ANARCHISM.HISTORY-166S-01.ICS-166S-01.",
+    "instructor": "Miller, Martin",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "12 of 17  responded (70.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "jZB6L2Nj%2b5YLEnFHBSmIng%3d%3d",
+      "data-id3": "L06Cubwv%2faSS8I4w%2bwLKZQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.505799"
+  },
+  {
+    "uid": "153858_9169_12283078_28112048",
+    "course_code": "HISTORY-124-01",
+    "title": "HISTORY OF THE PRESENT.HISTORY-124-01.PUBPOL-123-01.",
+    "instructor": "Marquez, Cecilia",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "54 of 71  responded (76.06%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "9P8PHEeXiSDFapPpQxtOMQ%3d%3d",
+      "data-id3": "mxOpu94XmpYMsc56LLXxdg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.505894"
+  },
+  {
+    "uid": "153858_9169_12283078_28112155",
+    "course_code": "HISTORY-124-01",
+    "title": "HISTORY OF THE PRESENT.HISTORY-124-01.PUBPOL-123-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "54 of 71  responded (76.06%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "9P8PHEeXiSDFapPpQxtOMQ%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.505975"
+  },
+  {
+    "uid": "153858_9169_12283099_27991644",
+    "course_code": "HISTORY-117-01",
+    "title": "RENAISSANCE & REVOLUTION.HISTORY-117-01.MEDREN-125-01.",
+    "instructor": "Martin, John",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "fkO95N2rJeEePrbWEGoQ7A%3d%3d",
+      "data-id3": "ZLUpJW0VbP9yINWyqSbssg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506058"
+  },
+  {
+    "uid": "153858_9169_12283111_27797712",
+    "course_code": "CLST-283-01",
+    "title": "GREEK HISTORY.CLST-283-01.HISTORY-230-01.",
+    "instructor": "Sosin, Joshua",
+    "term": "Fall 2023",
+    "area": "CLASSICAL",
+    "response_rate": "20 of 32  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "R32%2bRV2HfqRjW993B8Iduw%3d%3d",
+      "data-id3": "iQw4tN%2fOx9WkzH8YJdJbEQ%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506362"
+  },
+  {
+    "uid": "153858_9169_12283131_28112048",
+    "course_code": "HISTORY-366S-01",
+    "title": "LATINX SOCIAL MOVEMENTS.HISTORY-366S-01.LSGS-366S-01.",
+    "instructor": "Marquez, Cecilia",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "f590dguMFqov%2fqwmABRHZA%3d%3d",
+      "data-id3": "mxOpu94XmpYMsc56LLXxdg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506482"
+  },
+  {
+    "uid": "153858_9169_12283132_28112155",
+    "course_code": "HISTORY-198-01",
+    "title": "INTRO TO ASIAN AMERICAN HIST.HISTORY-198-01.AADS-198-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Fall 2023",
+    "area": "HISTORY",
+    "response_rate": "20 of 27  responded (74.07%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "By7kH6I%2fFLaRN0yevp%2fQpw%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AADS"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506585"
+  },
+  {
+    "uid": "153858_9169_12283240_28112142",
+    "course_code": "PUBPOL-205-01",
+    "title": "US & WORLD, 1898 TO PRESENT.PUBPOL-205-01.HISTORY-375-01.POLSCI-215-01.",
+    "instructor": "Colbourn, Susan",
+    "term": "Fall 2023",
+    "area": "PPS",
+    "response_rate": "6 of 17  responded (35.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "KPqvyAj1EgvJdkz7PjVp5A%3d%3d",
+      "data-id3": "C5KxTynsMvzQGSj8gtj%2fBA%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506686"
+  },
+  {
+    "uid": "161337_9470_12750512_27991648",
+    "course_code": "HISTORY-384-01",
+    "title": "CHINA SINCE 1949.HISTORY-384-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "%2bu5QQsHzm3WogKoFzeE0Sg%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506785"
+  },
+  {
+    "uid": "161337_9470_12750549_28807752",
+    "course_code": "HISTORY-387S-01",
+    "title": "HISTORY THROUGH FICTION.HISTORY-387S-01.",
+    "instructor": "Balakrishnan, Sarah",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "12 of 12  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "aqB1%2bwG5jvvhtWhmIMai7w%3d%3d",
+      "data-id3": "mSP%2fFMDdZ494w3Uv7Hu4gw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.506902"
+  },
+  {
+    "uid": "161337_9470_12750551_28807759",
+    "course_code": "HISTORY-390S-02",
+    "title": "TOPICS IN HISTORY SEMINAR.HISTORY-390S-02.",
+    "instructor": "Braswell, Arthur",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "7 of 13  responded (53.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "b0vVwZvPjYCtUKKr0VQulw%3d%3d",
+      "data-id3": "xm8oGWOoGg%2fD89bWdhLeUg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.507394"
+  },
+  {
+    "uid": "161337_9470_12750603_27991569",
+    "course_code": "HISTORY-476S-01",
+    "title": "CAP SEM: AMERICAN MILITARISM.HISTORY-476S-01.",
+    "instructor": "Bonker, Dirk",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "32HND2oIEpSfPBvQqH7kwA%3d%3d",
+      "data-id3": "Awmn0%2bGfuxWU6dkeivrVeQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.507555"
+  },
+  {
+    "uid": "161337_9470_12750643_28112155",
+    "course_code": "HISTORY-332S-01",
+    "title": "THEORIZING LIBERATION.HISTORY-332S-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "OHzGgJK55Zohya8N0afaMg%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.507707"
+  },
+  {
+    "uid": "161337_9470_12750647_28111927",
+    "course_code": "HISTORY-363-01",
+    "title": "CAPITALISM IN THE U.S..HISTORY-363-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 10  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "51pvtuL6tUAsvdcuOh9eHQ%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508233"
+  },
+  {
+    "uid": "161337_9470_12750791_28112114",
+    "course_code": "HISTORY-260-01",
+    "title": "MAGIC/REL/SCI SINCE 1400.HISTORY-260-01.MEDREN-287-01.SCISOC-260-01.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "23 of 26  responded (88.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "orhHG51ICyUNTbOTh1C7iA%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508323"
+  },
+  {
+    "uid": "161337_9470_12750827_27991355",
+    "course_code": "POLSCI-267-01",
+    "title": "RELIGION AND US POLITICS.POLSCI-267-01.HISTORY-247-01.",
+    "instructor": "Wood Crowley, Jenny",
+    "term": "Spring 2024",
+    "area": "POLISCI",
+    "response_rate": "19 of 21  responded (90.48%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99024",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "kH3CdDzW6ZS48bQ%2bRiPdlA%3d%3d",
+      "data-id3": "T8W9fg%2bFQ7Sbx5h1cWYUAw%3d%3d"
+    },
+    "department_codes": [
+      "POLSCI",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508405"
+  },
+  {
+    "uid": "161337_9470_12750852_27466679",
+    "course_code": "CLST-290S-02",
+    "title": "SPECIAL TOPICS.CLST-290S-02.HISTORY-290S-02.",
+    "instructor": "Casias, Cassandra",
+    "term": "Spring 2024",
+    "area": "CLASSICAL",
+    "response_rate": "7 of 17  responded (41.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "1cT312A0IpBhu6%2f0IeJgyA%3d%3d",
+      "data-id3": "aY64I15J7j0YoYpvSZvf%2bA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508484"
+  },
+  {
+    "uid": "161337_9470_12750872_28112031",
+    "course_code": "HISTORY-201-01",
+    "title": "GLOBALIZATION AND HISTORY.HISTORY-201-01.PUBPOL-236-01.",
+    "instructor": "Zanalda, Giovanni",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "13 of 45  responded (28.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "56DF4r4tf1X9tnT%2fq9WQ8w%3d%3d",
+      "data-id3": "x3iRlj8pUb3j8pUQ9Nnupw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508560"
+  },
+  {
+    "uid": "161337_9470_12750896_28112195",
+    "course_code": "ETHICS-89S-02",
+    "title": "FIRST-YEAR SEMINAR (TOP).ETHICS-89S-02.HISTORY-89S-04.I&E-89S-02.MUSIC-89S-02.",
+    "instructor": "Mlyn, Eric",
+    "term": "Spring 2024",
+    "area": "ETHICS",
+    "response_rate": "12 of 15  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98991",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "hbRhRpUhDQBbIn5SxxMfFg%3d%3d",
+      "data-id3": "iic89moj8yZQcx9l2mj8xg%3d%3d"
+    },
+    "department_codes": [
+      "ETHICS",
+      "HISTORY",
+      "I&E",
+      "MUSIC"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508637"
+  },
+  {
+    "uid": "161337_9470_12750905_28112245",
+    "course_code": "ENVIRON-299S-01",
+    "title": "CLIMATE, SCIENCE, AND SOCIETY.ENVIRON-299S-01.HISTORY-299S-01.",
+    "instructor": "Shapiro, Justin",
+    "term": "Spring 2024",
+    "area": "NSOE",
+    "response_rate": "12 of 13  responded (92.31%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99019",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "NsK6pcVCoNVdnAf10x6R7w%3d%3d",
+      "data-id3": "3l3IpxnObDRHm8EubfXswA%3d%3d"
+    },
+    "department_codes": [
+      "ENVIRON",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:31.508712"
+  },
+  {
+    "uid": "161337_9470_12750907_28112054",
+    "course_code": "HISTORY-131S-01",
+    "title": "GLOBAL HISTORY OF EXTRACTION.HISTORY-131S-01.ENVIRON-131S-01.ICS-131S-01.",
+    "instructor": "Shutzer, Matthew",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "CQ17P%2bgGsX4MYnoVDH%2bNoA%3d%3d",
+      "data-id3": "I%2fVBtTsFZSrO4GcxYAe%2fKg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ENVIRON",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.242122"
+  },
+  {
+    "uid": "161337_9470_12750913_27446152",
+    "course_code": "SES-375S-01",
+    "title": "SOCIAL ENGINEERING & MOVEMENTS.SES-375S-01.HISTORY-333S-01.POLSCI-359S-01.PUBPOL-282S-01.",
+    "instructor": "Tuna, Mustafa",
+    "term": "Spring 2024",
+    "area": "SLAVICS",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99031",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Z4NGfkEt%2fAWiXZhHKqd5%2bw%3d%3d",
+      "data-id3": "8v8M39D97BTeJdsCR3fS%2fw%3d%3d"
+    },
+    "department_codes": [
+      "SES",
+      "HISTORY",
+      "POLSCI",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.242231"
+  },
+  {
+    "uid": "161337_9470_12750917_28112135",
+    "course_code": "PUBPOL-249-01",
+    "title": "LIFE WITHIN CAPITALISM.PUBPOL-249-01.ECON-270-01.ETHICS-271-01.HISTORY-284-01.POLSCI-252-01.",
+    "instructor": "Philipsen, Dirk",
+    "term": "Spring 2024",
+    "area": "PPS",
+    "response_rate": "19 of 19  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Eb5%2bR7W96MsyfTs1ajDdBg%3d%3d",
+      "data-id3": "e%2bMpAzY2ccNJ8vl%2fnMXeRg%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "ECON",
+      "ETHICS",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.242366"
+  },
+  {
+    "uid": "161337_9470_12750930_27446163",
+    "course_code": "LATAMER-480S-01",
+    "title": "APPLIED LATIN AMERICAN STUDIES.LATAMER-480S-01.HISTORY-401S-01.ROMST-480S-01.",
+    "instructor": "Semmler, Patrick",
+    "term": "Spring 2024",
+    "area": "LACS",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99005",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Lsc6No3JirGfBoVFMUmAHA%3d%3d",
+      "data-id3": "ao2kKK8SikWjAzYN8gIc7w%3d%3d"
+    },
+    "department_codes": [
+      "LATAMER",
+      "HISTORY",
+      "ROMST"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.242534"
+  },
+  {
+    "uid": "161337_9470_12750945_28807752",
+    "course_code": "HISTORY-147-01",
+    "title": "GLOBAL HISTORY OF THE PRISON.HISTORY-147-01.AAAS-147-01.ICS-147-01.",
+    "instructor": "Balakrishnan, Sarah",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "38 of 47  responded (80.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "IAzs4li5EMYq62Oo%2bFVYFg%3d%3d",
+      "data-id3": "mSP%2fFMDdZ494w3Uv7Hu4gw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.242872"
+  },
+  {
+    "uid": "161337_9470_12750947_28807848",
+    "course_code": "HISTORY-345-01",
+    "title": "NORTH AMERICAN ENVIRONMNTL HST.HISTORY-345-01.ICS-340-01.PUBPOL-278-01.",
+    "instructor": "Conway, Hannah",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "21 of 26  responded (80.77%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "UQmoUbbKumRFXGKUTnY47g%3d%3d",
+      "data-id3": "J%2bXviqV97i9QQSXFK9hrEQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243083"
+  },
+  {
+    "uid": "161337_9470_12750960_27991730",
+    "course_code": "CLST-360-01",
+    "title": "HISTORY OF THE BOOK.CLST-360-01.HISTORY-367-01.ISS-360-01.MEDREN-346-01.",
+    "instructor": "Woods, Jennifer",
+    "term": "Spring 2024",
+    "area": "CLASSICAL",
+    "response_rate": "10 of 20  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "UU13wN9wKHNZ%2bPebtWRMFg%3d%3d",
+      "data-id3": "PN7aohsRiTF7ccCwQeZQcA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "ISS",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243248"
+  },
+  {
+    "uid": "161337_9470_12750979_27446020",
+    "course_code": "ITALIAN-281-01",
+    "title": "DANTE'S DIVINE COMEDY.ITALIAN-281-01.HISTORY-253-01.LIT-245-01.MEDREN-341-01.RELIGION-262-01.",
+    "instructor": "Eisner, Martin",
+    "term": "Spring 2024",
+    "area": "ROMANCE",
+    "response_rate": "11 of 42  responded (26.19%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "TwTSQ0NXfXk1awWTK0o05Q%3d%3d",
+      "data-id3": "5o2f8PRKYjSeGCZz%2bMoH9Q%3d%3d"
+    },
+    "department_codes": [
+      "ITALIAN",
+      "HISTORY",
+      "LIT",
+      "MEDREN",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243345"
+  },
+  {
+    "uid": "161337_9470_12750991_27797712",
+    "course_code": "CLST-307-01",
+    "title": "ATHENIAN LAW.CLST-307-01.HISTORY-413-01.POLSCI-380-01.",
+    "instructor": "Sosin, Joshua",
+    "term": "Spring 2024",
+    "area": "CLASSICAL",
+    "response_rate": "16 of 28  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "YeT34CQ5Zf4GvEmN0NEtDA%3d%3d",
+      "data-id3": "iQw4tN%2fOx9WkzH8YJdJbEQ%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243433"
+  },
+  {
+    "uid": "161337_9470_12751000_27991797",
+    "course_code": "AMES-296S-01",
+    "title": "TURKISH HISTORY.AMES-296S-01.CULANTH-297S-01.HISTORY-283S-01.ICS-345S-01.LIT-276S-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "5X0tB5dt5TPv3%2fdKD5BLWg%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "LIT"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243516"
+  },
+  {
+    "uid": "161337_9470_12751002_27446132",
+    "course_code": "AAAS-349S-01",
+    "title": "CONTEMPORARY SOUTH AFRICA.AAAS-349S-01.HISTORY-259S-01.POLSCI-368S-01.PUBPOL-321S-01.RIGHTS-351S-01.SOCIOL-259S-01.",
+    "instructor": "Shapiro, Karin",
+    "term": "Spring 2024",
+    "area": "AFRAMRST",
+    "response_rate": "15 of 16  responded (93.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "vX1JLnAnbplfbQhyfqSMHQ%3d%3d",
+      "data-id3": "yE7KOjM%2bqKr1WotVPjMxlg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "HISTORY",
+      "POLSCI",
+      "PUBPOL",
+      "RIGHTS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243597"
+  },
+  {
+    "uid": "161337_9470_12751046_27466679",
+    "course_code": "CLST-284-01",
+    "title": "ROMAN HISTORY.CLST-284-01.HISTORY-233-01.",
+    "instructor": "Casias, Cassandra",
+    "term": "Spring 2024",
+    "area": "CLASSICAL",
+    "response_rate": "15 of 43  responded (34.88%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "HsYva%2ftBhxGRShlZFvknKA%3d%3d",
+      "data-id3": "aY64I15J7j0YoYpvSZvf%2bA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243679"
+  },
+  {
+    "uid": "161337_9470_12751072_28112057",
+    "course_code": "HISTORY-297-01",
+    "title": "THE HOLOCAUST.HISTORY-297-01.JEWISHST-342-01.POLSCI-262-01.RELIGION-342-01.RIGHTS-297-01.",
+    "instructor": "Gengler, Peter",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 35  responded (28.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "ojWwMPK1xHJZfSVcGYLpaw%3d%3d",
+      "data-id3": "AllbnainByVBnWBc0fw49A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "JEWISHST",
+      "POLSCI",
+      "RELIGION",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243763"
+  },
+  {
+    "uid": "161337_9470_12751074_28112130",
+    "course_code": "DOCST-326-01",
+    "title": "THE SOUTH IN BLACK AND WHITE.DOCST-326-01.AAAS-230-01.HISTORY-358-01.RIGHTS-326-01.",
+    "instructor": "Tyson, Timothy",
+    "term": "Spring 2024",
+    "area": "DOCST",
+    "response_rate": "6 of 25  responded (24.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Pxm38JxrAF91Q%2fFDx%2f7ecw%3d%3d",
+      "data-id3": "1EjSlNblt1re%2f7bluAFWkQ%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "AAAS",
+      "HISTORY",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243847"
+  },
+  {
+    "uid": "161337_9470_12751074_28807832",
+    "course_code": "DOCST-326-01",
+    "title": "THE SOUTH IN BLACK AND WHITE.DOCST-326-01.AAAS-230-01.HISTORY-358-01.RIGHTS-326-01.",
+    "instructor": "Williams, Mary",
+    "term": "Spring 2024",
+    "area": "DOCST",
+    "response_rate": "6 of 25  responded (24.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Pxm38JxrAF91Q%2fFDx%2f7ecw%3d%3d",
+      "data-id3": "dwL%2b2%2bWxqJ%2fR9AIzdJ6wzA%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "AAAS",
+      "HISTORY",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.243927"
+  },
+  {
+    "uid": "161337_9470_12751078_28807839",
+    "course_code": "HISTORY-287-01",
+    "title": "HISTORY OF WORLD WARS.HISTORY-287-01.ICS-287-01.",
+    "instructor": "McKinnon, Garrett",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "15 of 23  responded (65.22%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "W9IIY1zuWO0TfStI578A9w%3d%3d",
+      "data-id3": "xla5nLxBCdeiqmwD0XE%2bvg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.244006"
+  },
+  {
+    "uid": "161337_9470_12751079_28112123",
+    "course_code": "AAAS-335-01",
+    "title": "HISTORY OF HIP-HOP.AAAS-335-01.CULANTH-335-01.ENGLISH-381-01.HISTORY-335-01.MUSIC-335-01.VMS-337-01.",
+    "instructor": "Douthit, Patrick",
+    "term": "Spring 2024",
+    "area": "AFRAMRST",
+    "response_rate": "15 of 136  responded (11.03%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Jtxi1V3huOUrcnmMzmgnhg%3d%3d",
+      "data-id3": "jkemIZ6c26zI3B0%2bARLaCg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "ENGLISH",
+      "HISTORY",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.244091"
+  },
+  {
+    "uid": "161337_9470_12751085_28111787",
+    "course_code": "PUBPOL-290-02",
+    "title": "SELECTED TOPICS.PUBPOL-290-02.HISTORY-290-02.",
+    "instructor": "Nurkin, Andrew",
+    "term": "Spring 2024",
+    "area": "PPS",
+    "response_rate": "12 of 18  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "kAXpo3Tmu5KhwUVMg%2buoBA%3d%3d",
+      "data-id3": "dWCUEqHuJ5YY3BUAKTFxfQ%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.244172"
+  },
+  {
+    "uid": "161337_9470_12751112_28112034",
+    "course_code": "GSF-386S-01",
+    "title": "POLITICS OF SEXUALITY.GSF-386S-01.HISTORY-346S-01.PUBPOL-383S-01.RIGHTS-386S-01.SXL-386S-01.",
+    "instructor": "Gelfand, Rachel",
+    "term": "Spring 2024",
+    "area": "GSF",
+    "response_rate": "10 of 12  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "lIgiO9td%2bIvZ0eK5K1zERA%3d%3d",
+      "data-id3": "I222ioYFwEO7qHXxdme02w%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "HISTORY",
+      "PUBPOL",
+      "RIGHTS",
+      "SXL"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.244252"
+  },
+  {
+    "uid": "161337_9470_12751126_28112049",
+    "course_code": "CLST-222-01",
+    "title": "THE AGE OF NERO.CLST-222-01.HISTORY-241-01.",
+    "instructor": "Ginsberg, Lauren",
+    "term": "Spring 2024",
+    "area": "CLASSICAL",
+    "response_rate": "8 of 30  responded (26.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "dNYQPJMQcLJkSkLiSaT%2f8Q%3d%3d",
+      "data-id3": "JiZG5GQGqiXCmB3gOcrCHA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:34.244328"
+  },
+  {
+    "uid": "161337_9470_12751132_28112017",
+    "course_code": "HISTORY-365D-001",
+    "title": "THE MODERN REGULATORY STATE.HISTORY-365D-001.ENVIRON-365D-001.POLSCI-340D-001.PUBPOL-219D-001.SOCIOL-365D-001.",
+    "instructor": "Cinq-Mars, Tom J.",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "35 of 40  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "wz6opnUWAC4NOBV4cChCug%3d%3d",
+      "data-id3": "LvRYdA1Zk1L4CoUZAYPjLw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ENVIRON",
+      "POLSCI",
+      "PUBPOL",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.004446"
+  },
+  {
+    "uid": "161337_9470_12751133_28111934",
+    "course_code": "HISTORY-316S-01",
+    "title": "THE ATLANTIC SLAVE TRADE.HISTORY-316S-01.AAAS-217S-01.ICS-209S-01.MEDREN-292S-01.",
+    "instructor": "Gaspar, Barry",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 17  responded (35.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "w2ymo1dkuNwKpx%2fgBdXXCA%3d%3d",
+      "data-id3": "ZeKTO775PcqkoQuFjQ7psA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "ICS",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.004547"
+  },
+  {
+    "uid": "161337_9470_12751138_28807840",
+    "course_code": "HISTORY-286-01",
+    "title": "EUROPE IN TWENTIETH CENT.HISTORY-286-01.ICS-237-01.",
+    "instructor": "Chappel, James",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "31 of 38  responded (81.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "6o7hcOhPpuUv%2fHBcGLOfUw%3d%3d",
+      "data-id3": "hdrdTZWzXzyG1zy6WBfulw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.004626"
+  },
+  {
+    "uid": "161337_9470_12751150_28112081",
+    "course_code": "AADS-201-01",
+    "title": "INTRO ASIAN AMER DIASP STUDIES.AADS-201-01.AMES-276-01.ENGLISH-275-01.GSF-203-01.HISTORY-274-01.ICS-286-01.",
+    "instructor": "Storti, Anna",
+    "term": "Spring 2024",
+    "area": "AADS",
+    "response_rate": "13 of 29  responded (44.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98962",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "O8Np3oJ7qPycgwjh%2fPa%2biw%3d%3d",
+      "data-id3": "FDuC1pf7TuAoxbjHGfo5oA%3d%3d"
+    },
+    "department_codes": [
+      "AADS",
+      "AMES",
+      "ENGLISH",
+      "GSF",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.004833"
+  },
+  {
+    "uid": "161337_9470_12751160_28807776",
+    "course_code": "GSF-275-01",
+    "title": "FOOD, FARMING, AND FEMINISM.GSF-275-01.ENVIRON-209-01.GLHLTH-225-01.HISTORY-221-01.",
+    "instructor": "Cornes, Saskia",
+    "term": "Spring 2024",
+    "area": "GSF",
+    "response_rate": "24 of 29  responded (82.76%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "9Rr2xZxIhh%2ftl4ys4Q2ufg%3d%3d",
+      "data-id3": "RS%2bE7xFk4c2YAQm1nh%2fo5A%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "ENVIRON",
+      "GLHLTH",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.004961"
+  },
+  {
+    "uid": "161337_9470_12751170_27445972",
+    "course_code": "GERMAN-261-01",
+    "title": "THE VIKING AGE.GERMAN-261-01.HISTORY-256-01.MEDREN-305-01.",
+    "instructor": "Norberg, Jakob",
+    "term": "Spring 2024",
+    "area": "GERMAN",
+    "response_rate": "11 of 38  responded (28.95%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98994",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "RvpUcpR033B%2frGMFHPCHkA%3d%3d",
+      "data-id3": "xWqVlab6JFvlloB3bRZY8g%3d%3d"
+    },
+    "department_codes": [
+      "GERMAN",
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005067"
+  },
+  {
+    "uid": "161337_9470_12751183_28112078",
+    "course_code": "HISTORY-112-01",
+    "title": "SEXUAL PLEASURE/MODERN WORLD.HISTORY-112-01.SXL-116-01.",
+    "instructor": "Sigal, Peter",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "20 of 70  responded (28.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "O0g0QtpkMGTg%2bzAyd6tFbQ%3d%3d",
+      "data-id3": "Y%2bNhBL%2buLHPaktukAFTdpg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "SXL"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005152"
+  },
+  {
+    "uid": "161337_9470_12751188_28807841",
+    "course_code": "HISTORY-251-01",
+    "title": "JEWISH HISTORY, 1492-PRESENT.HISTORY-251-01.ICS-253-01.JEWISHST-251-01.RELIGION-340-01.",
+    "instructor": "Hacohen, Malachi",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "11 of 13  responded (84.62%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "SovMcgFofarVVDwsZUZr1w%3d%3d",
+      "data-id3": "%2fr%2foy16aiofZRjW%2bCwt3IA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS",
+      "JEWISHST",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005235"
+  },
+  {
+    "uid": "161337_9470_12751190_28112164",
+    "course_code": "PUBPOL-411S-01",
+    "title": "HISTORICIZING WHITENESS.PUBPOL-411S-01.HISTORY-411S-01.RIGHTS-411S-01.",
+    "instructor": "Peck, Gunther",
+    "term": "Spring 2024",
+    "area": "PPS",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "kA3ScG6u7mYA3ZOuL1oInQ%3d%3d",
+      "data-id3": "Fo0P4fSLQAXrq0l2NbW7oA%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005321"
+  },
+  {
+    "uid": "161337_9470_12751203_27991555",
+    "course_code": "GERMAN-387-01",
+    "title": "GERMANY CONFRONTS HOLOCAUST.GERMAN-387-01.HISTORY-261-01.JEWISHST-369-01.LIT-369-01.RIGHTS-387-01.",
+    "instructor": "Gellen, Kata",
+    "term": "Spring 2024",
+    "area": "GERMAN",
+    "response_rate": "16 of 28  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98994",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "5Kd8cr30QpKnwIOrtQi%2fKw%3d%3d",
+      "data-id3": "04OniV0Tp784oyJoHl%2f6kA%3d%3d"
+    },
+    "department_codes": [
+      "GERMAN",
+      "HISTORY",
+      "JEWISHST",
+      "LIT",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005404"
+  },
+  {
+    "uid": "161337_9470_12751210_28111912",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Harris, Deonte",
+    "term": "Spring 2024",
+    "area": "ICS",
+    "response_rate": "17 of 29  responded (58.62%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "7xLOTorrr7v2J8zoXJVuuw%3d%3d",
+      "data-id3": "qyQBQV6kAh7KiHrvi1vq2g%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005488"
+  },
+  {
+    "uid": "161337_9470_12751261_28807815",
+    "course_code": "HISTORY-106-01",
+    "title": "SCIENCE AND THE MODERN WORLD.HISTORY-106-01.ICS-118-01.SCISOC-118-01.",
+    "instructor": "Shareef, Shahrazad",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "11 of 17  responded (64.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "04RPNnGUl4UaYcvgcuNH3g%3d%3d",
+      "data-id3": "CsvE3nJcKUb2Sc6xCoOXvw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005570"
+  },
+  {
+    "uid": "161337_9470_12751283_27446043",
+    "course_code": "CULANTH-104-01",
+    "title": "INTRODUCTION TO HUMAN RIGHTS.CULANTH-104-01.HISTORY-116-01.ICS-113-01.PUBPOL-162-01.RIGHTS-104-01.",
+    "instructor": "Kirk, Robin",
+    "term": "Spring 2024",
+    "area": "CULANTHRO",
+    "response_rate": "22 of 23  responded (95.65%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "W3pgKdLR%2fl0ISKEZYLWxlQ%3d%3d",
+      "data-id3": "IuTbFH2enaM9AqjMr4eYsQ%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "PUBPOL",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005652"
+  },
+  {
+    "uid": "161337_9470_12751293_28807842",
+    "course_code": "HISTORY-218-01",
+    "title": "MODERN & GLOBAL INDIA.HISTORY-218-01.AMES-357-01.ARTHIST-218-01.ICS-218-01.",
+    "instructor": "Bhatnagar, Avrati",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "8 of 18  responded (44.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "HXAkSQinKxekvNaije1hEg%3d%3d",
+      "data-id3": "QhNihLqhyTwE7AvvBEtEAg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES",
+      "ARTHIST",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005761"
+  },
+  {
+    "uid": "161337_9470_12751307_28807765",
+    "course_code": "ECON-311-01",
+    "title": "HISTORY OF ECONOMIC THOUGHT.ECON-311-01.HISTORY-307-01.",
+    "instructor": "Medema, Steven",
+    "term": "Spring 2024",
+    "area": "ECONOMICS",
+    "response_rate": "35 of 38  responded (92.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98985",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Ro7nxtMzrkmUJniDB%2fg9LA%3d%3d",
+      "data-id3": "jbRLFYej1HMaoqpguLCIZA%3d%3d"
+    },
+    "department_codes": [
+      "ECON",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.005900"
+  },
+  {
+    "uid": "161325_9470_12752019_28807848",
+    "course_code": "HISTORY-591S-01",
+    "title": "ENVIRONMENTAL (HI)STORIES.HISTORY-591S-01.",
+    "instructor": "Conway, Hannah",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "nzYivnnHFNn62vf4ptg5CQ%3d%3d",
+      "data-id3": "J%2bXviqV97i9QQSXFK9hrEQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.006061"
+  },
+  {
+    "uid": "161325_9470_12752213_27991426",
+    "course_code": "PUBPOL-509-01",
+    "title": "MODERN INTELLIGENCE HISTORY.PUBPOL-509-01.HISTORY-509-01.",
+    "instructor": "Siegel, Jennifer",
+    "term": "Spring 2024",
+    "area": "PPS",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98296",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "XulR5z%2bWGJIGnd0CrzLVXg%3d%3d",
+      "data-id3": "qBTUU%2fmZ4GN1igZ%2biKEmWg%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.006163"
+  },
+  {
+    "uid": "161337_9470_12907548_28112017",
+    "course_code": "HISTORY-365D-01D",
+    "title": "THE MODERN REGULATORY STATE.HISTORY-365D-01D.ENVIRON-365D-01D.POLSCI-340D-01D.PUBPOL-219D-01D.SOCIOL-365D-01D.",
+    "instructor": "Cinq-Mars, Tom J.",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "12 of 20  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "qhlE8NJLvz7sAO37EcxPUw%3d%3d",
+      "data-id3": "LvRYdA1Zk1L4CoUZAYPjLw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:35.006250"
+  },
+  {
+    "uid": "161337_9470_12907557_28112017",
+    "course_code": "HISTORY-365D-02D",
+    "title": "THE MODERN REGULATORY STATE.HISTORY-365D-02D.ENVIRON-365D-02D.POLSCI-340D-02D.PUBPOL-219D-02D.SOCIOL-365D-02D.",
+    "instructor": "Cinq-Mars, Tom J.",
+    "term": "Spring 2024",
+    "area": "HISTORY",
+    "response_rate": "9 of 20  responded (45.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "e1TrjPSXMM6lMSfIDhkQqw%3d%3d",
+      "data-id3": "LvRYdA1Zk1L4CoUZAYPjLw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:35.006331"
+  },
+  {
+    "uid": "167891_9753_13291473_27991405",
+    "course_code": "PUBPOL-390A-01",
+    "title": "DUKE-ADM ST ABR: ADV TOP.PUBPOL-390A-01.HISTORY-390A-01.POLSCI-290A-01.",
+    "instructor": "Rogerson, Kenneth",
+    "term": "Summer I 2024",
+    "area": "PPS",
+    "response_rate": "17 of 17  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "6%2brhCO9lgM5iOp4aUS%2b8gg%3d%3d",
+      "data-id2": "Xbh6cTlxksXP1TXU5XbrWQ%3d%3d",
+      "data-id3": "Z%2b4PgL9uuXXOpZJh2Qusmw%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.006413"
+  },
+  {
+    "uid": "171571_9973_13645399_27991557",
+    "course_code": "HISTORY-553S-01",
+    "title": "URBAN HISTORIES.HISTORY-553S-01.",
+    "instructor": "Lentz-Smith, Adriane",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "UNonKHLZaKlwQ1Vo%2b4fTGQ%3d%3d",
+      "data-id3": "NkkiAsXWbfTfAu5gm%2ffSnA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758166"
+  },
+  {
+    "uid": "171571_9973_13645411_28807752",
+    "course_code": "HISTORY-790S-10-01",
+    "title": "RDNGS EMPR/COLONIAL ENCOUNTERS.HISTORY-790S-10-01.",
+    "instructor": "Balakrishnan, Sarah",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "G8%2bhoemD3RvRukPK%2bdPIlw%3d%3d",
+      "data-id3": "mSP%2fFMDdZ494w3Uv7Hu4gw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758263"
+  },
+  {
+    "uid": "171571_9973_13645466_27991569",
+    "course_code": "HISTORY-701S-01",
+    "title": "RESEARCH SEMINAR IN HISTORY.HISTORY-701S-01.",
+    "instructor": "Bonker, Dirk",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "Ml2KD7wOY4RW9MTVLkEAig%3d%3d",
+      "data-id3": "Awmn0%2bGfuxWU6dkeivrVeQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758344"
+  },
+  {
+    "uid": "171571_9973_13645598_27991644",
+    "course_code": "HISTORY-526S-01",
+    "title": "COLUMBUS: A GLOBAL HISTORY.HISTORY-526S-01.CULANTH-527S-01.MEDREN-554S-01.RELIGION-524S-01.ROMST-526S-01.",
+    "instructor": "Martin, John",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "PR73CJG2wKJMno6V0hgbHw%3d%3d",
+      "data-id3": "ZLUpJW0VbP9yINWyqSbssg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "CULANTH",
+      "MEDREN",
+      "RELIGION",
+      "ROMST"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758445"
+  },
+  {
+    "uid": "171571_9973_13645627_27991723",
+    "course_code": "POLSCI-562S-01",
+    "title": "AMERICAN GRAND STRATEGY.POLSCI-562S-01.HISTORY-567S-01.PUBPOL-501S-01.",
+    "instructor": "Feaver, Peter",
+    "term": "Fall 2024",
+    "area": "POLISCI",
+    "response_rate": "12 of 18  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98879",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "GeypqYSxOX%2f93gdaABNxQQ%3d%3d",
+      "data-id3": "oWExn8qLkUUm%2btaxOPbCow%3d%3d"
+    },
+    "department_codes": [
+      "POLSCI",
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758532"
+  },
+  {
+    "uid": "171571_9973_13645627_28112142",
+    "course_code": "POLSCI-562S-01",
+    "title": "AMERICAN GRAND STRATEGY.POLSCI-562S-01.HISTORY-567S-01.PUBPOL-501S-01.",
+    "instructor": "Colbourn, Susan",
+    "term": "Fall 2024",
+    "area": "POLISCI",
+    "response_rate": "12 of 18  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98879",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "GeypqYSxOX%2f93gdaABNxQQ%3d%3d",
+      "data-id3": "C5KxTynsMvzQGSj8gtj%2fBA%3d%3d"
+    },
+    "department_codes": [
+      "POLSCI",
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758612"
+  },
+  {
+    "uid": "171571_9973_13645649_28807841",
+    "course_code": "HISTORY-890S-14-01",
+    "title": "RESEARCH SEM IN CULTURAL HIS.HISTORY-890S-14-01.AADS-890S-01.AMES-890S-01.CULANTH-890S-02.POLSCI-890S-14-01.",
+    "instructor": "Hacohen, Malachi",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 10  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "40n8lXJ4BRx5MG0xhpjO%2bQ%3d%3d",
+      "data-id3": "%2fr%2foy16aiofZRjW%2bCwt3IA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AADS",
+      "AMES",
+      "CULANTH",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758692"
+  },
+  {
+    "uid": "171571_9973_13645706_30096928",
+    "course_code": "HISTORY-547S-01",
+    "title": "THE POLITICAL ECONOMY OF CARE.HISTORY-547S-01.PUBPOL-547S-01.",
+    "instructor": "Olcott, Jocelyn",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "7 of 17  responded (41.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "NWGww29Zd5mVhYy4WZxGww%3d%3d",
+      "data-id3": "XLP3XVbiaGHIFMz0geyeXw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758773"
+  },
+  {
+    "uid": "171571_9973_13645737_27991733",
+    "course_code": "LIT-650S-01",
+    "title": "HISTORY OF MENTAL ILLNESS.LIT-650S-01.HISTORY-650S-01.NEUROSCI-650S-01.PSY-650S-01.",
+    "instructor": "Bassiri, Nima",
+    "term": "Fall 2024",
+    "area": "LITERATURE",
+    "response_rate": "5 of 18  responded (27.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98858",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "1DHlnio9r1qxLNb7rqPFwA%3d%3d",
+      "data-id3": "gRFBCJ8VWFP172BM4DDsiw%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "HISTORY",
+      "NEUROSCI",
+      "PSY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758858"
+  },
+  {
+    "uid": "171571_9973_13645821_27446110",
+    "course_code": "EAS-700-01",
+    "title": "EAST ASIAN STUDIES CORE COURSE.EAS-700-01.AMES-700-01.HISTORY-707-01.RELIGION-700-01.",
+    "instructor": "Chow, Eileen",
+    "term": "Fall 2024",
+    "area": "EAS",
+    "response_rate": "8 of 18  responded (44.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98835",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WbPo5%2b9G3BTxgj8L%2bVsKbw%3d%3d",
+      "data-id3": "bQQFUoukquPG0h%2bvAo1agQ%3d%3d"
+    },
+    "department_codes": [
+      "EAS",
+      "AMES",
+      "HISTORY",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.758935"
+  },
+  {
+    "uid": "171571_9973_13645821_28807934",
+    "course_code": "EAS-700-01",
+    "title": "EAST ASIAN STUDIES CORE COURSE.EAS-700-01.AMES-700-01.HISTORY-707-01.RELIGION-700-01.",
+    "instructor": "Duara, Prasenjit",
+    "term": "Fall 2024",
+    "area": "EAS",
+    "response_rate": "8 of 18  responded (44.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98835",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WbPo5%2b9G3BTxgj8L%2bVsKbw%3d%3d",
+      "data-id3": "BGrAQZlsCM6dTxaR9GJCqA%3d%3d"
+    },
+    "department_codes": [
+      "EAS",
+      "AMES",
+      "HISTORY",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.759012"
+  },
+  {
+    "uid": "171550_9973_13686125_27991648",
+    "course_code": "HISTORY-111FS-01",
+    "title": "HISTORY OF GLOBAL HEALTH.HISTORY-111FS-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "12 of 18  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "8dRTy9sVVt5OCKd4PLFTrw%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:35.759088"
+  },
+  {
+    "uid": "171550_9973_13686162_30096913",
+    "course_code": "HISTORY-89S-03",
+    "title": "FIRST-YEAR SEMINAR (TOP).HISTORY-89S-03.",
+    "instructor": "Nunley, Tamika",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "bcyFHgaaceQg3zoxDA3s2w%3d%3d",
+      "data-id3": "uGFpPoWvsJtRJXFrMaA0lA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.759405"
+  },
+  {
+    "uid": "171550_9973_13686174_28111927",
+    "course_code": "HISTORY-362-01",
+    "title": "U S POLITICAL HST 1900-PRESENT.HISTORY-362-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "towXrGN%2fOmw2xXYBrebxuQ%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.759503"
+  },
+  {
+    "uid": "171550_9973_13686185_28807752",
+    "course_code": "HISTORY-387S-01",
+    "title": "HISTORY THROUGH FICTION.HISTORY-387S-01.",
+    "instructor": "Balakrishnan, Sarah",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "14 of 15  responded (93.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "FfqP6GJ5utqM4%2b8F7AUk1w%3d%3d",
+      "data-id3": "mSP%2fFMDdZ494w3Uv7Hu4gw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.759592"
+  },
+  {
+    "uid": "171550_9973_13686202_30187743",
+    "course_code": "HISTORY-89S-04",
+    "title": "FIRST-YEAR SEMINAR (TOP).HISTORY-89S-04.",
+    "instructor": "Lamotte, Melanie",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "vSAaZHkOWOkSY8aBy%2bc44g%3d%3d",
+      "data-id3": "pWOUoXiSCYWMK%2fSaEdBgmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.759678"
+  },
+  {
+    "uid": "171550_9973_13686247_28807840",
+    "course_code": "HISTORY-158S-01",
+    "title": "FASCISM: A HISTORY.HISTORY-158S-01.",
+    "instructor": "Chappel, James",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "12 of 16  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "yyVIZHzzSkdEENiEdxTJjg%3d%3d",
+      "data-id3": "hdrdTZWzXzyG1zy6WBfulw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.759764"
+  },
+  {
+    "uid": "171550_9973_13686412_27445847",
+    "course_code": "HISTORY-137FS-01",
+    "title": "MINOR UTOPIAS.HISTORY-137FS-01.DOCST-137FS-01.",
+    "instructor": "Henschel, Lauren",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 15  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "Yt3jF08Ows3%2fqyKp5SBNiQ%3d%3d",
+      "data-id3": "GGmw1Ir1r%2fMIlJiyRwBb0Q%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:35.759976"
+  },
+  {
+    "uid": "171550_9973_13686412_30096928",
+    "course_code": "HISTORY-137FS-01",
+    "title": "MINOR UTOPIAS.HISTORY-137FS-01.DOCST-137FS-01.",
+    "instructor": "Olcott, Jocelyn",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 15  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "Yt3jF08Ows3%2fqyKp5SBNiQ%3d%3d",
+      "data-id3": "XLP3XVbiaGHIFMz0geyeXw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:35.760075"
+  },
+  {
+    "uid": "171550_9973_13686429_27991557",
+    "course_code": "HISTORY-89S-02",
+    "title": "FIRST-YEAR SEMINAR (TOP).HISTORY-89S-02.AAAS-89S-02.",
+    "instructor": "Lentz-Smith, Adriane",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "qZ6BYn%2ffkCJQ9V%2ft3138pw%3d%3d",
+      "data-id3": "NkkiAsXWbfTfAu5gm%2ffSnA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS"
+    ],
+    "scraped_at": "2025-11-24T16:17:35.760173"
+  },
+  {
+    "uid": "171550_9973_13686514_27991355",
+    "course_code": "HISTORY-119FS-01",
+    "title": "RELIGIOUS FREEDOM IN AMERICA.HISTORY-119FS-01.RELIGION-118FS-01.",
+    "instructor": "Wood Crowley, Jenny",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "66dLR%2fkNzTCHegz1iEZxpw%3d%3d",
+      "data-id3": "T8W9fg%2bFQ7Sbx5h1cWYUAw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:36.523921"
+  },
+  {
+    "uid": "171550_9973_13686516_28112164",
+    "course_code": "HISTORY-352-01",
+    "title": "IMMIGRANT DREAMS/US REALITIES.HISTORY-352-01.PUBPOL-220-01.RIGHTS-352-01.",
+    "instructor": "Peck, Gunther",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "8 of 13  responded (61.54%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HWJfJGq9SKm6hOfqZDrD7g%3d%3d",
+      "data-id3": "Fo0P4fSLQAXrq0l2NbW7oA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524071"
+  },
+  {
+    "uid": "171550_9973_13686541_30187767",
+    "course_code": "HISTORY-235-01",
+    "title": "DRUGS, CHEMICALS, AND HEALTH.HISTORY-235-01.GLHLTH-235-01.ICS-234-01.",
+    "instructor": "Hepler-Smith, Evan",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "43 of 81  responded (53.09%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "IUHpa44Pwii59E4iRqqLbw%3d%3d",
+      "data-id3": "9y0f5MA6MRiSuUv71Dqzbw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GLHLTH",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524227"
+  },
+  {
+    "uid": "171550_9973_13686564_27445933",
+    "course_code": "AMES-180FS-01",
+    "title": "HEROES AND VILLAINS.AMES-180FS-01.CULANTH-180FS-01.HISTORY-169FS-01.ICS-180FS-01.",
+    "instructor": "Havlioglu, Didem",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "8 of 17  responded (47.06%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "WWtehmYuGgy0xCxY6BBCtA%3d%3d",
+      "data-id3": "QFDb9vWgaw0FEudib25BUg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:36.524319"
+  },
+  {
+    "uid": "171550_9973_13686568_30187769",
+    "course_code": "HISTORY-402S-01",
+    "title": "CAIRO.HISTORY-402S-01.AMES-403S-01.CULANTH-403S-01.",
+    "instructor": "Mestyan, Adam",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "VoGE5pmVcj5mJ7nW0tqY6A%3d%3d",
+      "data-id3": "B4Cu5755kLn0cO%2beYgrQAA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES",
+      "CULANTH"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524401"
+  },
+  {
+    "uid": "171550_9973_13686574_28112041",
+    "course_code": "HISTORY-279-01",
+    "title": "MODERN TERRORISM.HISTORY-279-01.ICS-276-01.",
+    "instructor": "Miller, Martin",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "sgPhj42U4QKs4y1mNi%2fFfg%3d%3d",
+      "data-id3": "L06Cubwv%2faSS8I4w%2bwLKZQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524548"
+  },
+  {
+    "uid": "171550_9973_13686584_29176640",
+    "course_code": "HISTORY-254-01",
+    "title": "EUROPE IN THE MIDDLE AGES.HISTORY-254-01.MEDREN-254-01.",
+    "instructor": "Gebhardt, Emily",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "13 of 14  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "FcaGU2eBL3OwWkApwQsTfw%3d%3d",
+      "data-id3": "vn49xlwKEWmYnMnal8kQfg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524633"
+  },
+  {
+    "uid": "171550_9973_13686587_28112114",
+    "course_code": "HISTORY-190FS-02",
+    "title": "TOPICS IN FOCUS PROGRAM.HISTORY-190FS-02.MEDREN-190FS-03.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HitxgoalX8VRijZ4cz3pNg%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:36.524773"
+  },
+  {
+    "uid": "171550_9973_13686620_28112059",
+    "course_code": "AAAS-103-01",
+    "title": "INTRO TO AFRICAN STUDIES.AAAS-103-01.CULANTH-105-01.HISTORY-129-01.ICS-110-01.POLSCI-108-01.",
+    "instructor": "Mkhize, Khwezi",
+    "term": "Fall 2024",
+    "area": "AFRAMRST",
+    "response_rate": "9 of 18  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "6GF6xlDBtr3O6j%2bW3HE4LQ%3d%3d",
+      "data-id3": "dBleyTUrzu076BdB4vqNxw%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524859"
+  },
+  {
+    "uid": "171550_9973_13686623_27991644",
+    "course_code": "HISTORY-117-01",
+    "title": "RENAISSANCE & REVOLUTION.HISTORY-117-01.MEDREN-125-01.",
+    "instructor": "Martin, John",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "16 of 16  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "n7PhT9%2bJz9WwB9rBGhZ61w%3d%3d",
+      "data-id3": "ZLUpJW0VbP9yINWyqSbssg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.524943"
+  },
+  {
+    "uid": "171550_9973_13686625_27466679",
+    "course_code": "CLST-308-01",
+    "title": "ROMAN LAW.CLST-308-01.HISTORY-240-01.POLSCI-381-01.",
+    "instructor": "Casias, Cassandra",
+    "term": "Fall 2024",
+    "area": "CLASSICAL",
+    "response_rate": "12 of 24  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "CnDSuYIfXhJgzybGv7jNzA%3d%3d",
+      "data-id3": "aY64I15J7j0YoYpvSZvf%2bA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525021"
+  },
+  {
+    "uid": "171550_9973_13686640_27446152",
+    "course_code": "SES-388S-01",
+    "title": "ILLIBERAL NONDEMOCRACIES.SES-388S-01.HISTORY-331S-01.ICS-346S-01.POLSCI-301S-01.PUBPOL-317S-01.",
+    "instructor": "Tuna, Mustafa",
+    "term": "Fall 2024",
+    "area": "SLAVICS",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99031",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "UwUopXqN%2fh3cpFrb0lZBbw%3d%3d",
+      "data-id3": "8v8M39D97BTeJdsCR3fS%2fw%3d%3d"
+    },
+    "department_codes": [
+      "SES",
+      "HISTORY",
+      "ICS",
+      "POLSCI",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525104"
+  },
+  {
+    "uid": "171550_9973_13686658_28112135",
+    "course_code": "PUBPOL-171FS-01",
+    "title": "BEYOND DENIAL.PUBPOL-171FS-01.ECON-182FS-01.ETHICS-182FS-01.HISTORY-170FS-01.",
+    "instructor": "Philipsen, Dirk",
+    "term": "Fall 2024",
+    "area": "PPS",
+    "response_rate": "11 of 16  responded (68.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ldtZThDCLwBCnfg3jnEcig%3d%3d",
+      "data-id3": "e%2bMpAzY2ccNJ8vl%2fnMXeRg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:17:36.525185"
+  },
+  {
+    "uid": "171550_9973_13686661_28111943",
+    "course_code": "ECON-311-01",
+    "title": "HISTORY OF ECONOMIC THOUGHT.ECON-311-01.HISTORY-307-01.",
+    "instructor": "Brent, Jason",
+    "term": "Fall 2024",
+    "area": "ECONOMICS",
+    "response_rate": "14 of 17  responded (82.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98985",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "2c%2bujuSViSOmgAOVv77Z%2bQ%3d%3d",
+      "data-id3": "z6tnjWIWw0R6FObvPRYkDg%3d%3d"
+    },
+    "department_codes": [
+      "ECON",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525265"
+  },
+  {
+    "uid": "171550_9973_13686672_28112048",
+    "course_code": "HISTORY-122-01",
+    "title": "HISTORY OF LATINXS IN US.HISTORY-122-01.GSF-122-01.ICS-122-01.LATAMER-122-01.LSGS-222-01.",
+    "instructor": "Marquez, Cecilia",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "G7ZT7%2bs9EPpz4OzCDqNc8g%3d%3d",
+      "data-id3": "mxOpu94XmpYMsc56LLXxdg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GSF",
+      "ICS",
+      "LATAMER",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525344"
+  },
+  {
+    "uid": "171550_9973_13686686_27797712",
+    "course_code": "CLST-283-01",
+    "title": "GREEK HISTORY.CLST-283-01.HISTORY-230-01.",
+    "instructor": "Sosin, Joshua",
+    "term": "Fall 2024",
+    "area": "CLASSICAL",
+    "response_rate": "19 of 27  responded (70.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "hoYn5O71xYvqI5t67%2bYw0A%3d%3d",
+      "data-id3": "iQw4tN%2fOx9WkzH8YJdJbEQ%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525421"
+  },
+  {
+    "uid": "171550_9973_13686689_27446125",
+    "course_code": "SPANISH-437S-01",
+    "title": "MIGRATION/EXILE/SECOND SLAVERY.SPANISH-437S-01.HISTORY-425S-01.ICS-435S-01.",
+    "instructor": "Rodriguez-Garcia, Jose",
+    "term": "Fall 2024",
+    "area": "ROMANCE",
+    "response_rate": "11 of 13  responded (84.62%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "PK5PO4obqRglT9qld7UTrg%3d%3d",
+      "data-id3": "VO5Y3zp6ilV5z1JVm0Iazw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525500"
+  },
+  {
+    "uid": "171550_9973_13686690_27991797",
+    "course_code": "AMES-186-01",
+    "title": "TURKS AND EUROPE.AMES-186-01.HISTORY-212-01.RELIGION-228-01.SES-287-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "7 of 13  responded (53.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "tK0u4rAvzIG1xXzaN4sRhw%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "HISTORY",
+      "RELIGION",
+      "SES"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525610"
+  },
+  {
+    "uid": "171550_9973_13686699_28112155",
+    "course_code": "HISTORY-124-01",
+    "title": "HISTORY OF THE PRESENT.HISTORY-124-01.PUBPOL-123-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "31 of 100  responded (31.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "SKbfAOPS1Ynuo4lRLCzEQQ%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525693"
+  },
+  {
+    "uid": "171550_9973_13686699_28807848",
+    "course_code": "HISTORY-124-01",
+    "title": "HISTORY OF THE PRESENT.HISTORY-124-01.PUBPOL-123-01.",
+    "instructor": "Conway, Hannah",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "31 of 100  responded (31.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "SKbfAOPS1Ynuo4lRLCzEQQ%3d%3d",
+      "data-id3": "J%2bXviqV97i9QQSXFK9hrEQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:36.525775"
+  },
+  {
+    "uid": "171550_9973_13686713_30187768",
+    "course_code": "HISTORY-214-01",
+    "title": "THE MODERN MIDDLE EAST.HISTORY-214-01.AMES-127-01.JEWISHST-258-01.",
+    "instructor": "Gemeah, Ibrahim",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 10  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "1LVNRnPAt5cRUNCuQvG0yw%3d%3d",
+      "data-id3": "dVZ1yVwXScQfoaCUWWEZ3w%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES",
+      "JEWISHST"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357012"
+  },
+  {
+    "uid": "171550_9973_13686722_27445847",
+    "course_code": "GSF-225-01",
+    "title": "WOMEN/POLITICAL PROCESS.GSF-225-01.DOCST-225-01.HISTORY-232-01.POLSCI-203-01.PUBPOL-227-01.",
+    "instructor": "Henschel, Lauren",
+    "term": "Fall 2024",
+    "area": "GSF",
+    "response_rate": "13 of 18  responded (72.22%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "225IiTxdWeUmIK%2fsDoArpw%3d%3d",
+      "data-id3": "GGmw1Ir1r%2fMIlJiyRwBb0Q%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "DOCST",
+      "HISTORY",
+      "POLSCI",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357161"
+  },
+  {
+    "uid": "171550_9973_13686722_28112034",
+    "course_code": "GSF-225-01",
+    "title": "WOMEN/POLITICAL PROCESS.GSF-225-01.DOCST-225-01.HISTORY-232-01.POLSCI-203-01.PUBPOL-227-01.",
+    "instructor": "Gelfand, Rachel",
+    "term": "Fall 2024",
+    "area": "GSF",
+    "response_rate": "13 of 18  responded (72.22%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "225IiTxdWeUmIK%2fsDoArpw%3d%3d",
+      "data-id3": "I222ioYFwEO7qHXxdme02w%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "DOCST",
+      "HISTORY",
+      "POLSCI",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357248"
+  },
+  {
+    "uid": "171550_9973_13686724_27675609",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Milhomem Doyle, Jessica",
+    "term": "Fall 2024",
+    "area": "ICS",
+    "response_rate": "22 of 38  responded (57.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HYsFYWclny%2fgSyNLxQ3lKQ%3d%3d",
+      "data-id3": "oOcry6Xl8XElm8ky2tRXiA%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357328"
+  },
+  {
+    "uid": "171550_9973_13686724_28112047",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Mathers, Catherine",
+    "term": "Fall 2024",
+    "area": "ICS",
+    "response_rate": "22 of 38  responded (57.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HYsFYWclny%2fgSyNLxQ3lKQ%3d%3d",
+      "data-id3": "9wqThcI7SxPZAGIjOJktNA%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357406"
+  },
+  {
+    "uid": "171550_9973_13686724_28596352",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Klashman, Courtney",
+    "term": "Fall 2024",
+    "area": "ICS",
+    "response_rate": "22 of 38  responded (57.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HYsFYWclny%2fgSyNLxQ3lKQ%3d%3d",
+      "data-id3": "UZ2n72FxqrXuUnVwlPJETw%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357484"
+  },
+  {
+    "uid": "171550_9973_13686724_29176264",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Karp, Melissa",
+    "term": "Fall 2024",
+    "area": "ICS",
+    "response_rate": "22 of 38  responded (57.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HYsFYWclny%2fgSyNLxQ3lKQ%3d%3d",
+      "data-id3": "MkVaQ5F%2fORoDtbnDcBjWTg%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357562"
+  },
+  {
+    "uid": "171550_9973_13686730_27991797",
+    "course_code": "AMES-408S-01",
+    "title": "GEOPOLITICS OF ISLAMOPHOBIA.AMES-408S-01.HISTORY-416S-01.ICS-421S-01.PUBPOL-413S-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "7 of 13  responded (53.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "qdiHiKdzlmLbMWnxySDURw%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "HISTORY",
+      "ICS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357638"
+  },
+  {
+    "uid": "171550_9973_13686734_28112155",
+    "course_code": "HISTORY-198-01",
+    "title": "INTRO TO ASIAN AMERICAN HIST.HISTORY-198-01.AADS-198-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 10  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "bqpDHNC3beHgVrSWMYEkpw%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AADS"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357713"
+  },
+  {
+    "uid": "171550_9973_13686743_28112090",
+    "course_code": "CLST-275-01",
+    "title": "DEMOCRACY: ANCIENT AND MODERN.CLST-275-01.ETHICS-275-01.HISTORY-234-01.POLSCI-211-01.",
+    "instructor": "Whitbread, Gabe",
+    "term": "Fall 2024",
+    "area": "CLASSICAL",
+    "response_rate": "20 of 26  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "TcptH8lUQGbzx%2bMs21J56w%3d%3d",
+      "data-id3": "XN3QUBKHfLNS4Sw9faJ%2fmQ%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "ETHICS",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357858"
+  },
+  {
+    "uid": "171550_9973_13686761_28112052",
+    "course_code": "HISTORY-113-01",
+    "title": "INTRO HISTORY OF MEDICINE.HISTORY-113-01.GLHLTH-174-01.",
+    "instructor": "Humphreys, Margaret",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "7ARgG9xspRlfKBtObVZeKw%3d%3d",
+      "data-id3": "CJRJ72OShMqCfZVopxGJnQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GLHLTH"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.357947"
+  },
+  {
+    "uid": "171550_9973_13686772_28112078",
+    "course_code": "HISTORY-370-01",
+    "title": "AZTECS AND MAYANS.HISTORY-370-01.MEDREN-270-01.",
+    "instructor": "Sigal, Peter",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "oftN4RF6dFNdRCi5xgcCag%3d%3d",
+      "data-id3": "Y%2bNhBL%2buLHPaktukAFTdpg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358083"
+  },
+  {
+    "uid": "171550_9973_13686778_27445831",
+    "course_code": "ICS-388S-01",
+    "title": "GLOBAL SOUTH ASIA.ICS-388S-01.AADS-338S-01.AMES-388S-01.GSF-288S-01.HISTORY-298S-01.",
+    "instructor": "Namakkal, Jessica",
+    "term": "Fall 2024",
+    "area": "ICS",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "AMffH%2bxKoVqddzUqSdcaNg%3d%3d",
+      "data-id3": "1DXES5LQTzWXOSO8uSZSyQ%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "AADS",
+      "AMES",
+      "GSF",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358178"
+  },
+  {
+    "uid": "171550_9973_13686779_28807843",
+    "course_code": "HISTORY-264-01",
+    "title": "LATIN AM WARS OF INDEPENDENCE.HISTORY-264-01.AAAS-264-01.ICS-232-01.POLSCI-257-01.",
+    "instructor": "Gasparowicz, Natalie",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "7 of 10  responded (70.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "hCThlfhKmFkeVgV%2fJJGfwg%3d%3d",
+      "data-id3": "HUEwkdGRCyibfMydUS7yog%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "ICS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358261"
+  },
+  {
+    "uid": "171550_9973_13686787_28807822",
+    "course_code": "CULANTH-204S-01",
+    "title": "UNION ACTIVISM.CULANTH-204S-01.AAAS-204S-01.ECON-120S-01.HISTORY-207S-01.SOCIOL-204S-01.",
+    "instructor": "Starn, Orin",
+    "term": "Fall 2024",
+    "area": "CULANTHRO",
+    "response_rate": "5 of 17  responded (29.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "QgE1BJA%2bdQW4xAZ640JGmw%3d%3d",
+      "data-id3": "bTGM%2bPUt3L%2b6PSjOMrnbjw%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "AAAS",
+      "ECON",
+      "HISTORY",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358338"
+  },
+  {
+    "uid": "171550_9973_13686790_27991569",
+    "course_code": "HISTORY-114-01",
+    "title": "INTRO HISTORY MODERN WARFARE.HISTORY-114-01.PUBPOL-160-01.",
+    "instructor": "Bonker, Dirk",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "11 of 25  responded (44.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "0KTaC3VCSfwCtnOTEyqMtQ%3d%3d",
+      "data-id3": "Awmn0%2bGfuxWU6dkeivrVeQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358415"
+  },
+  {
+    "uid": "171550_9973_13686815_27991648",
+    "course_code": "HISTORY-239-01",
+    "title": "HISTORY OF CHINESE MEDICINE.HISTORY-239-01.AMES-142-01.GLHLTH-142-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "17 of 38  responded (44.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "tnZzdUecXkQ8ehWT%2fkFa6w%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES",
+      "GLHLTH"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358492"
+  },
+  {
+    "uid": "171550_9973_13686826_27991481",
+    "course_code": "MUSIC-143-01",
+    "title": "HISTORY OF ROCK: R&B TO INDIE.MUSIC-143-01.AAAS-139-01.HISTORY-108-01.",
+    "instructor": "Stoia, Nicholas",
+    "term": "Fall 2024",
+    "area": "MUSIC",
+    "response_rate": "5 of 33  responded (15.15%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99015",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "0o9PxQzDurbCOf%2f41FxoRw%3d%3d",
+      "data-id3": "WLa39i%2bfJ7OiUrQfM76Paw%3d%3d"
+    },
+    "department_codes": [
+      "MUSIC",
+      "AAAS",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358567"
+  },
+  {
+    "uid": "171550_9973_13686837_28111927",
+    "course_code": "HISTORY-179S-01",
+    "title": "GTWY SEM-CAPITALISM & CRITICS.HISTORY-179S-01.ICS-179S-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "McSICyq8GGGFOMZQpmVLYg%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358643"
+  },
+  {
+    "uid": "171550_9973_13686860_28807848",
+    "course_code": "HISTORY-345-01",
+    "title": "NORTH AMERICAN ENVIRONMNTL HST.HISTORY-345-01.ICS-340-01.PUBPOL-278-01.",
+    "instructor": "Conway, Hannah",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 17  responded (35.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "KFx0o8A8wdV1%2fmHzSCFGcA%3d%3d",
+      "data-id3": "J%2bXviqV97i9QQSXFK9hrEQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:37.358723"
+  },
+  {
+    "uid": "171550_9973_13686877_28112114",
+    "course_code": "HISTORY-257-01",
+    "title": "RELIGION/REFORM/VIOLENCE.HISTORY-257-01.MEDREN-281-01.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Fall 2024",
+    "area": "HISTORY",
+    "response_rate": "6 of 11  responded (54.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "bAT3FcEz7pA8oZnGQLCFuA%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.134898"
+  },
+  {
+    "uid": "171550_9973_13686901_27445938",
+    "course_code": "THEATRST-232S-01",
+    "title": "ASIAN AMERICAN THEATER.THEATRST-232S-01.AADS-232S-01.AMES-182S-01.ENGLISH-387S-01.HISTORY-293S-01.",
+    "instructor": "Lee, Esther",
+    "term": "Fall 2024",
+    "area": "THEATRST",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "V3YWTkblmNU156iMtD%2buxQ%3d%3d",
+      "data-id3": "vRyHEHA68yzWiaSpV15PBw%3d%3d"
+    },
+    "department_codes": [
+      "THEATRST",
+      "AADS",
+      "AMES",
+      "ENGLISH",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135010"
+  },
+  {
+    "uid": "171550_9973_13686905_28807841",
+    "course_code": "CLST-210-01",
+    "title": "THE GOOD LIFE.CLST-210-01.ETHICS-210-01.HISTORY-266-01.JEWISHST-210-01.PHIL-214-01.PUBPOL-229-01.RELIGION-210-01.",
+    "instructor": "Hacohen, Malachi",
+    "term": "Fall 2024",
+    "area": "CLASSICAL",
+    "response_rate": "47 of 150  responded (31.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "8a28Dc6T8cU414ZO7Ru%2bZQ%3d%3d",
+      "data-id3": "%2fr%2foy16aiofZRjW%2bCwt3IA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "ETHICS",
+      "HISTORY",
+      "JEWISHST",
+      "PHIL",
+      "PUBPOL",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135097"
+  },
+  {
+    "uid": "171550_9973_13686905_28979765",
+    "course_code": "CLST-210-01",
+    "title": "THE GOOD LIFE.CLST-210-01.ETHICS-210-01.HISTORY-266-01.JEWISHST-210-01.PHIL-214-01.PUBPOL-229-01.RELIGION-210-01.",
+    "instructor": "Ha, Polly",
+    "term": "Fall 2024",
+    "area": "CLASSICAL",
+    "response_rate": "47 of 150  responded (31.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "8a28Dc6T8cU414ZO7Ru%2bZQ%3d%3d",
+      "data-id3": "o7OTZfuOF2CX86tkbtwpgQ%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "ETHICS",
+      "HISTORY",
+      "JEWISHST",
+      "PHIL",
+      "PUBPOL",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135178"
+  },
+  {
+    "uid": "171550_9973_13686914_27446110",
+    "course_code": "AMES-335-01",
+    "title": "CHINATOWNS: A CULTURAL HISTORY.AMES-335-01.AADS-335-01.HISTORY-228-01.ICS-336-01.",
+    "instructor": "Chow, Eileen",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "14 of 33  responded (42.42%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "Ghl2BnoELrfs%2fJI7qxnVFg%3d%3d",
+      "data-id3": "bQQFUoukquPG0h%2bvAo1agQ%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "AADS",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135258"
+  },
+  {
+    "uid": "171550_9973_13686927_27446132",
+    "course_code": "AAAS-316S-01",
+    "title": "APARTHEID S-AFRICA/DEMOCRACY.AAAS-316S-01.HISTORY-386S-01.ICS-211S-2-01.POLSCI-337S-01.PUBPOL-327S-01.RIGHTS-316S-01.",
+    "instructor": "Shapiro, Karin",
+    "term": "Fall 2024",
+    "area": "AFRAMRST",
+    "response_rate": "14 of 14  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "NnK2MsHWKYdetbk8M4rdBQ%3d%3d",
+      "data-id3": "yE7KOjM%2bqKr1WotVPjMxlg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "HISTORY",
+      "ICS",
+      "POLSCI",
+      "PUBPOL",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135336"
+  },
+  {
+    "uid": "179255_10319_14165137_27991426",
+    "course_code": "PUBPOL-509-01",
+    "title": "MODERN INTELLIGENCE HISTORY.PUBPOL-509-01.HISTORY-509-01.",
+    "instructor": "Siegel, Jennifer",
+    "term": "Spring 2025",
+    "area": "PPS",
+    "response_rate": "7 of 39  responded (17.95%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98296",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "Hpfuw2KDZdtqf4ftYJYLcA%3d%3d",
+      "data-id3": "qBTUU%2fmZ4GN1igZ%2biKEmWg%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135412"
+  },
+  {
+    "uid": "179255_10319_14224863_28807848",
+    "course_code": "HISTORY-591S-01",
+    "title": "ENVIRONMENTAL (HI)STORIES.HISTORY-591S-01.",
+    "instructor": "Conway, Hannah",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "7 of 11  responded (63.64%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "6mx%2bQuB5cVKJrgJtzcF7TQ%3d%3d",
+      "data-id3": "J%2bXviqV97i9QQSXFK9hrEQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135489"
+  },
+  {
+    "uid": "179255_10319_14224880_27991648",
+    "course_code": "HISTORY-720S-01",
+    "title": "20TH CENTURY CHINA.HISTORY-720S-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "7 of 10  responded (70.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "SmvG8BfIG%2bplXSC8Q2PKcg%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135564"
+  },
+  {
+    "uid": "179255_10319_14224883_30187743",
+    "course_code": "HISTORY-890S-05-01",
+    "title": "RSCH TOP GLOBAL CONNECTIONS.HISTORY-890S-05-01.",
+    "instructor": "Lamotte, Melanie",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "AYueqeVIGBfKalCPUoQ1QA%3d%3d",
+      "data-id3": "pWOUoXiSCYWMK%2fSaEdBgmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135639"
+  },
+  {
+    "uid": "179255_10319_14224932_27991564",
+    "course_code": "HISTORY-702S-01",
+    "title": "HISTORICAL METHOD.HISTORY-702S-01.",
+    "instructor": "Leroy, Justin",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "9 of 9  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "MhcS%2bbf7vdAUXUoFV9o5qQ%3d%3d",
+      "data-id3": "1mkROCQaUcRQDSm1olx3kg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135713"
+  },
+  {
+    "uid": "179255_10319_14225077_28807934",
+    "course_code": "HISTORY-514S-01",
+    "title": "CULTURE/ENV IN MODERN CHINA.HISTORY-514S-01.AMES-531S-01.",
+    "instructor": "Duara, Prasenjit",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98849",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "UXy6jQMenTs8CD1PygmCKA%3d%3d",
+      "data-id3": "BGrAQZlsCM6dTxaR9GJCqA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135793"
+  },
+  {
+    "uid": "179255_10319_14225164_28807964",
+    "course_code": "ISS-536S-01",
+    "title": "PUBLIC HISTORY & MEMORY.ISS-536S-01.HISTORY-536S-01.VMS-536S-01.",
+    "instructor": "Buerglener, Robert",
+    "term": "Spring 2025",
+    "area": "ISS",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98854",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "DtxwYPYyaLAPBVOQw9WpCg%3d%3d",
+      "data-id3": "%2fTh0F73Q%2fo5hlvAB1xpwcQ%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "HISTORY",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.135873"
+  },
+  {
+    "uid": "179281_10319_14261461_29056827",
+    "course_code": "HISTORY-153S-01",
+    "title": "GATEWAY: MILITARY HISTORY.HISTORY-153S-01.",
+    "instructor": "Culton, Cris",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "13 of 14  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "steG81eNkPWpBkFEx71PfA%3d%3d",
+      "data-id3": "ZiWMwgnuwhDwwn1Px7jbgQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136040"
+  },
+  {
+    "uid": "179281_10319_14261482_28112155",
+    "course_code": "HISTORY-332S-01",
+    "title": "THEORIZING LIBERATION.HISTORY-332S-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "8 of 10  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "p3flnKEjwVvW1cDh2dsfdg%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136128"
+  },
+  {
+    "uid": "179281_10319_14261521_27991644",
+    "course_code": "HISTORY-89S-01",
+    "title": "FIRST-YEAR SEMINAR (TOP).HISTORY-89S-01.",
+    "instructor": "Martin, John",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "14 of 17  responded (82.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "S3Lw2ovQggCA3Ps3VIcn4Q%3d%3d",
+      "data-id3": "ZLUpJW0VbP9yINWyqSbssg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136208"
+  },
+  {
+    "uid": "179281_10319_14261534_28112164",
+    "course_code": "HISTORY-295S-01",
+    "title": "THE HISTORY OF GARDENING.HISTORY-295S-01.",
+    "instructor": "Peck, Gunther",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "PPmWdVPMAzIi3udJYRav9w%3d%3d",
+      "data-id3": "Fo0P4fSLQAXrq0l2NbW7oA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136284"
+  },
+  {
+    "uid": "179281_10319_14261545_27991648",
+    "course_code": "HISTORY-384-01",
+    "title": "CHINA SINCE 1949.HISTORY-384-01.",
+    "instructor": "Barnes, Nicole",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "niS4OMYPgJRNsCVHz%2fV8QA%3d%3d",
+      "data-id3": "67q8Mg6yUobVVg%2bQcU%2f%2buQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136362"
+  },
+  {
+    "uid": "179281_10319_14261559_28111927",
+    "course_code": "HISTORY-363-01",
+    "title": "CAPITALISM IN THE U.S..HISTORY-363-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "OtctH7kFeso%2fZ7cWXbFk0Q%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136471"
+  },
+  {
+    "uid": "179281_10319_14261564_30959634",
+    "course_code": "HISTORY-320-01",
+    "title": "SPORTS AND AMERICAN CULTURE.HISTORY-320-01.",
+    "instructor": "Marston, Steven",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "6 of 21  responded (28.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "CuwO73efKJsAkHrG4NvSbA%3d%3d",
+      "data-id3": "7Yf5X%2foZ9lZrBsn%2b5oNPgg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.136599"
+  },
+  {
+    "uid": "179281_10319_14261591_28111927",
+    "course_code": "HISTORY-120-01",
+    "title": "HISTORY OF AMERICAN DEMOCRACY.HISTORY-120-01.",
+    "instructor": "Huston, Reeve",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "8 of 19  responded (42.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "5EGpdQMQeScMyb8qEBfexQ%3d%3d",
+      "data-id3": "pMeNrj%2fF1i4mre%2bVvnuzmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.965211"
+  },
+  {
+    "uid": "179281_10319_14261595_28807840",
+    "course_code": "HISTORY-158S-02",
+    "title": "FASCISM: A HISTORY.HISTORY-158S-02.",
+    "instructor": "Chappel, James",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "14 of 15  responded (93.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "s0ENjRwkjHbo0Kz%2f%2f28F3Q%3d%3d",
+      "data-id3": "hdrdTZWzXzyG1zy6WBfulw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.965426"
+  },
+  {
+    "uid": "179281_10319_14261599_27991564",
+    "course_code": "HISTORY-189S-01",
+    "title": "SLAVERY AND ITS AFTERLIVES.HISTORY-189S-01.",
+    "instructor": "Leroy, Justin",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "10 of 13  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "8zJtSxkaLDGMNITFiZmJZA%3d%3d",
+      "data-id3": "1mkROCQaUcRQDSm1olx3kg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.965638"
+  },
+  {
+    "uid": "179281_10319_14261817_28112195",
+    "course_code": "ETHICS-89S-01",
+    "title": "FIRST-YEAR SEMINAR (TOP).ETHICS-89S-01.HISTORY-89S-02.I&E-89S-01.MUSIC-89S-01.",
+    "instructor": "Mlyn, Eric",
+    "term": "Spring 2025",
+    "area": "ETHICS",
+    "response_rate": "12 of 13  responded (92.31%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98991",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "u1iGt7kGbjfq%2bTtVEGY2jA%3d%3d",
+      "data-id3": "iic89moj8yZQcx9l2mj8xg%3d%3d"
+    },
+    "department_codes": [
+      "ETHICS",
+      "HISTORY",
+      "I&E",
+      "MUSIC"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.965921"
+  },
+  {
+    "uid": "179281_10319_14261837_28080082",
+    "course_code": "RELIGION-150-01",
+    "title": "CHRISTIANITY.RELIGION-150-01.HISTORY-149-01.",
+    "instructor": "Rittgers, Ronald",
+    "term": "Spring 2025",
+    "area": "RELIGION",
+    "response_rate": "8 of 22  responded (36.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "jsK3qW7lAEwk8lFcPBe37A%3d%3d",
+      "data-id3": "uQwoARy%2bf0OuZr0SHwXr6A%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966099"
+  },
+  {
+    "uid": "179281_10319_14261899_28112114",
+    "course_code": "HISTORY-260-01",
+    "title": "MAGIC/REL/SCI SINCE 1400.HISTORY-260-01.MEDREN-287-01.SCISOC-260-01.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "11 of 21  responded (52.38%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "hHHrSEKTzS%2f%2ficF0hT%2f8YA%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966191"
+  },
+  {
+    "uid": "179281_10319_14261908_28111931",
+    "course_code": "RELIGION-261-01",
+    "title": "HISTORY TO FANTASY: RELIGIONS.RELIGION-261-01.ENGLISH-254-01.GSF-261-01.HISTORY-244-01.MEDREN-354-01.",
+    "instructor": "Dubois, Katharine",
+    "term": "Spring 2025",
+    "area": "RELIGION",
+    "response_rate": "8 of 28  responded (28.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "wsQASD9zy6y2GJKN3v9T4w%3d%3d",
+      "data-id3": "EketNiIHngD8k0sI2y46iA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "ENGLISH",
+      "GSF",
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966274"
+  },
+  {
+    "uid": "179281_10319_14261912_28112114",
+    "course_code": "HISTORY-294S-01",
+    "title": "ART OF RENAISSANCE POLITICS.HISTORY-294S-01.MEDREN-294S-01.",
+    "instructor": "Robisheaux, Thomas",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "12 of 17  responded (70.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Qst%2fs%2b8aDkBeaPrl1NfI9A%3d%3d",
+      "data-id3": "nmstO3KGosnMtpqspqQwQA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966353"
+  },
+  {
+    "uid": "179281_10319_14261919_27991730",
+    "course_code": "CLST-360-01",
+    "title": "HISTORY OF THE BOOK.CLST-360-01.HISTORY-367-01.ISS-360-01.MEDREN-346-01.",
+    "instructor": "Woods, Jennifer",
+    "term": "Spring 2025",
+    "area": "CLASSICAL",
+    "response_rate": "5 of 21  responded (23.81%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "0VsdcG%2fQonv2Ly5sxHtVag%3d%3d",
+      "data-id3": "PN7aohsRiTF7ccCwQeZQcA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "ISS",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966431"
+  },
+  {
+    "uid": "179281_10319_14261932_27991797",
+    "course_code": "AMES-296S-01",
+    "title": "TURKISH CULTURAL HISTORY.AMES-296S-01.CULANTH-297S-01.HISTORY-283S-01.ICS-345S-01.LIT-276S-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "9 of 10  responded (90.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "uojLwD2WAjuyNFAxiQRFfw%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "LIT"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966508"
+  },
+  {
+    "uid": "179281_10319_14261934_28112135",
+    "course_code": "PUBPOL-249-01",
+    "title": "LIFE WITHIN CAPITALISM.PUBPOL-249-01.ECON-270-01.ETHICS-271-01.HISTORY-284-01.POLSCI-252-01.",
+    "instructor": "Philipsen, Dirk",
+    "term": "Spring 2025",
+    "area": "PPS",
+    "response_rate": "16 of 21  responded (76.19%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "g%2fXhWdB5tRsNSLu6K0LrVw%3d%3d",
+      "data-id3": "e%2bMpAzY2ccNJ8vl%2fnMXeRg%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "ECON",
+      "ETHICS",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966583"
+  },
+  {
+    "uid": "179281_10319_14261952_27446043",
+    "course_code": "CULANTH-104-01",
+    "title": "INTRODUCTION TO HUMAN RIGHTS.CULANTH-104-01.HISTORY-116-01.ICS-113-01.PUBPOL-162-01.RIGHTS-104-01.",
+    "instructor": "Kirk, Robin",
+    "term": "Spring 2025",
+    "area": "CULANTHRO",
+    "response_rate": "19 of 25  responded (76.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "L%2bOkCgcgsdmnu5s3u4ANfA%3d%3d",
+      "data-id3": "IuTbFH2enaM9AqjMr4eYsQ%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "PUBPOL",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966660"
+  },
+  {
+    "uid": "179281_10319_14261967_27446124",
+    "course_code": "HISTORY-403S-01",
+    "title": "CAPSTONE: MEDIEVAL TRIALS.HISTORY-403S-01.MEDREN-425S-01.",
+    "instructor": "Malegam, Jehangir",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "8 of 8  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "sv1bGvnuTvOByX4WLuLbVw%3d%3d",
+      "data-id3": "7VmVQaum6SQsk7S5hn88wg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966768"
+  },
+  {
+    "uid": "179281_10319_14261980_28112040",
+    "course_code": "AAAS-103-01",
+    "title": "INTRO TO AFRICAN STUDIES.AAAS-103-01.CULANTH-105-01.HISTORY-129-01.ICS-110-01.POLSCI-108-01.",
+    "instructor": "Piot, Charlie",
+    "term": "Spring 2025",
+    "area": "AFRAMRST",
+    "response_rate": "23 of 58  responded (39.66%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "9eboSASJ%2bPBKAAjH9Vno3w%3d%3d",
+      "data-id3": "0RXuugHTpnV8S70TMJoroQ%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966860"
+  },
+  {
+    "uid": "179281_10319_14261981_27446020",
+    "course_code": "ITALIAN-281-01",
+    "title": "DANTE'S DIVINE COMEDY.ITALIAN-281-01.HISTORY-253-01.LIT-245-01.MEDREN-341-01.RELIGION-262-01.",
+    "instructor": "Eisner, Martin",
+    "term": "Spring 2025",
+    "area": "ROMANCE",
+    "response_rate": "10 of 28  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "EhlZlAfCyKmPe9%2f3Y29mtQ%3d%3d",
+      "data-id3": "5o2f8PRKYjSeGCZz%2bMoH9Q%3d%3d"
+    },
+    "department_codes": [
+      "ITALIAN",
+      "HISTORY",
+      "LIT",
+      "MEDREN",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.966938"
+  },
+  {
+    "uid": "179281_10319_14261990_27991433",
+    "course_code": "PUBPOL-221-01",
+    "title": "9/11 & ITS AFTERMATH.PUBPOL-221-01.AMES-214-01.HISTORY-224-01.POLSCI-204-01.",
+    "instructor": "Schanzer, David",
+    "term": "Spring 2025",
+    "area": "PPS",
+    "response_rate": "34 of 35  responded (97.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "C1TTAiSS0xqnajW6qs1U6g%3d%3d",
+      "data-id3": "r1dWnob%2b59VEOd7vA07gpA%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "AMES",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.967014"
+  },
+  {
+    "uid": "179281_10319_14262001_27991355",
+    "course_code": "POLSCI-267-01",
+    "title": "RELIGION AND US POLITICS.POLSCI-267-01.HISTORY-247-01.",
+    "instructor": "Wood Crowley, Jenny",
+    "term": "Spring 2025",
+    "area": "POLISCI",
+    "response_rate": "16 of 22  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99024",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "QwK9%2fTwaA1Wbkt4%2fh0sdgg%3d%3d",
+      "data-id3": "T8W9fg%2bFQ7Sbx5h1cWYUAw%3d%3d"
+    },
+    "department_codes": [
+      "POLSCI",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.967088"
+  },
+  {
+    "uid": "179281_10319_14262038_28112078",
+    "course_code": "HISTORY-112-01",
+    "title": "SEXUAL PLEASURE/MODERN WORLD.HISTORY-112-01.SXL-116-01.",
+    "instructor": "Sigal, Peter",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "5 of 25  responded (20.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "6DVwY3PfJRYFVMLAaXedyw%3d%3d",
+      "data-id3": "Y%2bNhBL%2buLHPaktukAFTdpg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "SXL"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.967164"
+  },
+  {
+    "uid": "179281_10319_14262050_28807842",
+    "course_code": "HISTORY-218-01",
+    "title": "MODERN & GLOBAL INDIA.HISTORY-218-01.AMES-357-01.ARTHIST-218-01.ICS-218-01.",
+    "instructor": "Bhatnagar, Avrati",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "19 of 44  responded (43.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "rbn6s3mB7TbprFmj9BreoQ%3d%3d",
+      "data-id3": "QhNihLqhyTwE7AvvBEtEAg%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AMES",
+      "ARTHIST",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.967242"
+  },
+  {
+    "uid": "179281_10319_14262054_28112067",
+    "course_code": "AMES-123-01",
+    "title": "HISTORY AND CULTURE OF IRAN.AMES-123-01.HISTORY-248-01.RELIGION-283-01.",
+    "instructor": "Safi, Omid",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "10 of 10  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "pUZrcj%2f%2fI50KpjDRNxt3Lw%3d%3d",
+      "data-id3": "FGpevo3s9%2fpzG3lcV%2fsQEQ%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "HISTORY",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:38.967319"
+  },
+  {
+    "uid": "179281_10319_14262081_28112155",
+    "course_code": "HISTORY-229S-01",
+    "title": "ASIAN AM COMMUNITY HISTORY.HISTORY-229S-01.AADS-229S-01.",
+    "instructor": "Cheung-Miaw, Calvin",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "M0nJJp6feM97Ji%2fF7ITTXw%3d%3d",
+      "data-id3": "TyzpogeF1barlFRBgANf1A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AADS"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.781707"
+  },
+  {
+    "uid": "179281_10319_14262108_30959671",
+    "course_code": "HISTORY-297-01",
+    "title": "THE HOLOCAUST.HISTORY-297-01.JEWISHST-342-01.POLSCI-262-01.RIGHTS-297-01.",
+    "instructor": "Inbari, Mordechai",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "18 of 21  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "XnKPOOURweucnhnUe8jTKg%3d%3d",
+      "data-id3": "Ik1v7EV0txMOBTYRfESs3A%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "JEWISHST",
+      "POLSCI",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.781850"
+  },
+  {
+    "uid": "179281_10319_14262111_28112141",
+    "course_code": "DOCST-317S-01",
+    "title": "VETERANS ORAL HISTORY PROJECT.DOCST-317S-01.HISTORY-381S-01.RIGHTS-317S-01.",
+    "instructor": "Lanier, Michelle",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "6 of 15  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "i8lRHrYhMCAXNjbalrpaXQ%3d%3d",
+      "data-id3": "DVPqDdbIQPBb7I73yY15xw%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "HISTORY",
+      "RIGHTS"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.781935"
+  },
+  {
+    "uid": "179281_10319_14262113_28112031",
+    "course_code": "HISTORY-201-01",
+    "title": "GLOBALIZATION AND HISTORY.HISTORY-201-01.PUBPOL-236-01.",
+    "instructor": "Zanalda, Giovanni",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "8 of 45  responded (17.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "OeMBIe95VOiQtxXxo%2f6ouw%3d%3d",
+      "data-id3": "x3iRlj8pUb3j8pUQ9Nnupw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782014"
+  },
+  {
+    "uid": "179281_10319_14262116_28112052",
+    "course_code": "HISTORY-203-01",
+    "title": "HISTORY OF GLOBAL HEALTH.HISTORY-203-01.GLHLTH-203-01.HLTHPOL-203-01.",
+    "instructor": "Humphreys, Margaret",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "9 of 40  responded (22.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "ivMbF4whQsemav4Nu4lbVA%3d%3d",
+      "data-id3": "CJRJ72OShMqCfZVopxGJnQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GLHLTH",
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782094"
+  },
+  {
+    "uid": "179281_10319_14262124_27991426",
+    "course_code": "PUBPOL-296-01",
+    "title": "WARS OF EMPIRE.PUBPOL-296-01.HISTORY-205-01.",
+    "instructor": "Siegel, Jennifer",
+    "term": "Spring 2025",
+    "area": "PPS",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "8kGUZVNZzdHKAX1sEdd3QA%3d%3d",
+      "data-id3": "qBTUU%2fmZ4GN1igZ%2biKEmWg%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782172"
+  },
+  {
+    "uid": "179281_10319_14262134_27446132",
+    "course_code": "AAAS-349S-01",
+    "title": "CONTEMPORARY SOUTH AFRICA.AAAS-349S-01.HISTORY-259S-01.POLSCI-368S-01.PUBPOL-321S-01.RIGHTS-351S-01.SOCIOL-259S-01.",
+    "instructor": "Shapiro, Karin",
+    "term": "Spring 2025",
+    "area": "AFRAMRST",
+    "response_rate": "12 of 16  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "5aloH%2b6jOpV%2f9TeM1mYbqA%3d%3d",
+      "data-id3": "yE7KOjM%2bqKr1WotVPjMxlg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "HISTORY",
+      "POLSCI",
+      "PUBPOL",
+      "RIGHTS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782250"
+  },
+  {
+    "uid": "179281_10319_14262138_28807841",
+    "course_code": "HISTORY-164S-01",
+    "title": "GTWY SEM-ANTISEMITISM.HISTORY-164S-01.ICS-164S-01.JEWISHST-164S-01.POLSCI-164S-01.RELIGION-164S-01.",
+    "instructor": "Hacohen, Malachi",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "FbU7%2bUtxE6mVzUXifcJqow%3d%3d",
+      "data-id3": "%2fr%2foy16aiofZRjW%2bCwt3IA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS",
+      "JEWISHST",
+      "POLSCI",
+      "RELIGION"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782326"
+  },
+  {
+    "uid": "179281_10319_14262146_30187767",
+    "course_code": "HISTORY-106-01",
+    "title": "SCIENCE AND THE MODERN WORLD.HISTORY-106-01.ICS-118-01.SCISOC-118-01.",
+    "instructor": "Hepler-Smith, Evan",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "12 of 17  responded (70.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "%2fgfwgV8WP28HnYxOsTcalA%3d%3d",
+      "data-id3": "9y0f5MA6MRiSuUv71Dqzbw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "ICS",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782403"
+  },
+  {
+    "uid": "179281_10319_14262157_30187743",
+    "course_code": "HISTORY-310-01",
+    "title": "THE AGE OF REVOLUTIONS.HISTORY-310-01.AAAS-311-01.ROMST-311-01.",
+    "instructor": "Lamotte, Melanie",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "23 of 28  responded (82.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "7QrqK08DX3C7qwnEv7zA3Q%3d%3d",
+      "data-id3": "pWOUoXiSCYWMK%2fSaEdBgmA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "ROMST"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782477"
+  },
+  {
+    "uid": "179281_10319_14262158_28112245",
+    "course_code": "ENVIRON-299S-01",
+    "title": "CLIMATE, SCIENCE, AND SOCIETY.ENVIRON-299S-01.HISTORY-299S-01.",
+    "instructor": "Shapiro, Justin",
+    "term": "Spring 2025",
+    "area": "NSOE",
+    "response_rate": "15 of 17  responded (88.24%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99019",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "DmNojij7c16joED7jYU9JQ%3d%3d",
+      "data-id3": "3l3IpxnObDRHm8EubfXswA%3d%3d"
+    },
+    "department_codes": [
+      "ENVIRON",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782552"
+  },
+  {
+    "uid": "179281_10319_14262188_28112123",
+    "course_code": "AAAS-335-01",
+    "title": "HISTORY OF HIP-HOP.AAAS-335-01.CULANTH-335-01.ENGLISH-381-01.HISTORY-335-01.MUSIC-335-01.VMS-337-01.",
+    "instructor": "Douthit, Patrick",
+    "term": "Spring 2025",
+    "area": "AFRAMRST",
+    "response_rate": "18 of 135  responded (13.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "xfroPrQj7nfHi6lJHb8m6A%3d%3d",
+      "data-id3": "jkemIZ6c26zI3B0%2bARLaCg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "ENGLISH",
+      "HISTORY",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782628"
+  },
+  {
+    "uid": "179281_10319_14262189_27446062",
+    "course_code": "HISTORY-159S-01",
+    "title": "GTWY SEM: GRANDPARENTS.HISTORY-159S-01.DOCST-159S-01.",
+    "instructor": "Partner, Simon",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "5 of 10  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "v%2fMumL9hWHjRvkufbkszoA%3d%3d",
+      "data-id3": "EzGdAKgnP4kzJZQMdoNKNQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "DOCST"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782844"
+  },
+  {
+    "uid": "179281_10319_14262199_28807815",
+    "course_code": "HISTORY-288-01",
+    "title": "HISTORY OF INEQUALITY.HISTORY-288-01.AAAS-288-01.SOCIOL-288-01.",
+    "instructor": "Shareef, Shahrazad",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "24 of 31  responded (77.42%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "fROSpLsk4XgGMCZ9xSOqVw%3d%3d",
+      "data-id3": "CsvE3nJcKUb2Sc6xCoOXvw%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "AAAS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.782935"
+  },
+  {
+    "uid": "179281_10319_14262214_27797712",
+    "course_code": "CLST-307-01",
+    "title": "ATHENIAN LAW.CLST-307-01.HISTORY-413-01.POLSCI-380-01.",
+    "instructor": "Sosin, Joshua",
+    "term": "Spring 2025",
+    "area": "CLASSICAL",
+    "response_rate": "13 of 31  responded (41.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "gcZFRBZB9sFdIFrP9i2AUw%3d%3d",
+      "data-id3": "iQw4tN%2fOx9WkzH8YJdJbEQ%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.783013"
+  },
+  {
+    "uid": "179281_10319_14262224_30926251",
+    "course_code": "CLST-175S-01",
+    "title": "ANCIENT ROME IN TEN OBJECTS.CLST-175S-01.ARTHIST-175S-01.CULANTH-175S-01.HISTORY-132S-01.",
+    "instructor": "Jimenez, Alicia",
+    "term": "Spring 2025",
+    "area": "CLASSICAL",
+    "response_rate": "11 of 14  responded (78.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "FEdEFIzAv%2f4xphFQaFzCIQ%3d%3d",
+      "data-id3": "r4tf9vH7tc%2f0xEiO1iTkjA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "ARTHIST",
+      "CULANTH",
+      "HISTORY"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.783089"
+  },
+  {
+    "uid": "179281_10319_14262277_28112019",
+    "course_code": "HISTORY-138-01",
+    "title": "FROM STALIN TO PUTIN.HISTORY-138-01.RUSSIAN-224-01.",
+    "instructor": "Krylova, Anna",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "VH%2f%2fUpbWukfDUsJS2VFHFw%3d%3d",
+      "data-id3": "zAwFuR8tayPLhGhKupBzqA%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "RUSSIAN"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.783166"
+  },
+  {
+    "uid": "179281_10319_14262290_27991797",
+    "course_code": "AMES-236S-01",
+    "title": "OTTOMAN EMPIRE TO MIDDLE EAST.AMES-236S-01.HISTORY-291S-01.ICS-236S-01.",
+    "instructor": "Goknar, Erdag",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "xinOtlzTX8BAM8jvgrkLcA%3d%3d",
+      "data-id3": "AABXoPdmv0kXjZ7md56yVg%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.783241"
+  },
+  {
+    "uid": "179281_10319_14262307_28596351",
+    "course_code": "AADS-201-01",
+    "title": "INTRO ASIAN AMER DIASP STUDIES.AADS-201-01.AMES-276-01.ENGLISH-275-01.GSF-203-01.HISTORY-274-01.ICS-286-01.",
+    "instructor": "Yoo, Jaeyeon",
+    "term": "Spring 2025",
+    "area": "AADS",
+    "response_rate": "16 of 17  responded (94.12%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98962",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "RUbh%2bwtfYiRXwXQbvwYkNw%3d%3d",
+      "data-id3": "SObpcInSCWfbnvvkcGiHcw%3d%3d"
+    },
+    "department_codes": [
+      "AADS",
+      "AMES",
+      "ENGLISH",
+      "GSF",
+      "HISTORY",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.783410"
+  },
+  {
+    "uid": "179281_10319_14262330_27445972",
+    "course_code": "GERMAN-261-01",
+    "title": "THE VIKING AGE.GERMAN-261-01.HISTORY-256-01.MEDREN-305-01.",
+    "instructor": "Norberg, Jakob",
+    "term": "Spring 2025",
+    "area": "GERMAN",
+    "response_rate": "26 of 27  responded (96.30%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98994",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "ioVvOGBCKmojrMDVHTJwoA%3d%3d",
+      "data-id3": "xWqVlab6JFvlloB3bRZY8g%3d%3d"
+    },
+    "department_codes": [
+      "GERMAN",
+      "HISTORY",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:17:39.783510"
+  },
+  {
+    "uid": "179281_10319_14262411_27445831",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Namakkal, Jessica",
+    "term": "Spring 2025",
+    "area": "ICS",
+    "response_rate": "30 of 39  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "grhDrVO7z0WzDp5hqtOn2Q%3d%3d",
+      "data-id3": "1DXES5LQTzWXOSO8uSZSyQ%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:40.634347"
+  },
+  {
+    "uid": "179281_10319_14262411_28807843",
+    "course_code": "ICS-195-01",
+    "title": "CRITICAL APPR GLOBAL ISSUES.ICS-195-01.CULANTH-195-01.GSF-195-01.HISTORY-103-01.POLSCI-110-01.SOCIOL-195-01.",
+    "instructor": "Gasparowicz, Natalie",
+    "term": "Spring 2025",
+    "area": "ICS",
+    "response_rate": "30 of 39  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99000",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "grhDrVO7z0WzDp5hqtOn2Q%3d%3d",
+      "data-id3": "HUEwkdGRCyibfMydUS7yog%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "GSF",
+      "HISTORY",
+      "POLSCI",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:17:40.634441"
+  },
+  {
+    "uid": "187125_10662_14677211_27991405",
+    "course_code": "PUBPOL-390A-01",
+    "title": "DUKE-ADM ST ABR: ADV TOP.PUBPOL-390A-01.ARTHIST-390A-01.HISTORY-390A-01.VMS-390A-01.",
+    "instructor": "Rogerson, Kenneth",
+    "term": "Summer I 2025",
+    "area": "PPS",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "jEWplQlB%2bshe3uI7LSNBtw%3d%3d",
+      "data-id2": "aqWpXxRA3v%2bAJKv4xvrF6A%3d%3d",
+      "data-id3": "Z%2b4PgL9uuXXOpZJh2Qusmw%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "ARTHIST",
+      "HISTORY",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:17:40.634525"
+  },
+  {
+    "uid": "187125_10662_14677214_27466690",
+    "course_code": "AAAS-103-01",
+    "title": "INTRO TO AFRICAN STUDIES.AAAS-103-01.CULANTH-105-01.HISTORY-129-01.ICS-110-01.POLSCI-108-01.",
+    "instructor": "Daly, Samuel",
+    "term": "Summer I 2025",
+    "area": "AFRAMRST",
+    "response_rate": "8 of 20  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "jEWplQlB%2bshe3uI7LSNBtw%3d%3d",
+      "data-id2": "VWVJpJD%2fYBNVCAEGAoKjrg%3d%3d",
+      "data-id3": "jM0e%2bv8aMV1e00v6crH5vQ%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "HISTORY",
+      "ICS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:17:40.634604"
+  }
+]

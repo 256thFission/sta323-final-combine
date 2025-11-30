@@ -1,0 +1,4727 @@
+[
+  {
+    "uid": "149911_8928_11987235_27466681",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Summer I 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "20 of 25  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+      "data-id2": "5iHN8OV7P4%2b9WbwVpE3KvQ%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.024576"
+  },
+  {
+    "uid": "149911_8928_11987247_27466681",
+    "course_code": "ECE-250D-01D",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-01D.COMPSCI-250D-01D.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Summer I 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 25  responded (44.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+      "data-id2": "ZwDEYajNaO6skFmA6j30Gw%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.024672"
+  },
+  {
+    "uid": "154503_9169_12241348_27445952",
+    "course_code": "ECE-661-01",
+    "title": "COMP ENG ML & DEEP NEURAL NETS.ECE-661-01.",
+    "instructor": "Li, Hai",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "42 of 101  responded (41.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "TqfMzaiag8y1ptFzXhgbEg%3d%3d",
+      "data-id3": "rShwsKoT%2bzttqOadIYVuDg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.024784"
+  },
+  {
+    "uid": "154503_9169_12241355_27991352",
+    "course_code": "ECE-684-01",
+    "title": "NATURAL LANGUAGE PROCESSING.ECE-684-01.",
+    "instructor": "Wang, Patrick",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "31 of 80  responded (38.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Hsq6Q19BhsKFdmjEyOw%2bIA%3d%3d",
+      "data-id3": "LX9BvtE4FESBCYXc4XOTDQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.024863"
+  },
+  {
+    "uid": "154503_9169_12241358_27991596",
+    "course_code": "ECE-590-06",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-06.",
+    "instructor": "Rahbar, Afsaneh",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "26 of 31  responded (83.87%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Ccwo109p%2bxi7cfwMHKyeFQ%3d%3d",
+      "data-id3": "e9OXTN18FUv15BZYgIpMsw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.024940"
+  },
+  {
+    "uid": "154503_9169_12241361_27991601",
+    "course_code": "ECE-520-01",
+    "title": "GRAD INTRO QUANTUM ENGINEERING.ECE-520-01.",
+    "instructor": "Brown, Kenneth",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "8%2beimz71NH4Ex6lObSZfIg%3d%3d",
+      "data-id3": "qdOTC%2bnkh26rPz4ZLnNLtQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025014"
+  },
+  {
+    "uid": "154503_9169_12241365_27991617",
+    "course_code": "ECE-565-01",
+    "title": "PERFORMANCE OPTIMIZ & PARALLEL.ECE-565-01.",
+    "instructor": "Rogers, Brian",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "13 of 29  responded (44.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "ToiSWyjDwP%2fTfFpPDIO1wg%3d%3d",
+      "data-id3": "Aw1yMo5mjlOmOhKtcVeYXQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025088"
+  },
+  {
+    "uid": "154503_9169_12241371_27991581",
+    "course_code": "ECE-551D-001",
+    "title": "PROG, DATA STRUC & ALGO IN C++.ECE-551D-001.",
+    "instructor": "Lipp, Genevieve",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "46 of 54  responded (85.19%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "%2bYd4t2pt9fdWnZIYPS88mg%3d%3d",
+      "data-id3": "2DETG7i%2fjrqOyLob%2bZMgtQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025163"
+  },
+  {
+    "uid": "154503_9169_12241372_27991576",
+    "course_code": "ECE-588-01",
+    "title": "IMAGE & VIDEO PROCESSING.ECE-588-01.",
+    "instructor": "Di Martino, Juan",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "25 of 74  responded (33.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "WTBA2unc2X8vNcNIpb0AJA%3d%3d",
+      "data-id3": "IVrG1wF4%2bAicOThvlWxyBw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025237"
+  },
+  {
+    "uid": "154503_9169_12241373_27991588",
+    "course_code": "ECE-550D-001",
+    "title": "FUND COMP SYSTEM & ENGINEERING.ECE-550D-001.",
+    "instructor": "Younes, Rabih",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "29 of 32  responded (90.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "3GsbpivWske9teNPTRR8ig%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025312"
+  },
+  {
+    "uid": "154503_9169_12241375_27991602",
+    "course_code": "ECE-590-02",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-02.",
+    "instructor": "Calderbank, Arthur",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "FQPdRBX9tGeISlSJltkVYA%3d%3d",
+      "data-id3": "e9aOOplRdPdqt6yKSxORnQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025387"
+  },
+  {
+    "uid": "154503_9169_12241377_27991593",
+    "course_code": "ECE-539-01",
+    "title": "CMOS VLSI DESIGN METHODOLOGIES.ECE-539-01.",
+    "instructor": "Morizio, James",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 18  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Qh0WySaII4aCuiiSujTOpA%3d%3d",
+      "data-id3": "qBdRcCnV0Qq8IIkjN748Fw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025461"
+  },
+  {
+    "uid": "154503_9169_12241388_27991604",
+    "course_code": "ECE-542-01",
+    "title": "HOLOGRAPHY & COHERENT IMAGING.ECE-542-01.",
+    "instructor": "Gehm, Michael",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 10  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "tsn1Zm03OgXYN0pPf%2bFUaQ%3d%3d",
+      "data-id3": "B09XVfsoHxRAfRaEIVb%2fVw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025536"
+  },
+  {
+    "uid": "154503_9169_12241396_27991596",
+    "course_code": "ECE-590-05",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-05.",
+    "instructor": "Rahbar, Afsaneh",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "28 of 30  responded (93.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "9ihLaMFMj99AqWmCpwtg3A%3d%3d",
+      "data-id3": "e9OXTN18FUv15BZYgIpMsw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025652"
+  },
+  {
+    "uid": "154503_9169_12241398_27991581",
+    "course_code": "ECE-551D-002",
+    "title": "PROG, DATA STRUC & ALGO IN C++.ECE-551D-002.",
+    "instructor": "Lipp, Genevieve",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "34 of 40  responded (85.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "91HwVpxrvIP9yxd6d0K%2bLw%3d%3d",
+      "data-id3": "2DETG7i%2fjrqOyLob%2bZMgtQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025730"
+  },
+  {
+    "uid": "154503_9169_12241401_27991594",
+    "course_code": "ECE-574-01",
+    "title": "WAVES IN MATTER.ECE-574-01.",
+    "instructor": "Cummer, Steven",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 12  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "mf4dVLln2FdbZzP1ejVHFA%3d%3d",
+      "data-id3": "m9rXdPuHN3FxJdaCcmctDg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025803"
+  },
+  {
+    "uid": "154503_9169_12241402_27959542",
+    "course_code": "ECE-564-01",
+    "title": "MOBILE APP DEVELOPMENT.ECE-564-01.",
+    "instructor": "Telford, Richard",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "14 of 28  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "AMMzDNG8m%2f8z5T9hWVrDew%3d%3d",
+      "data-id3": "YHxE53UeyhEZwR0kbzUF3Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025876"
+  },
+  {
+    "uid": "154503_9169_12241407_27991588",
+    "course_code": "ECE-550D-002",
+    "title": "FUND COMP SYSTEM & ENGINEERING.ECE-550D-002.",
+    "instructor": "Younes, Rabih",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "28 of 31  responded (90.32%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "wYmXkOrDRbD%2fcyOidXkOTw%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.025948"
+  },
+  {
+    "uid": "154503_9169_12241409_27991605",
+    "course_code": "ECE-581-01",
+    "title": "RANDOM SIGNALS AND NOISE.ECE-581-01.",
+    "instructor": "Richmond, Christ",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 34  responded (32.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "yN0Rp%2b%2b1jBhY5HBjdPEnRg%3d%3d",
+      "data-id3": "VoxoMzosBrIeUyCBMkOtMQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.026022"
+  },
+  {
+    "uid": "154503_9169_12241412_27991610",
+    "course_code": "ECE-526-01",
+    "title": "SEMICON DEVICES FOR IC.ECE-526-01.",
+    "instructor": "Roy, Tania",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "xh4GLbWU4vtmB2Mk8%2b%2f%2f6A%3d%3d",
+      "data-id3": "XVfxXHVHl4blAkipECT5qQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.026092"
+  },
+  {
+    "uid": "154503_9169_12241413_27991614",
+    "course_code": "ECE-586D-001",
+    "title": "VECTOR SPACE METHODS APPL.ECE-586D-001.",
+    "instructor": "Pfister, Henry",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "14 of 29  responded (48.28%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "17f5dpm5utZqYHdVAoqxgw%3d%3d",
+      "data-id3": "OaUzfl%2bmsWFRHPTPfXuOVg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774225"
+  },
+  {
+    "uid": "154503_9169_12241422_27991598",
+    "course_code": "ECE-590-03",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-03.",
+    "instructor": "Litchinitser, Natalia",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "aauuCDwUZXb73dcAEYIuaQ%3d%3d",
+      "data-id3": "VUmpUqa1HCsvz5o%2bvbeEtw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774321"
+  },
+  {
+    "uid": "154503_9169_12241424_27446087",
+    "course_code": "ECE-521-01",
+    "title": "QUANTUM MECHANICS.ECE-521-01.",
+    "instructor": "Stiff-Roberts, Adrienne",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 12  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "4i7xSYmt%2b2D6HQhVJuJ82Q%3d%3d",
+      "data-id3": "bhdaffRxyQnDIEnMqfr4Hw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774397"
+  },
+  {
+    "uid": "154503_9169_12241429_27466681",
+    "course_code": "ECE-560-01",
+    "title": "COMPUTER & INFO SECURITY.ECE-560-01.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "29 of 55  responded (52.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Vdo24%2f%2bxCt3yfpN2qtDfVA%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774476"
+  },
+  {
+    "uid": "154503_9169_12241452_27446150",
+    "course_code": "ECE-701S-01",
+    "title": "ECE MASTERS SUCCESS SEMINAR.ECE-701S-01.",
+    "instructor": "Pajic, Miroslav",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "26 of 47  responded (55.32%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "E3crpBUn6vnJAbSuSqjdQQ%3d%3d",
+      "data-id3": "CLYtAp1FzygGDv8LCp%2bAXA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774563"
+  },
+  {
+    "uid": "154503_9169_12241510_27991338",
+    "course_code": "ECE-587-01",
+    "title": "INFORMATION THEORY.ECE-587-01.STA-563-01.",
+    "instructor": "Reeves, Galen",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 27  responded (40.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "D0N12ImZPxwMc3nIUqeTCQ%3d%3d",
+      "data-id3": "o5O2r5josIeUvZOsn%2f%2fEYA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774639"
+  },
+  {
+    "uid": "154503_9169_12241511_27991763",
+    "course_code": "ECE-623-01",
+    "title": "QUANTUM INFORMATION THEORY.ECE-623-01.PHYSICS-623-01.",
+    "instructor": "Marvian Mashhad, Iman",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 12  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "twOI5ExzJ5IRmlO8EN0Idw%3d%3d",
+      "data-id3": "1fQv46575qmWUS1wUJXzFw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "PHYSICS"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.774716"
+  },
+  {
+    "uid": "154503_9169_12241520_27991701",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "AGtyK22LzqmLKe%2f06jpA0w%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.774818"
+  },
+  {
+    "uid": "154503_9169_12241520_27991703",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "AGtyK22LzqmLKe%2f06jpA0w%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.774932"
+  },
+  {
+    "uid": "154503_9169_12241558_27991767",
+    "course_code": "ECE-685D-001",
+    "title": "INTRO TO DEEP LEARNING.ECE-685D-001.COMPSCI-675D-001.",
+    "instructor": "Tarokh, Vahid",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "31 of 79  responded (39.24%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "9eH5e5%2f1%2bZ063g%2f6QhaTbg%3d%3d",
+      "data-id3": "P36W2DrO%2f%2b4TCBctyArEQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.775012"
+  },
+  {
+    "uid": "154503_9169_12241570_27991701",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "49 of 182  responded (26.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "oteB%2bXVE5Z1v5Kw%2f2jYNFQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.775089"
+  },
+  {
+    "uid": "154503_9169_12241570_27991703",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "49 of 182  responded (26.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "oteB%2bXVE5Z1v5Kw%2f2jYNFQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.775167"
+  },
+  {
+    "uid": "154503_9169_12241612_27991725",
+    "course_code": "COMPSCI-550-01",
+    "title": "ADV COMPUTER ARCHITEC I.COMPSCI-550-01.ECE-552-01.",
+    "instructor": "Sorin, Daniel",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "10 of 33  responded (30.30%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "J1%2bojacgMs4DdbU0SeVd3g%3d%3d",
+      "data-id3": "pkXIxk1%2bkGUgAm0m2f8mJA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.775245"
+  },
+  {
+    "uid": "154503_9169_12241627_27991759",
+    "course_code": "ECE-555-01",
+    "title": "PROBABILITY ELEC AND COMP EGRS.ECE-555-01.COMPSCI-555-01.",
+    "instructor": "Trivedi, Kishor",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "15 of 44  responded (34.09%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "9Tdd6%2bql4q%2ftb8qGBGJiIQ%3d%3d",
+      "data-id3": "DbMe7MEVg23E64rX8hfVaw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.775320"
+  },
+  {
+    "uid": "154503_9169_12241637_27991695",
+    "course_code": "PHYSICS-621-01",
+    "title": "ADVANCED OPTICS.PHYSICS-621-01.BME-552-01.ECE-541-01.",
+    "instructor": "Padilla, Willie",
+    "term": "Fall 2023",
+    "area": "PHYSICS",
+    "response_rate": "7 of 13  responded (53.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98878",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "9AZrQlxx4pP1K9hxLC0iog%3d%3d",
+      "data-id3": "4rbueLb5rsrBcG5BGJuoqA%3d%3d"
+    },
+    "department_codes": [
+      "PHYSICS",
+      "BME",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:19.775396"
+  },
+  {
+    "uid": "154503_9169_12241642_27991701",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "SLPL83K0ixSm3n44HiRbjQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.775473"
+  },
+  {
+    "uid": "154503_9169_12241642_27991703",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "SLPL83K0ixSm3n44HiRbjQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.775546"
+  },
+  {
+    "uid": "154503_9169_12241659_27991701",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "RKYsXTRbuF2hPShYr5ChdQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.775619"
+  },
+  {
+    "uid": "154503_9169_12241659_27991703",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "RKYsXTRbuF2hPShYr5ChdQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.775713"
+  },
+  {
+    "uid": "154503_9169_12241663_27991701",
+    "course_code": "COMPSCI-671D-10D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-10D.ECE-687D-10D.STA-671D-10D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "6 of 20  responded (30.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "wTF4%2bubMu9%2brDQyTjuv4Ow%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:19.775795"
+  },
+  {
+    "uid": "154503_9169_12241663_27991703",
+    "course_code": "COMPSCI-671D-10D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-10D.ECE-687D-10D.STA-671D-10D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "6 of 20  responded (30.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "wTF4%2bubMu9%2brDQyTjuv4Ow%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:20.581858"
+  },
+  {
+    "uid": "154503_9169_12241673_27991701",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 18  responded (38.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "5YPia3h65epIHVXzhdZCuQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:20.581967"
+  },
+  {
+    "uid": "154503_9169_12241673_27991703",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 18  responded (38.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "5YPia3h65epIHVXzhdZCuQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:20.582055"
+  },
+  {
+    "uid": "154503_9169_12241700_27991750",
+    "course_code": "COMPSCI-514-01",
+    "title": "ADVANCED COMPUTER NETWORKS.COMPSCI-514-01.ECE-558-01.",
+    "instructor": "Maggs, Bruce",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "33 of 69  responded (47.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "eImMn%2bevD3KsYAapSBDDcw%3d%3d",
+      "data-id3": "QlTz96%2b0tf%2fTuugtZfjCuQ%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582139"
+  },
+  {
+    "uid": "153858_9169_12282520_28111984",
+    "course_code": "ECE-280L-002",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-002.",
+    "instructor": "Gustafson, Michael",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "16 of 30  responded (53.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "6%2fwum4OiQRjUDf43Djd82Q%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582224"
+  },
+  {
+    "uid": "153858_9169_12282522_28111991",
+    "course_code": "ECE-230L-001",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-001.",
+    "instructor": "Franklin, Aaron",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "35 of 38  responded (92.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "yytA%2fEgjZ7suLzVR5e6WGg%3d%3d",
+      "data-id3": "YxSuB8y2vjGESXPh%2bfyRiA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582314"
+  },
+  {
+    "uid": "153858_9169_12282554_27445842",
+    "course_code": "ECE-110L-002",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-002.",
+    "instructor": "Huettel, Lisa",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 23  responded (43.48%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "%2f5mIqUVHGC8o9EQjPFM5dQ%3d%3d",
+      "data-id3": "wgY%2fiK69nG6SY1bf2s4v5g%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582396"
+  },
+  {
+    "uid": "153858_9169_12282568_28111986",
+    "course_code": "ECE-280L-001",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-001.",
+    "instructor": "Collins, Leslie",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "15 of 40  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "20sWjPBciCxUgbMmNytbDw%3d%3d",
+      "data-id3": "tsTIgc4Tg2fmxTOHAkiONQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582481"
+  },
+  {
+    "uid": "153858_9169_12282579_28111948",
+    "course_code": "ECE-480-01",
+    "title": "APPLIED PROB FOR STAT LEARNING.ECE-480-01.",
+    "instructor": "Tantum, Stacy",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "16 of 35  responded (45.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "7CmjcdmPKlNybIJlZphHIQ%3d%3d",
+      "data-id3": "I7wWIyYKUZuNsQrLUMBoQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582575"
+  },
+  {
+    "uid": "153858_9169_12282599_28111982",
+    "course_code": "ECE-110L-001",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-001.",
+    "instructor": "Massoud, Hisham",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 15  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "N8%2b7lPJLq8TJMdmYz0rx4w%3d%3d",
+      "data-id3": "31XW4zzAMJMPXp54EtcNeQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582656"
+  },
+  {
+    "uid": "153858_9169_12282606_28111974",
+    "course_code": "ECE-110L-003",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-003.",
+    "instructor": "Smith, David",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 25  responded (24.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "mFiHsbmTIt0%2bIhVcx7yP5g%3d%3d",
+      "data-id3": "VnhtrsAuIFyViYmL5B4Whw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582737"
+  },
+  {
+    "uid": "153858_9169_12282647_28111990",
+    "course_code": "ECE-270DL-001",
+    "title": "FIELDS AND WAVES.ECE-270DL-001.",
+    "instructor": "Monroe, Christopher",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 22  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "19egukdAZZahjDuRL1T0Sw%3d%3d",
+      "data-id3": "4ouGpGnkrFhO6AroKfKmRw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:20.582822"
+  },
+  {
+    "uid": "153858_9169_12282787_28112116",
+    "course_code": "COMPSCI-290-01",
+    "title": "TOPICS IN COMPUTER SCIENCE.COMPSCI-290-01.ECE-290-01.ISS-290-01.PUBPOL-290-12.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "17 of 59  responded (28.81%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "DkcreYNBxVYxaLTaO2esLA%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582904"
+  },
+  {
+    "uid": "153858_9169_12282811_28112132",
+    "course_code": "ECE-495-02",
+    "title": "SPECIAL TOPICS.ECE-495-02.COMPSCI-390-02.",
+    "instructor": "Chen, Tingjun",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 8  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "rPbsyq1zyV7SYT3hmvRIcg%3d%3d",
+      "data-id3": "0zC5HKjjt5pqwX4UMzF6MA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.582988"
+  },
+  {
+    "uid": "153858_9169_12282834_27991488",
+    "course_code": "ECE-383-01",
+    "title": "INTRO ROBOTICS/AUTOMATION.ECE-383-01.ME-442-01.",
+    "instructor": "Oca, Siobhan",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 34  responded (52.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "35Ud%2fzoa%2bSIpakBkbKYLDw%3d%3d",
+      "data-id3": "Kft%2fOa%2b8Ej8ftGl5cHOXCw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ME"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.583106"
+  },
+  {
+    "uid": "153858_9169_12282983_28112220",
+    "course_code": "COMPSCI-310-01D",
+    "title": "INTRO TO OPERATING SYSTM.COMPSCI-310-01D.ECE-353-01D.",
+    "instructor": "Lentz, Matthew",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "28 of 115  responded (24.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "0zJmcJaYMjHEBT9TyXhG5g%3d%3d",
+      "data-id3": "TMDljB9oTzfDnFe6TiH1fA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:20.583198"
+  },
+  {
+    "uid": "153858_9169_12283015_28112076",
+    "course_code": "ME-344L-001",
+    "title": "CONTROL SYSTEMS.ME-344L-001.ECE-382L-001.",
+    "instructor": "Bridgeman, Leila",
+    "term": "Fall 2023",
+    "area": "MECHANICAL",
+    "response_rate": "49 of 55  responded (89.09%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99042",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "hoXuxVGrCJ%2b%2bNnm08Ep4sA%3d%3d",
+      "data-id3": "pi7VPQYzn68vJiicFfpeIg%3d%3d"
+    },
+    "department_codes": [
+      "ME",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.583280"
+  },
+  {
+    "uid": "153858_9169_12283059_28112220",
+    "course_code": "COMPSCI-310-001",
+    "title": "INTRO TO OPERATING SYSTM.COMPSCI-310-001.ECE-353-001.",
+    "instructor": "Lentz, Matthew",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "40 of 111  responded (36.04%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "aMp%2bYWa1faB3dByaYBwvzA%3d%3d",
+      "data-id3": "TMDljB9oTzfDnFe6TiH1fA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.583371"
+  },
+  {
+    "uid": "153858_9169_12283128_27991506",
+    "course_code": "ECE-461-01",
+    "title": "OCEAN ENGINEERING.ECE-461-01.ENVIRON-461-01.ME-426-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 20  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "bK9IRu8P6Xod2LlkkDh7Bw%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON",
+      "ME"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.583458"
+  },
+  {
+    "uid": "153858_9169_12283181_27466681",
+    "course_code": "ECE-350L-001",
+    "title": "DIGITAL SYSTEMS.ECE-350L-001.COMPSCI-350L-001.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 33  responded (30.30%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "u6z3fpVSVcQjn3Zl81LrFQ%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:20.583581"
+  },
+  {
+    "uid": "153858_9169_12283228_28112211",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Board, John",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "160 of 178  responded (89.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "%2fgnfmLKudwb0KrHpzXMzTQ%3d%3d",
+      "data-id3": "%2fzO3D%2fBNNZ2rJKEsCewjUA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457014"
+  },
+  {
+    "uid": "161337_9470_12750567_28807754",
+    "course_code": "ECE-485-01",
+    "title": "DIGITAL AUDIO PROCESSING.ECE-485-01.",
+    "instructor": "Krolik, Jeffrey",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 21  responded (38.10%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "yuG%2bmdhygY%2b%2bU1CBjJPM4Q%3d%3d",
+      "data-id3": "PMbGK0nxrL7%2b8WUgaV6%2b2w%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457173"
+  },
+  {
+    "uid": "161337_9470_12750570_27991610",
+    "course_code": "ECE-230L-02",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-02.",
+    "instructor": "Roy, Tania",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "34 of 37  responded (91.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "EKMIYoLvTJ%2fNvqZM%2b2BzPg%3d%3d",
+      "data-id3": "XVfxXHVHl4blAkipECT5qQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457268"
+  },
+  {
+    "uid": "161337_9470_12750577_28111982",
+    "course_code": "ECE-110L-003",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-003.",
+    "instructor": "Massoud, Hisham",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 20  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "ThO8RbIp%2b17vQriI2I%2fpoA%3d%3d",
+      "data-id3": "31XW4zzAMJMPXp54EtcNeQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457354"
+  },
+  {
+    "uid": "161337_9470_12750593_28111996",
+    "course_code": "ECE-331L-001",
+    "title": "FUND. OF MICROELECT. CIRCUITS.ECE-331L-001.",
+    "instructor": "Fair, Richard",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "R8pPNDh7%2bBeh7G5BXYpvsA%3d%3d",
+      "data-id3": "Ydjon8e%2f%2b5v1FfMI%2bGjQnw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457439"
+  },
+  {
+    "uid": "161337_9470_12750609_28111984",
+    "course_code": "ECE-280L-01",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-01.",
+    "instructor": "Gustafson, Michael",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "24 of 38  responded (63.16%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "p5y3pwZ87rZ%2bJu1jp%2fJqjA%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457522"
+  },
+  {
+    "uid": "161337_9470_12750622_28111948",
+    "course_code": "ECE-487-01",
+    "title": "SYS DESIGN FOR ML & SIG PROCES.ECE-487-01.",
+    "instructor": "Tantum, Stacy",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 18  responded (27.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "QQ1DKTab7G%2bpL11w2WThIA%3d%3d",
+      "data-id3": "I7wWIyYKUZuNsQrLUMBoQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457690"
+  },
+  {
+    "uid": "161337_9470_12750632_27991610",
+    "course_code": "ECE-230L-01",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-01.",
+    "instructor": "Roy, Tania",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "41 of 55  responded (74.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "uUUGkE3xY88gFqsTfRLXiw%3d%3d",
+      "data-id3": "XVfxXHVHl4blAkipECT5qQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457793"
+  },
+  {
+    "uid": "161337_9470_12750632_28807758",
+    "course_code": "ECE-230L-01",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-01.",
+    "instructor": "Brown, April",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "41 of 55  responded (74.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "uUUGkE3xY88gFqsTfRLXiw%3d%3d",
+      "data-id3": "UdPmiUIeWsYe3u2JoSy%2fxw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457878"
+  },
+  {
+    "uid": "161337_9470_12750638_28111984",
+    "course_code": "ECE-110L-002",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-002.",
+    "instructor": "Gustafson, Michael",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "28 of 41  responded (68.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "i4VkYsvKdxgGtBjDH%2bA5%2fQ%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.457960"
+  },
+  {
+    "uid": "161337_9470_12750653_28111974",
+    "course_code": "ECE-270DL-002",
+    "title": "FIELDS AND WAVES.ECE-270DL-002.",
+    "instructor": "Smith, David",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 38  responded (47.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "wpWdzBZNvfUmgxyUsGc%2fsA%3d%3d",
+      "data-id3": "VnhtrsAuIFyViYmL5B4Whw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:21.458040"
+  },
+  {
+    "uid": "161337_9470_12750665_27991340",
+    "course_code": "ECE-110L-001",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-001.",
+    "instructor": "Daily, Shaundra",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "13 of 47  responded (27.66%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "G6Qz1zQMv3CWzytAXYZ76g%3d%3d",
+      "data-id3": "Cu8F0wGobTYr13WR%2bWHw0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458125"
+  },
+  {
+    "uid": "161337_9470_12750681_27445842",
+    "course_code": "ECE-110L-005",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-005.",
+    "instructor": "Huettel, Lisa",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "15 of 38  responded (39.47%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "KzRnfuW5iISAC9pkbEkJZg%3d%3d",
+      "data-id3": "wgY%2fiK69nG6SY1bf2s4v5g%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458207"
+  },
+  {
+    "uid": "161337_9470_12750699_27991604",
+    "course_code": "ECE-270DL-001",
+    "title": "FIELDS AND WAVES.ECE-270DL-001.",
+    "instructor": "Gehm, Michael",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "36 of 41  responded (87.80%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "OaFUIrDkDjOEs%2f9N6gaPwg%3d%3d",
+      "data-id3": "B09XVfsoHxRAfRaEIVb%2fVw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:21.458286"
+  },
+  {
+    "uid": "161337_9470_12750712_27466681",
+    "course_code": "ECE-458-01",
+    "title": "ENG SOFTWARE MAINTAINABILITY.ECE-458-01.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "D0BMiPxVrj2rxP8GT%2fi0uA%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458369"
+  },
+  {
+    "uid": "161337_9470_12750717_27991506",
+    "course_code": "ECE-449-01",
+    "title": "SENSOR&SENSOR INTERFACE DESIGN.ECE-449-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 23  responded (34.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "cSokO%2f4PxrEhABgGWBnCSw%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458471"
+  },
+  {
+    "uid": "161337_9470_12750717_28111971",
+    "course_code": "ECE-449-01",
+    "title": "SENSOR&SENSOR INTERFACE DESIGN.ECE-449-01.",
+    "instructor": "Jokerst, Nan M",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 23  responded (34.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "cSokO%2f4PxrEhABgGWBnCSw%3d%3d",
+      "data-id3": "lS7u3UMcZa04ILfTpcMEiw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458589"
+  },
+  {
+    "uid": "161337_9470_12750742_27991594",
+    "course_code": "ECE-110L-004",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-004.",
+    "instructor": "Cummer, Steven",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "41 of 41  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "giFU0oOBji5OvMsNz1Qqcg%3d%3d",
+      "data-id3": "m9rXdPuHN3FxJdaCcmctDg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458680"
+  },
+  {
+    "uid": "161337_9470_12750829_28807794",
+    "course_code": "COMPSCI-356-01",
+    "title": "COMP NETWORK ARCHITEC.COMPSCI-356-01.ECE-356-01.",
+    "instructor": "Gong, Zhenqiang (Neil)",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "35 of 80  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "bXXzRfhrCwNJu1PS%2b1yERQ%3d%3d",
+      "data-id3": "YJht4ga%2fSKcwHyWn3Gl7NA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458762"
+  },
+  {
+    "uid": "161337_9470_12750840_27991725",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Sorin, Daniel",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "180 of 209  responded (86.12%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "3jKRbUhcJ5ykoCIpdMM8uA%3d%3d",
+      "data-id3": "pkXIxk1%2bkGUgAm0m2f8mJA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:21.458844"
+  },
+  {
+    "uid": "161337_9470_12750939_27991478",
+    "course_code": "ECE-365-01",
+    "title": "RAINFOREST ENGINEERING.ECE-365-01.ENVIRON-454-01.",
+    "instructor": "Pimm, Stuart",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "23 of 24  responded (95.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "BDI%2fLauNA3ZiOgHXOwPEIg%3d%3d",
+      "data-id3": "dQVgZs3v7elenvmt5%2fboJw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.307419"
+  },
+  {
+    "uid": "161337_9470_12750939_27991506",
+    "course_code": "ECE-365-01",
+    "title": "RAINFOREST ENGINEERING.ECE-365-01.ENVIRON-454-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "23 of 24  responded (95.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "BDI%2fLauNA3ZiOgHXOwPEIg%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.307529"
+  },
+  {
+    "uid": "161337_9470_12750994_28112211",
+    "course_code": "ECE-350L-001",
+    "title": "DIGITAL SYSTEMS.ECE-350L-001.COMPSCI-350L-001.",
+    "instructor": "Board, John",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "40 of 64  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "FfBYvIbtCp57kbuKxoTpJA%3d%3d",
+      "data-id3": "%2fzO3D%2fBNNZ2rJKEsCewjUA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.307618"
+  },
+  {
+    "uid": "161337_9470_12751065_27991581",
+    "course_code": "ME-344L-001",
+    "title": "CONTROL SYSTEMS.ME-344L-001.ECE-382L-001.",
+    "instructor": "Lipp, Genevieve",
+    "term": "Spring 2024",
+    "area": "MECHANICAL",
+    "response_rate": "43 of 67  responded (64.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99042",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "8%2fQTNtrsORyOBWVwFSpwew%3d%3d",
+      "data-id3": "2DETG7i%2fjrqOyLob%2bZMgtQ%3d%3d"
+    },
+    "department_codes": [
+      "ME",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.307699"
+  },
+  {
+    "uid": "161325_9470_12751989_27466681",
+    "course_code": "ECE-566-01",
+    "title": "ENTERPRISE STORAGE ARCH.ECE-566-01.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "15 of 17  responded (88.24%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "14y00AP2RR74a9UkPEl0%2bg%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.308846"
+  },
+  {
+    "uid": "161325_9470_12751997_28807952",
+    "course_code": "ECE-661-01",
+    "title": "COMP ENG ML & DEEP NEURAL NETS.ECE-661-01.",
+    "instructor": "Chen, Yiran",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "24 of 57  responded (42.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "%2fehTsLv%2fr9nMFzNT%2fy6Ucw%3d%3d",
+      "data-id3": "DXJ%2folPe4YqhbBJE8vpW%2bg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309009"
+  },
+  {
+    "uid": "161325_9470_12752004_28111982",
+    "course_code": "ECE-529-01",
+    "title": "DIGITAL INTEGRATED CIR.ECE-529-01.",
+    "instructor": "Massoud, Hisham",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "7 of 9  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "8VR4k4dk87WNSAeYcXLrvg%3d%3d",
+      "data-id3": "31XW4zzAMJMPXp54EtcNeQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309410"
+  },
+  {
+    "uid": "161325_9470_12752020_28111991",
+    "course_code": "ECE-512-01",
+    "title": "EMERGING NANOELEC DEVICES.ECE-512-01.",
+    "instructor": "Franklin, Aaron",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "21 of 24  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "CK4uTuk726SOAH0MJEPgDA%3d%3d",
+      "data-id3": "YxSuB8y2vjGESXPh%2bfyRiA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309508"
+  },
+  {
+    "uid": "161325_9470_12752027_27991593",
+    "course_code": "ECE-532-01",
+    "title": "ANALOG INTEG CIR DSGN.ECE-532-01.",
+    "instructor": "Morizio, James",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "20 of 23  responded (86.96%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "E7Wt%2fQFKihvPykgFTf1t3Q%3d%3d",
+      "data-id3": "qBdRcCnV0Qq8IIkjN748Fw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309596"
+  },
+  {
+    "uid": "161325_9470_12752034_27991759",
+    "course_code": "ECE-590-01",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-01.",
+    "instructor": "Trivedi, Kishor",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 47  responded (38.30%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "hHdKLYryviFLJ%2fPsKMtvWQ%3d%3d",
+      "data-id3": "DbMe7MEVg23E64rX8hfVaw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309681"
+  },
+  {
+    "uid": "161325_9470_12752047_28807955",
+    "course_code": "ECE-590-03",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-03.",
+    "instructor": "Carin, Lawrence",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "25 of 60  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "I5Mo6N4zsqWUF%2fUtFv7Txw%3d%3d",
+      "data-id3": "kWmecv%2b%2fEOjLYV1KhpDj4A%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309779"
+  },
+  {
+    "uid": "161325_9470_12752055_27991617",
+    "course_code": "ECE-568-01",
+    "title": "ENGINEERING ROBUST SERVER SOFT.ECE-568-01.",
+    "instructor": "Rogers, Brian",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "20 of 41  responded (48.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "M9WMC7Uy2rjdLy1JdSxlRg%3d%3d",
+      "data-id3": "Aw1yMo5mjlOmOhKtcVeYXQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309877"
+  },
+  {
+    "uid": "161325_9470_12752067_27991588",
+    "course_code": "ECE-650-01",
+    "title": "SYSTEMS PROGRAM & ENGINEERING.ECE-650-01.",
+    "instructor": "Younes, Rabih",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "21 of 38  responded (55.26%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "vf06B%2bahJqis5o2QqAHmKQ%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.309965"
+  },
+  {
+    "uid": "161325_9470_12752069_28111948",
+    "course_code": "ECE-580-01",
+    "title": "INTRO TO MACHINE LEARNING.ECE-580-01.",
+    "instructor": "Tantum, Stacy",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "19 of 30  responded (63.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "B5aVc%2fmefwZ4ZJV5x5%2fdWw%3d%3d",
+      "data-id3": "I7wWIyYKUZuNsQrLUMBoQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310051"
+  },
+  {
+    "uid": "161325_9470_12752080_27991598",
+    "course_code": "ECE-545-01",
+    "title": "FOUND NANOELEC & NANOPHOTONICS.ECE-545-01.",
+    "instructor": "Litchinitser, Natalia",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 13  responded (46.15%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "LXOHzMQPXQz5g%2b3dvt4wHg%3d%3d",
+      "data-id3": "VUmpUqa1HCsvz5o%2bvbeEtw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310132"
+  },
+  {
+    "uid": "161325_9470_12752120_27991653",
+    "course_code": "ME-555-09",
+    "title": "ADVANCED TOPICS.ME-555-09.COMPSCI-590-09.ECE-590-09.",
+    "instructor": "Chen, Boyuan",
+    "term": "Spring 2024",
+    "area": "MECHANICAL",
+    "response_rate": "10 of 18  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98390",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "MrUBpOLhPbHr1%2bNMx9%2f%2fvQ%3d%3d",
+      "data-id3": "cL4xSO23owVCBm0mDju%2fag%3d%3d"
+    },
+    "department_codes": [
+      "ME",
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310281"
+  },
+  {
+    "uid": "161325_9470_12752131_27991779",
+    "course_code": "ECE-511-01",
+    "title": "FOUNDATIONS NANOSCALE SCI/TECH.ECE-511-01.CHEM-611-01.NANOSCI-511-01.",
+    "instructor": "Liu, Jie",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 21  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "O5M%2bGc7l4TjHbXP58IFqcg%3d%3d",
+      "data-id3": "9Q8ulxLmphLRDRL1rVEdKQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "CHEM",
+      "NANOSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310481"
+  },
+  {
+    "uid": "161325_9470_12752139_28112132",
+    "course_code": "ECE-590-05",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-05.COMPSCI-590-05.",
+    "instructor": "Chen, Tingjun",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 23  responded (34.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "EGJ4q7mq1%2fbKr3T74QUr9Q%3d%3d",
+      "data-id3": "0zC5HKjjt5pqwX4UMzF6MA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310588"
+  },
+  {
+    "uid": "161325_9470_12752153_27991467",
+    "course_code": "ECE-523-01",
+    "title": "QUANTUM COMPUTING.ECE-523-01.PHYSICS-627-01.",
+    "instructor": "Klco, Natalie",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "gyFvBjPkuTwzZJcymEn52w%3d%3d",
+      "data-id3": "%2bsi0kXw3xkpIdt4JGlj6FA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "PHYSICS"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310671"
+  },
+  {
+    "uid": "161325_9470_12752182_27991478",
+    "course_code": "ECE-534-01",
+    "title": "GRAD RAINFOREST ENGINEERING.ECE-534-01.ENVIRON-554-01.",
+    "instructor": "Pimm, Stuart",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "fhhyYwE9yivyQYf9wgeP0Q%3d%3d",
+      "data-id3": "dQVgZs3v7elenvmt5%2fboJw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:22.310781"
+  },
+  {
+    "uid": "161325_9470_12752182_27991506",
+    "course_code": "ECE-534-01",
+    "title": "GRAD RAINFOREST ENGINEERING.ECE-534-01.ENVIRON-554-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "fhhyYwE9yivyQYf9wgeP0Q%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059432"
+  },
+  {
+    "uid": "161325_9470_12752193_27991764",
+    "course_code": "COMPSCI-582-01",
+    "title": "CRYPTOGRAPHY.COMPSCI-582-01.ECE-656-01.",
+    "instructor": "Reiter, Michael",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "7 of 13  responded (53.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "SZEWG0ETs%2fiXjz7Z8Wh6ng%3d%3d",
+      "data-id3": "%2brAcvjJnkWbTGV8WPdrprA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059530"
+  },
+  {
+    "uid": "161325_9470_12752205_28807876",
+    "course_code": "STA-561D-001",
+    "title": "PROBABILISTIC MACHINE LEARNING.STA-561D-001.COMPSCI-571D-001.ECE-682D-001.",
+    "instructor": "Laber, Eric",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "38 of 100  responded (38.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "1Xw0Vro4XP%2fO4DFCeTpr0Q%3d%3d",
+      "data-id3": "0Q5jgiW%2byonRs5FFpwyf8w%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059616"
+  },
+  {
+    "uid": "161325_9470_12752216_28112116",
+    "course_code": "COMPSCI-586-01",
+    "title": "USABLE SECURITY AND PRIVACY.COMPSCI-586-01.ECE-657-01.ISS-586-01.PUBPOL-586-01.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "9 of 31  responded (29.03%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "woa9Mq9HhV4EB4NzhSeshg%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059727"
+  },
+  {
+    "uid": "161325_9470_12752234_28807781",
+    "course_code": "ECE-531-01",
+    "title": "PWR CKTS FOR ENERGY CONVERSION.ECE-531-01.ENRGYEGR-531-01.",
+    "instructor": "Peterchev, Angel",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "7 of 9  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "A8SFLnhnf9VtTRUG90g9lw%3d%3d",
+      "data-id3": "cS8Ta4GpgKJ3m%2baa7BQgWw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENRGYEGR"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059817"
+  },
+  {
+    "uid": "161325_9470_12752269_27991767",
+    "course_code": "ECE-689-01",
+    "title": "ADV TOPICS IN DEEP LEARNING.ECE-689-01.COMPSCI-676-01.",
+    "instructor": "Tarokh, Vahid",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "17 of 38  responded (44.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "GyQskMdZgn0hCm%2bkc3im2Q%3d%3d",
+      "data-id3": "P36W2DrO%2f%2b4TCBctyArEQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059902"
+  },
+  {
+    "uid": "161325_9470_12752272_28807966",
+    "course_code": "ECE-553-01",
+    "title": "COMPILER CONSTRUCTION.ECE-553-01.COMPSCI-553-01.",
+    "instructor": "Hilton, Andrew",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 20  responded (90.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "8lXeMsjbQOxrHHBJ7Gxcvw%3d%3d",
+      "data-id3": "q2UyAs8ZFrxQucdNZvS7oQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.059985"
+  },
+  {
+    "uid": "161325_9470_12752337_28807968",
+    "course_code": "ECE-654-01",
+    "title": "EDGE COMPUTING.ECE-654-01.COMPSCI-564-01.",
+    "instructor": "Gorlatova, Maria",
+    "term": "Spring 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "JFDNcDFMO8isarHSK9Jm2w%3d%3d",
+      "data-id3": "AYTv2xe2ivdzO00M3mZaPQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060068"
+  },
+  {
+    "uid": "161344_9470_12752487_27959553",
+    "course_code": "FINTECH-590-01",
+    "title": "ADV TOPICS IN FINTECH.FINTECH-590-01.ECE-590-06.",
+    "instructor": "Brini, Alessio",
+    "term": "Spring 2024",
+    "area": "FINTECH",
+    "response_rate": "23 of 27  responded (85.19%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98812",
+      "data-id1": "%2b9fL2%2bWJRvQXG5BKhFTEiQ%3d%3d",
+      "data-id2": "3thfZAlFNfAoEBm1Z9xFuQ%3d%3d",
+      "data-id3": "xp6muk1uLN%2b5o0zARpff%2fA%3d%3d"
+    },
+    "department_codes": [
+      "FINTECH",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060151"
+  },
+  {
+    "uid": "167891_9753_13291488_27466681",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Summer I 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "14 of 16  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "6%2brhCO9lgM5iOp4aUS%2b8gg%3d%3d",
+      "data-id2": "VQOGNyhchBm4UgOMCyR8Zg%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060233"
+  },
+  {
+    "uid": "171571_9973_13645468_28807951",
+    "course_code": "ECE-590D-002",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590D-002.",
+    "instructor": "Pastorino, Javier",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 27  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "UBjPhQI979Fwm9s6RLxHLg%3d%3d",
+      "data-id3": "PERVzL0z%2bkN%2bKAz3K2wFew%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060314"
+  },
+  {
+    "uid": "171571_9973_13645474_27991604",
+    "course_code": "ECE-543-01",
+    "title": "STATISTICAL OPTICS.ECE-543-01.",
+    "instructor": "Gehm, Michael",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 17  responded (70.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "Bfqoo5euxNmJaT9XQXaIPQ%3d%3d",
+      "data-id3": "B09XVfsoHxRAfRaEIVb%2fVw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060429"
+  },
+  {
+    "uid": "171571_9973_13645476_30096918",
+    "course_code": "ECE-524-01",
+    "title": "INTRO TO SOLID-STATE PHY.ECE-524-01.",
+    "instructor": "Kozhanov, Alexander",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 18  responded (44.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ii6BGV7b0shsCtPnu24%2fRg%3d%3d",
+      "data-id3": "8rohUqhVqbWRSmEGjvqMpw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060514"
+  },
+  {
+    "uid": "171571_9973_13645479_27991593",
+    "course_code": "ECE-590-08",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-08.",
+    "instructor": "Morizio, James",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "pBey930VXpUDP5Xa%2bxElpQ%3d%3d",
+      "data-id3": "qBdRcCnV0Qq8IIkjN748Fw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060592"
+  },
+  {
+    "uid": "171571_9973_13645482_28807966",
+    "course_code": "ECE-551D-001",
+    "title": "PROG, DATA STRUC & ALGO IN C++.ECE-551D-001.",
+    "instructor": "Hilton, Andrew",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "28 of 33  responded (84.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "eUna2bbIpJuJcw86kJKXHQ%3d%3d",
+      "data-id3": "q2UyAs8ZFrxQucdNZvS7oQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060669"
+  },
+  {
+    "uid": "171571_9973_13645483_27991605",
+    "course_code": "ECE-581-01",
+    "title": "RANDOM SIGNALS AND NOISE.ECE-581-01.",
+    "instructor": "Richmond, Christ",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "24 of 48  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "Vhv64CMMkdHv5O0IY%2fr%2bmQ%3d%3d",
+      "data-id3": "VoxoMzosBrIeUyCBMkOtMQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060746"
+  },
+  {
+    "uid": "171571_9973_13645487_28807794",
+    "course_code": "ECE-663-01",
+    "title": "ML IN ADVERSARIAL SETTINGS.ECE-663-01.",
+    "instructor": "Gong, Zhenqiang (Neil)",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "19 of 43  responded (44.19%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "pud5QAw4zUwEZlgdRfpWTQ%3d%3d",
+      "data-id3": "YJht4ga%2fSKcwHyWn3Gl7NA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060823"
+  },
+  {
+    "uid": "171571_9973_13645488_27991588",
+    "course_code": "ECE-550D-001",
+    "title": "FUND COMP SYSTEM & ENGINEERING.ECE-550D-001.",
+    "instructor": "Younes, Rabih",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 25  responded (48.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "M24SYXEThD181euDLwdrKg%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060901"
+  },
+  {
+    "uid": "171571_9973_13645490_28111996",
+    "course_code": "ECE-528-01",
+    "title": "NANOSCALE IC CHIP TECHNOLOGY.ECE-528-01.",
+    "instructor": "Fair, Richard",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "8MI2TgOhCTP%2bJ%2fzj1loR7Q%3d%3d",
+      "data-id3": "Ydjon8e%2f%2b5v1FfMI%2bGjQnw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.060977"
+  },
+  {
+    "uid": "171571_9973_13645491_27466681",
+    "course_code": "ECE-560-01",
+    "title": "COMPUTER & INFO SECURITY.ECE-560-01.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "32 of 58  responded (55.17%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "vnjgtrtyw4z%2fkQRxtvhmBw%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.061054"
+  },
+  {
+    "uid": "171571_9973_13645495_30096921",
+    "course_code": "ECE-590-06",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-06.",
+    "instructor": "Wenger, Emily",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "7 of 15  responded (46.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "I%2fX9EU6QUu74%2bwIGwyE%2fgQ%3d%3d",
+      "data-id3": "pT93EvkzB67EhmZEfPR06Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816424"
+  },
+  {
+    "uid": "171571_9973_13645496_27991338",
+    "course_code": "ECE-586D-001",
+    "title": "VECTOR SPACE METHODS APPL.ECE-586D-001.",
+    "instructor": "Reeves, Galen",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "21 of 44  responded (47.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "VJp4WSLMR2%2fO%2fApWPGjbhA%3d%3d",
+      "data-id3": "o5O2r5josIeUvZOsn%2f%2fEYA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816531"
+  },
+  {
+    "uid": "171571_9973_13645499_27959542",
+    "course_code": "ECE-564-01",
+    "title": "MOBILE APP DEVELOPMENT.ECE-564-01.",
+    "instructor": "Telford, Richard",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "vJOpTa4IKHBkCr%2fBn2tQeg%3d%3d",
+      "data-id3": "YHxE53UeyhEZwR0kbzUF3Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816617"
+  },
+  {
+    "uid": "171571_9973_13645507_28807952",
+    "course_code": "ECE-661-01",
+    "title": "COMP ENG ML & DEEP NEURAL NETS.ECE-661-01.",
+    "instructor": "Chen, Yiran",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "23 of 68  responded (33.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "%2f8jRcKOwWUJq2ihDtAUiow%3d%3d",
+      "data-id3": "DXJ%2folPe4YqhbBJE8vpW%2bg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816700"
+  },
+  {
+    "uid": "171571_9973_13645509_27446150",
+    "course_code": "ECE-701S-02",
+    "title": "ECE MASTERS SUCCESS SEMINAR.ECE-701S-02.",
+    "instructor": "Pajic, Miroslav",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "47 of 97  responded (48.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "gRYowc9LlaQ3%2bS3rjH3BCA%3d%3d",
+      "data-id3": "CLYtAp1FzygGDv8LCp%2bAXA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816781"
+  },
+  {
+    "uid": "171571_9973_13645510_27446087",
+    "course_code": "ECE-521-01",
+    "title": "QUANTUM MECHANICS.ECE-521-01.",
+    "instructor": "Stiff-Roberts, Adrienne",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "31 of 33  responded (93.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "aS%2b061fVDs2yGkR6%2fdApxg%3d%3d",
+      "data-id3": "bhdaffRxyQnDIEnMqfr4Hw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816862"
+  },
+  {
+    "uid": "171571_9973_13645512_28807951",
+    "course_code": "ECE-590D-001",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590D-001.",
+    "instructor": "Pastorino, Javier",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "iJ%2bjnUo%2fraKqrKmVywsmVw%3d%3d",
+      "data-id3": "PERVzL0z%2bkN%2bKAz3K2wFew%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.816945"
+  },
+  {
+    "uid": "171571_9973_13645523_27991593",
+    "course_code": "ECE-539-01",
+    "title": "CMOS VLSI DESIGN METHODOLOGIES.ECE-539-01.",
+    "instructor": "Morizio, James",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "7 of 20  responded (35.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "BG%2fkRqTOvEluXqB8%2ffP0Hg%3d%3d",
+      "data-id3": "qBdRcCnV0Qq8IIkjN748Fw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817027"
+  },
+  {
+    "uid": "171571_9973_13645526_27991588",
+    "course_code": "ECE-550D-002",
+    "title": "FUND COMP SYSTEM & ENGINEERING.ECE-550D-002.",
+    "instructor": "Younes, Rabih",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "19 of 35  responded (54.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "mIxsm6K59Una3R105qeimg%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817107"
+  },
+  {
+    "uid": "171571_9973_13645533_27991596",
+    "course_code": "ECE-590-01",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-01.",
+    "instructor": "Rahbar, Afsaneh",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "29 of 39  responded (74.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "lfgYNQ7e7rIFYiDZL4x86Q%3d%3d",
+      "data-id3": "e9OXTN18FUv15BZYgIpMsw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817187"
+  },
+  {
+    "uid": "171571_9973_13645536_27991601",
+    "course_code": "ECE-520-01",
+    "title": "GRAD INTRO QUANTUM ENGINEERING.ECE-520-01.",
+    "instructor": "Brown, Kenneth",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "7 of 12  responded (58.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "K5Zb7%2bfAe5SK9UhrRien7w%3d%3d",
+      "data-id3": "qdOTC%2bnkh26rPz4ZLnNLtQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817266"
+  },
+  {
+    "uid": "171571_9973_13645537_27991352",
+    "course_code": "ECE-684-01",
+    "title": "NATURAL LANGUAGE PROCESSING.ECE-684-01.",
+    "instructor": "Wang, Patrick",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "35 of 100  responded (35.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "SBxoPpMebSV1Z4y%2fsm1yxA%3d%3d",
+      "data-id3": "LX9BvtE4FESBCYXc4XOTDQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817368"
+  },
+  {
+    "uid": "171571_9973_13645541_27991617",
+    "course_code": "ECE-565-01",
+    "title": "PERFORMANCE OPTIMIZ & PARALLEL.ECE-565-01.",
+    "instructor": "Rogers, Brian",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 25  responded (36.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "elccTxf1TjqM2hwkHbIJIg%3d%3d",
+      "data-id3": "Aw1yMo5mjlOmOhKtcVeYXQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817460"
+  },
+  {
+    "uid": "171571_9973_13645542_30096923",
+    "course_code": "ECE-590-04",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-04.",
+    "instructor": "Boulia, Donald",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 24  responded (45.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "yM76uV6j19Wal2n0YKsovQ%3d%3d",
+      "data-id3": "DPANky82MlrqBmE9X8Q%2b0w%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817541"
+  },
+  {
+    "uid": "171571_9973_13645545_27991610",
+    "course_code": "ECE-526-01",
+    "title": "SEMICON DEVICES FOR IC.ECE-526-01.",
+    "instructor": "Roy, Tania",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "17 of 17  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "duaMHGxPHW%2bOCP0zJqVDZQ%3d%3d",
+      "data-id3": "XVfxXHVHl4blAkipECT5qQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817622"
+  },
+  {
+    "uid": "171571_9973_13645554_28807966",
+    "course_code": "ECE-551D-003",
+    "title": "PROG, DATA STRUC & ALGO IN C++.ECE-551D-003.",
+    "instructor": "Hilton, Andrew",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "24 of 26  responded (92.31%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ao04py%2fLsKyfM64vxe9mTw%3d%3d",
+      "data-id3": "q2UyAs8ZFrxQucdNZvS7oQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817702"
+  },
+  {
+    "uid": "171571_9973_13645577_27991653",
+    "course_code": "ME-555-06",
+    "title": "ADVANCED TOPICS.ME-555-06.COMPSCI-590-06.ECE-590-07.",
+    "instructor": "Chen, Boyuan",
+    "term": "Fall 2024",
+    "area": "MECHANICAL",
+    "response_rate": "16 of 27  responded (59.26%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98390",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "472e6rdwfGrPh5gPIi%2fpNw%3d%3d",
+      "data-id3": "cL4xSO23owVCBm0mDju%2fag%3d%3d"
+    },
+    "department_codes": [
+      "ME",
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817782"
+  },
+  {
+    "uid": "171571_9973_13645594_27991767",
+    "course_code": "ECE-685D-001",
+    "title": "INTRO TO DEEP LEARNING.ECE-685D-001.COMPSCI-675D-001.",
+    "instructor": "Tarokh, Vahid",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "39 of 97  responded (40.21%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "wVlZH%2bPyVqQfvPrIuVcdiQ%3d%3d",
+      "data-id3": "P36W2DrO%2f%2b4TCBctyArEQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817863"
+  },
+  {
+    "uid": "171571_9973_13645618_27991641",
+    "course_code": "COMPSCI-526-01",
+    "title": "DATA SCIENCE.COMPSCI-526-01.CBB-526-01.ECE-583-01.",
+    "instructor": "Songdechakraiwut, Tananun",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "23 of 64  responded (35.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "M%2fLt2Nwdj5BeC3eP89OpAQ%3d%3d",
+      "data-id3": "s0liyPI4zHrpKJUGs1aGpQ%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "CBB",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:23.817943"
+  },
+  {
+    "uid": "171571_9973_13645626_27675583",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WAm6f253zWwloVTrOMJPuw%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:23.818023"
+  },
+  {
+    "uid": "171571_9973_13645626_27991701",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WAm6f253zWwloVTrOMJPuw%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.592572"
+  },
+  {
+    "uid": "171571_9973_13645636_27991614",
+    "course_code": "ECE-587-01",
+    "title": "INFORMATION THEORY.ECE-587-01.STA-563-01.",
+    "instructor": "Pfister, Henry",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "17 of 33  responded (51.52%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "n3lgz9nlRpIsMlYRULywbA%3d%3d",
+      "data-id3": "OaUzfl%2bmsWFRHPTPfXuOVg%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.592707"
+  },
+  {
+    "uid": "171571_9973_13645638_27991478",
+    "course_code": "ECE-534-01",
+    "title": "GRAD RAINFOREST ENGINEERING.ECE-534-01.ENVIRON-554-01.",
+    "instructor": "Pimm, Stuart",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "26 of 28  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "vdGCHGBb58iEcuBLGupKsw%3d%3d",
+      "data-id3": "dQVgZs3v7elenvmt5%2fboJw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.592794"
+  },
+  {
+    "uid": "171571_9973_13645638_27991506",
+    "course_code": "ECE-534-01",
+    "title": "GRAD RAINFOREST ENGINEERING.ECE-534-01.ENVIRON-554-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "26 of 28  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "vdGCHGBb58iEcuBLGupKsw%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.592877"
+  },
+  {
+    "uid": "171571_9973_13645643_27675583",
+    "course_code": "COMPSCI-671D-09D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-09D.ECE-687D-09D.STA-671D-09D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "hTVdSXtK9IVBXCzYBmYu2g%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.592960"
+  },
+  {
+    "uid": "171571_9973_13645643_27991701",
+    "course_code": "COMPSCI-671D-09D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-09D.ECE-687D-09D.STA-671D-09D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "hTVdSXtK9IVBXCzYBmYu2g%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593041"
+  },
+  {
+    "uid": "171571_9973_13645660_28808002",
+    "course_code": "PHYSICS-621-01",
+    "title": "ADVANCED OPTICS.PHYSICS-621-01.BME-552-01.ECE-541-01.",
+    "instructor": "Wax, Adam",
+    "term": "Fall 2024",
+    "area": "PHYSICS",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98878",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "oAS5qEApr4hu5VLDOcNZfA%3d%3d",
+      "data-id3": "XbPHUisUkeGxeKIn00mBgw%3d%3d"
+    },
+    "department_codes": [
+      "PHYSICS",
+      "BME",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.593122"
+  },
+  {
+    "uid": "171571_9973_13645662_28112168",
+    "course_code": "COMPSCI-514-01",
+    "title": "ADVANCED COMPUTER NETWORKS.COMPSCI-514-01.ECE-558-01.",
+    "instructor": "Yang, Xiaowei",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "13 of 32  responded (40.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "46zxplm8j1MpRIW5rBWWSA%3d%3d",
+      "data-id3": "4Gw5PTiEtVOXMW8pAe%2bk%2bg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.593201"
+  },
+  {
+    "uid": "171571_9973_13645662_29176056",
+    "course_code": "COMPSCI-514-01",
+    "title": "ADVANCED COMPUTER NETWORKS.COMPSCI-514-01.ECE-558-01.",
+    "instructor": "Lin, Shihan",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "13 of 32  responded (40.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "46zxplm8j1MpRIW5rBWWSA%3d%3d",
+      "data-id3": "gVV2Lm1EPfP%2fU92R2feIkA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.593282"
+  },
+  {
+    "uid": "171571_9973_13645664_27675583",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ipWFJhR3ID2GNN2jShBdZw%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593362"
+  },
+  {
+    "uid": "171571_9973_13645664_27991701",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ipWFJhR3ID2GNN2jShBdZw%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593470"
+  },
+  {
+    "uid": "171571_9973_13645696_27991763",
+    "course_code": "ECE-623-01",
+    "title": "QUANTUM INFORMATION THEORY.ECE-623-01.PHYSICS-623-01.",
+    "instructor": "Marvian Mashhad, Iman",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "iLz1HONhqirL%2fO%2fY43ikug%3d%3d",
+      "data-id3": "1fQv46575qmWUS1wUJXzFw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "PHYSICS"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.593559"
+  },
+  {
+    "uid": "171571_9973_13645730_28112132",
+    "course_code": "ECE-655L-001",
+    "title": "FULL-STACK IOT SYSTEMS.ECE-655L-001.COMPSCI-655L-001.",
+    "instructor": "Chen, Tingjun",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "23 of 28  responded (82.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "MAcvtT6oSLtrSdfea%2bQRgA%3d%3d",
+      "data-id3": "0zC5HKjjt5pqwX4UMzF6MA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:24.593645"
+  },
+  {
+    "uid": "171571_9973_13645732_27675583",
+    "course_code": "COMPSCI-671D-04D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-04D.ECE-687D-04D.STA-671D-04D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "16 of 26  responded (61.54%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "zpPU7UVF6WonyXXQgdfpDQ%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593725"
+  },
+  {
+    "uid": "171571_9973_13645732_27991701",
+    "course_code": "COMPSCI-671D-04D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-04D.ECE-687D-04D.STA-671D-04D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "16 of 26  responded (61.54%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "zpPU7UVF6WonyXXQgdfpDQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593831"
+  },
+  {
+    "uid": "171571_9973_13645735_27675583",
+    "course_code": "COMPSCI-671D-11D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-11D.ECE-687D-11D.STA-671D-11D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "DBKY8etdthI2EunxX1P7cA%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593918"
+  },
+  {
+    "uid": "171571_9973_13645735_27991701",
+    "course_code": "COMPSCI-671D-11D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-11D.ECE-687D-11D.STA-671D-11D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "DBKY8etdthI2EunxX1P7cA%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.593999"
+  },
+  {
+    "uid": "171571_9973_13645736_27675583",
+    "course_code": "COMPSCI-671D-01D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-01D.ECE-687D-01D.STA-671D-01D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 31  responded (38.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ilgZ9kYsbcfV5aB5jYocvQ%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.594079"
+  },
+  {
+    "uid": "171571_9973_13645736_27991701",
+    "course_code": "COMPSCI-671D-01D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-01D.ECE-687D-01D.STA-671D-01D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 31  responded (38.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ilgZ9kYsbcfV5aB5jYocvQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.594156"
+  },
+  {
+    "uid": "171571_9973_13645749_27675583",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 21  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "qWGC9m9HqvSvVOhf8R0zZQ%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:24.594235"
+  },
+  {
+    "uid": "171571_9973_13645749_27991701",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 21  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "qWGC9m9HqvSvVOhf8R0zZQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:25.455847"
+  },
+  {
+    "uid": "171571_9973_13645760_27991759",
+    "course_code": "ECE-555-01",
+    "title": "PROBABILITY ELEC AND COMP EGRS.ECE-555-01.COMPSCI-555-01.",
+    "instructor": "Trivedi, Kishor",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 18  responded (44.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ryEnggEZ50EWhEZ0PB3XQQ%3d%3d",
+      "data-id3": "DbMe7MEVg23E64rX8hfVaw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.455958"
+  },
+  {
+    "uid": "171571_9973_13645784_27675583",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "89 of 160  responded (55.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "p07OXsMQ6En3VwzGpRweBw%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456047"
+  },
+  {
+    "uid": "171571_9973_13645784_27991701",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "89 of 160  responded (55.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "p07OXsMQ6En3VwzGpRweBw%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456134"
+  },
+  {
+    "uid": "171571_9973_13645788_27675583",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "JwkTZ5ostU73aaZckZGZjg%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:25.456222"
+  },
+  {
+    "uid": "171571_9973_13645788_27991701",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "JwkTZ5ostU73aaZckZGZjg%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:25.456308"
+  },
+  {
+    "uid": "171550_9973_13686244_27991506",
+    "course_code": "ECE-449-01",
+    "title": "SENSOR&SENSOR INTERFACE DESIGN.ECE-449-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "25 of 27  responded (92.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "cIdDrSqFWH9%2b3D4G75npWw%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456396"
+  },
+  {
+    "uid": "171550_9973_13686244_28111971",
+    "course_code": "ECE-449-01",
+    "title": "SENSOR&SENSOR INTERFACE DESIGN.ECE-449-01.",
+    "instructor": "Jokerst, Nan M",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "25 of 27  responded (92.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "cIdDrSqFWH9%2b3D4G75npWw%3d%3d",
+      "data-id3": "lS7u3UMcZa04ILfTpcMEiw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456481"
+  },
+  {
+    "uid": "171550_9973_13686246_28111948",
+    "course_code": "ECE-480-01",
+    "title": "APPLIED PROB FOR STAT LEARNING.ECE-480-01.",
+    "instructor": "Tantum, Stacy",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "34 of 43  responded (79.07%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "xfZlyCb2suWVePxP3nymXQ%3d%3d",
+      "data-id3": "I7wWIyYKUZuNsQrLUMBoQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456568"
+  },
+  {
+    "uid": "171550_9973_13686260_27991594",
+    "course_code": "ECE-270DL-001",
+    "title": "FIELDS AND WAVES.ECE-270DL-001.",
+    "instructor": "Cummer, Steven",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "16 of 18  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "s1uN1I%2fHOe6Jx0CAy9nNAg%3d%3d",
+      "data-id3": "m9rXdPuHN3FxJdaCcmctDg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:25.456651"
+  },
+  {
+    "uid": "171550_9973_13686268_28111996",
+    "course_code": "ECE-331L-001",
+    "title": "FUND. OF MICROELECT. CIRCUITS.ECE-331L-001.",
+    "instructor": "Fair, Richard",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 14  responded (64.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "PYh30f%2b8OaVXxLmhQSMzjA%3d%3d",
+      "data-id3": "Ydjon8e%2f%2b5v1FfMI%2bGjQnw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456731"
+  },
+  {
+    "uid": "171550_9973_13686277_27466681",
+    "course_code": "ECE-495-04",
+    "title": "SPECIAL TOPICS.ECE-495-04.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "sZbnjwRUtbmMVDmXd8d4Fw%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456811"
+  },
+  {
+    "uid": "171550_9973_13686289_28111984",
+    "course_code": "ECE-280L-02",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-02.",
+    "instructor": "Gustafson, Michael",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 26  responded (42.31%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "bVErhHa1cOIyc8bGdeFGGg%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456892"
+  },
+  {
+    "uid": "171550_9973_13686289_28111986",
+    "course_code": "ECE-280L-02",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-02.",
+    "instructor": "Collins, Leslie",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 26  responded (42.31%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "bVErhHa1cOIyc8bGdeFGGg%3d%3d",
+      "data-id3": "tsTIgc4Tg2fmxTOHAkiONQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.456975"
+  },
+  {
+    "uid": "171550_9973_13686295_28111991",
+    "course_code": "ECE-230L-01",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-01.",
+    "instructor": "Franklin, Aaron",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "31 of 35  responded (88.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "pa0cprBSrsQJKXERIXm3DA%3d%3d",
+      "data-id3": "YxSuB8y2vjGESXPh%2bfyRiA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.457075"
+  },
+  {
+    "uid": "171550_9973_13686322_28111984",
+    "course_code": "ECE-280L-01",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-01.",
+    "instructor": "Gustafson, Michael",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "26 of 50  responded (52.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "FKO811WuWRTcoRivuY5adg%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.457163"
+  },
+  {
+    "uid": "171550_9973_13686329_27991596",
+    "course_code": "ECE-495-03",
+    "title": "SPECIAL TOPICS.ECE-495-03.",
+    "instructor": "Rahbar, Afsaneh",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "d%2bBJzza5SFjYng4WYo22yA%3d%3d",
+      "data-id3": "e9OXTN18FUv15BZYgIpMsw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.457245"
+  },
+  {
+    "uid": "171550_9973_13686331_27445842",
+    "course_code": "ECE-381-001",
+    "title": "FUND OF DIG SIG PROC.ECE-381-001.",
+    "instructor": "Huettel, Lisa",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 11  responded (54.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "7zSyNPrL6ac%2fCHoQbjZO2g%3d%3d",
+      "data-id3": "wgY%2fiK69nG6SY1bf2s4v5g%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.457323"
+  },
+  {
+    "uid": "171550_9973_13686352_27991618",
+    "course_code": "ECE-110L-002",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-002.",
+    "instructor": "Wang, Haozhe",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "27 of 33  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "74iH%2fA3CAWMSORUE%2bbGMKA%3d%3d",
+      "data-id3": "8wVvMk24AB2fhNv73Ns8Fg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:25.457421"
+  },
+  {
+    "uid": "171550_9973_13686376_27991598",
+    "course_code": "ECE-270DL-002",
+    "title": "FIELDS AND WAVES.ECE-270DL-002.",
+    "instructor": "Litchinitser, Natalia",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 21  responded (23.81%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ig4OsNAAeYTikcLDisxhAw%3d%3d",
+      "data-id3": "VUmpUqa1HCsvz5o%2bvbeEtw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:25.457512"
+  },
+  {
+    "uid": "171550_9973_13686384_28807955",
+    "course_code": "ECE-495-01",
+    "title": "SPECIAL TOPICS.ECE-495-01.",
+    "instructor": "Carin, Lawrence",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "14 of 27  responded (51.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HaB90We1nqQSgaaRNuoNsA%3d%3d",
+      "data-id3": "kWmecv%2b%2fEOjLYV1KhpDj4A%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.073695"
+  },
+  {
+    "uid": "171550_9973_13686394_28111982",
+    "course_code": "ECE-110L-001",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-001.",
+    "instructor": "Massoud, Hisham",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 29  responded (37.93%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "FF1KaA2vhCAvVEPNLL4%2bzg%3d%3d",
+      "data-id3": "31XW4zzAMJMPXp54EtcNeQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.073920"
+  },
+  {
+    "uid": "171550_9973_13686605_27991488",
+    "course_code": "ECE-383-01",
+    "title": "INTRO ROBOTICS/AUTOMATION.ECE-383-01.ME-442-01.",
+    "instructor": "Oca, Siobhan",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "13 of 32  responded (40.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "w9mSS5kXl3f1v%2fp%2b4PHqLQ%3d%3d",
+      "data-id3": "Kft%2fOa%2b8Ej8ftGl5cHOXCw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ME"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074017"
+  },
+  {
+    "uid": "171550_9973_13686635_27991478",
+    "course_code": "ECE-365-01",
+    "title": "RAINFOREST ENGINEERING.ECE-365-01.ENVIRON-454-01.",
+    "instructor": "Pimm, Stuart",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "t%2bN8XiY%2fxuRurWWAYRVsgw%3d%3d",
+      "data-id3": "dQVgZs3v7elenvmt5%2fboJw%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074342"
+  },
+  {
+    "uid": "171550_9973_13686635_27991506",
+    "course_code": "ECE-365-01",
+    "title": "RAINFOREST ENGINEERING.ECE-365-01.ENVIRON-454-01.",
+    "instructor": "Brooke, Martin",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "t%2bN8XiY%2fxuRurWWAYRVsgw%3d%3d",
+      "data-id3": "5jcssqVhoBvIT6e3F3fD0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "ENVIRON"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074470"
+  },
+  {
+    "uid": "171550_9973_13686669_27991725",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Sorin, Daniel",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "157 of 175  responded (89.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "gdwLs2qdw05TExLs6stfvA%3d%3d",
+      "data-id3": "pkXIxk1%2bkGUgAm0m2f8mJA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074582"
+  },
+  {
+    "uid": "171550_9973_13686717_27466681",
+    "course_code": "ECE-350L-001",
+    "title": "DIGITAL SYSTEMS.ECE-350L-001.COMPSCI-350L-001.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "14 of 47  responded (29.79%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "x25ypKd3qlx2nOsp3fU1%2bQ%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074670"
+  },
+  {
+    "uid": "171550_9973_13686735_28807968",
+    "course_code": "COMPSCI-356-01",
+    "title": "COMP NETWORK ARCHITEC.COMPSCI-356-01.ECE-356-01.",
+    "instructor": "Gorlatova, Maria",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "17 of 50  responded (34.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "oseu0kM0cdlUIFR0YZpgfw%3d%3d",
+      "data-id3": "AYTv2xe2ivdzO00M3mZaPQ%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074754"
+  },
+  {
+    "uid": "171550_9973_13686740_28112116",
+    "course_code": "COMPSCI-226-01",
+    "title": "USER RESEARCH METHODS.COMPSCI-226-01.ECE-253-01.ISS-266-01.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "18 of 44  responded (40.91%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "m0cX82sbmyKN%2bq5ixkaLLQ%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074836"
+  },
+  {
+    "uid": "171550_9973_13686841_28111984",
+    "course_code": "ME-344L-001",
+    "title": "CONTROL SYSTEMS.ME-344L-001.ECE-382L-001.",
+    "instructor": "Gustafson, Michael",
+    "term": "Fall 2024",
+    "area": "MECHANICAL",
+    "response_rate": "11 of 53  responded (20.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99042",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "I4B4OrOYPS0T3SgSzHia6g%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ME",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074916"
+  },
+  {
+    "uid": "179255_10319_14224938_28807966",
+    "course_code": "ECE-651-01",
+    "title": "SOFTWARE ENGINEERING.ECE-651-01.",
+    "instructor": "Hilton, Andrew",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "27 of 42  responded (64.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "GJfXgviLMjt0dJRqm8HUZw%3d%3d",
+      "data-id3": "q2UyAs8ZFrxQucdNZvS7oQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.074994"
+  },
+  {
+    "uid": "179255_10319_14224944_27991617",
+    "course_code": "ECE-568-01",
+    "title": "ENGINEERING ROBUST SERVER SOFT.ECE-568-01.",
+    "instructor": "Rogers, Brian",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "24 of 48  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "SUmRaIcVNvP4MkjUStVfDw%3d%3d",
+      "data-id3": "Aw1yMo5mjlOmOhKtcVeYXQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075073"
+  },
+  {
+    "uid": "179255_10319_14224949_28807794",
+    "course_code": "ECE-590-12",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-12.",
+    "instructor": "Gong, Zhenqiang (Neil)",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "16 of 30  responded (53.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "kmrUVYjdzsqPvkd3gyTwRA%3d%3d",
+      "data-id3": "YJht4ga%2fSKcwHyWn3Gl7NA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075174"
+  },
+  {
+    "uid": "179255_10319_14224950_28111982",
+    "course_code": "ECE-529-01",
+    "title": "DIGITAL INTEGRATED CIR.ECE-529-01.",
+    "instructor": "Massoud, Hisham",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 10  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "uRpNsWPk4ud%2b%2fLwxr8RfYQ%3d%3d",
+      "data-id3": "31XW4zzAMJMPXp54EtcNeQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075262"
+  },
+  {
+    "uid": "179255_10319_14224953_27991598",
+    "course_code": "ECE-545-01",
+    "title": "FOUND NANOELEC & NANOPHOTONICS.ECE-545-01.",
+    "instructor": "Litchinitser, Natalia",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "ut%2fKTKeg1E2W6dqlKHbD7w%3d%3d",
+      "data-id3": "VUmpUqa1HCsvz5o%2bvbeEtw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075341"
+  },
+  {
+    "uid": "179255_10319_14224955_28807754",
+    "course_code": "ECE-688-01",
+    "title": "ARRAY PROCESSING.ECE-688-01.",
+    "instructor": "Krolik, Jeffrey",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 13  responded (46.15%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "pZEuFtk0qYYqG2krqLMSNg%3d%3d",
+      "data-id3": "PMbGK0nxrL7%2b8WUgaV6%2b2w%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075419"
+  },
+  {
+    "uid": "179255_10319_14224956_27991618",
+    "course_code": "ECE-590-08",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-08.",
+    "instructor": "Wang, Haozhe",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 15  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "qnjr1AdW%2fEClFRDOp1tNAw%3d%3d",
+      "data-id3": "8wVvMk24AB2fhNv73Ns8Fg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075562"
+  },
+  {
+    "uid": "179255_10319_14224957_30187725",
+    "course_code": "ECE-590-02",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-02.",
+    "instructor": "Loh, Huanqian",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "MBCkwaftfF2hJYkwdrdQWw%3d%3d",
+      "data-id3": "%2b7EDRWHHEPWXBNaydmZ02A%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075649"
+  },
+  {
+    "uid": "179255_10319_14224959_27445952",
+    "course_code": "ECE-661-01",
+    "title": "COMP ENG ML & DEEP NEURAL NETS.ECE-661-01.",
+    "instructor": "Li, Hai",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "32 of 75  responded (42.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "rjuc58E%2fLp1QGqlowaJjaQ%3d%3d",
+      "data-id3": "rShwsKoT%2bzttqOadIYVuDg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075802"
+  },
+  {
+    "uid": "179255_10319_14224968_27991593",
+    "course_code": "ECE-532-01",
+    "title": "ANALOG INTEG CIR DSGN.ECE-532-01.",
+    "instructor": "Morizio, James",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "8 of 19  responded (42.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "wzXGnpmgq%2bxrTrMOBkUZLQ%3d%3d",
+      "data-id3": "qBdRcCnV0Qq8IIkjN748Fw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:27.075887"
+  },
+  {
+    "uid": "179255_10319_14224995_30926225",
+    "course_code": "ECE-580-02",
+    "title": "INTRO TO MACHINE LEARNING.ECE-580-02.",
+    "instructor": "Cheng, Xiang",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 36  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "LNCyjDxy8le6sZS%2fsOFAfA%3d%3d",
+      "data-id3": "XjkEU%2faDv2OH7Ub6LXU6Mg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620364"
+  },
+  {
+    "uid": "179255_10319_14224996_27466681",
+    "course_code": "ECE-566-01",
+    "title": "ENTERPRISE STORAGE ARCH.ECE-566-01.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "TXQtbwQZdBYDjd7bA%2fCNNw%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620469"
+  },
+  {
+    "uid": "179255_10319_14224998_27991596",
+    "course_code": "ECE-650-01",
+    "title": "SYSTEMS PROGRAM & ENGINEERING.ECE-650-01.",
+    "instructor": "Rahbar, Afsaneh",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "21 of 38  responded (55.26%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "CO6377volVGXf%2bI8fcaDqw%3d%3d",
+      "data-id3": "e9OXTN18FUv15BZYgIpMsw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620557"
+  },
+  {
+    "uid": "179255_10319_14225000_30096923",
+    "course_code": "ECE-590-01",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-01.",
+    "instructor": "Boulia, Donald",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "CRwYAKq%2f1XwfPXWDljiTVQ%3d%3d",
+      "data-id3": "DPANky82MlrqBmE9X8Q%2b0w%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620641"
+  },
+  {
+    "uid": "179255_10319_14225001_28807951",
+    "course_code": "ECE-590-11",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-11.",
+    "instructor": "Pastorino, Javier",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "28 of 30  responded (93.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "nOeC58o7atcp9TxTW%2bGo8g%3d%3d",
+      "data-id3": "PERVzL0z%2bkN%2bKAz3K2wFew%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620723"
+  },
+  {
+    "uid": "179255_10319_14225003_28111988",
+    "course_code": "ECE-522-01",
+    "title": "QUANTUM ENGINEERING WITH ATOMS.ECE-522-01.",
+    "instructor": "Noel, Crystal",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "13 of 15  responded (86.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "pJERo5oTIalbk222CpELtg%3d%3d",
+      "data-id3": "r4D9Qy6PjVjjDG0K%2bjzKOw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620807"
+  },
+  {
+    "uid": "179255_10319_14225004_30926229",
+    "course_code": "ECE-722-01",
+    "title": "QUANTUM ELECTRONICS.ECE-722-01.",
+    "instructor": "Kim, Jungsang",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "AGJphvTZDrhXK5q9Ob%2bPOA%3d%3d",
+      "data-id3": "Fx0qdO4HGDiiZeKWYF0YMw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620890"
+  },
+  {
+    "uid": "179255_10319_14225005_28807955",
+    "course_code": "ECE-590-09",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-09.",
+    "instructor": "Carin, Lawrence",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 37  responded (32.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "UO6CrfKvzfgqfmXT096XPA%3d%3d",
+      "data-id3": "kWmecv%2b%2fEOjLYV1KhpDj4A%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.620972"
+  },
+  {
+    "uid": "179255_10319_14225008_28111948",
+    "course_code": "ECE-580-01",
+    "title": "INTRO TO MACHINE LEARNING.ECE-580-01.",
+    "instructor": "Tantum, Stacy",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 22  responded (54.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "Ndfl5rP9MNO9tgB0%2fq3aiA%3d%3d",
+      "data-id3": "I7wWIyYKUZuNsQrLUMBoQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621056"
+  },
+  {
+    "uid": "179255_10319_14225013_27991594",
+    "course_code": "ECE-590-04",
+    "title": "ADVANCED TOPICS IN ECE.ECE-590-04.",
+    "instructor": "Cummer, Steven",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 14  responded (64.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "1vaCJY9JSIV6ODQAdyoLRA%3d%3d",
+      "data-id3": "m9rXdPuHN3FxJdaCcmctDg%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621140"
+  },
+  {
+    "uid": "179255_10319_14225035_30926255",
+    "course_code": "COMPSCI-650-01",
+    "title": "ADV COMPUTER ARCHITEC II.COMPSCI-650-01.ECE-652-01.",
+    "instructor": "Towles, Brian",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "W51e8ljwSR4T1feToHo5Yw%3d%3d",
+      "data-id3": "JIhVHa0QurqUOoYMaGZHvg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621224"
+  },
+  {
+    "uid": "179255_10319_14225045_28807966",
+    "course_code": "ECE-553-01",
+    "title": "COMPILER CONSTRUCTION.ECE-553-01.COMPSCI-553-01.",
+    "instructor": "Hilton, Andrew",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 27  responded (40.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "npj8y7K9HTYNxcHfK9zEag%3d%3d",
+      "data-id3": "q2UyAs8ZFrxQucdNZvS7oQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621308"
+  },
+  {
+    "uid": "179255_10319_14225062_27991767",
+    "course_code": "ECE-689-01",
+    "title": "ADV TOPICS IN DEEP LEARNING.ECE-689-01.COMPSCI-676-01.",
+    "instructor": "Tarokh, Vahid",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "29 of 52  responded (55.77%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "7HQZThBrNgmuqMqpVxe%2bqw%3d%3d",
+      "data-id3": "P36W2DrO%2f%2b4TCBctyArEQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621424"
+  },
+  {
+    "uid": "179255_10319_14225063_28807876",
+    "course_code": "STA-561D-001",
+    "title": "PROBABILISTIC MACHINE LEARNING.STA-561D-001.COMPSCI-571D-001.ECE-682D-001.",
+    "instructor": "Laber, Eric",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "47 of 106  responded (44.34%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "VN3KKWVm%2fniFZ5rPeXpTIQ%3d%3d",
+      "data-id3": "0Q5jgiW%2byonRs5FFpwyf8w%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621512"
+  },
+  {
+    "uid": "179255_10319_14225090_28807831",
+    "course_code": "COMPSCI-557-01",
+    "title": "COMP ARCH & HW ACC.COMPSCI-557-01.ECE-557-01.",
+    "instructor": "Wills, Lisa",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "ESoYaK2QIM0oTF35S8gy2g%3d%3d",
+      "data-id3": "yWTvPqj2sJ%2b7U7tEi1lb8w%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621595"
+  },
+  {
+    "uid": "179255_10319_14225104_28111991",
+    "course_code": "ECE-511-01",
+    "title": "FOUNDATIONS NANOSCALE SCI/TECH.ECE-511-01.CHEM-611-01.NANOSCI-511-01.",
+    "instructor": "Franklin, Aaron",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "48 of 59  responded (81.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "p3eJRUjZGIlnqhmOSipeuw%3d%3d",
+      "data-id3": "YxSuB8y2vjGESXPh%2bfyRiA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "CHEM",
+      "NANOSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621679"
+  },
+  {
+    "uid": "179255_10319_14225123_28111808",
+    "course_code": "PHYSICS-624-01",
+    "title": "OPEN QUANTUM SYSTEMS.PHYSICS-624-01.ECE-624-01.",
+    "instructor": "Barthel, Thomas",
+    "term": "Spring 2025",
+    "area": "PHYSICS",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98878",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "zsTaxAjxOf81DofWB5BfZQ%3d%3d",
+      "data-id3": "wpm5Ocb6kpC%2bwnsAWLUTLQ%3d%3d"
+    },
+    "department_codes": [
+      "PHYSICS",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621759"
+  },
+  {
+    "uid": "179255_10319_14225136_27991601",
+    "course_code": "ECE-621-01",
+    "title": "QUANTUM ERROR CORRECTION.ECE-621-01.PHYSICS-628-01.",
+    "instructor": "Brown, Kenneth",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "gfxQFGxUuO3zDmZDjTDMNg%3d%3d",
+      "data-id3": "qdOTC%2bnkh26rPz4ZLnNLtQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "PHYSICS"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621839"
+  },
+  {
+    "uid": "179255_10319_14225163_28112132",
+    "course_code": "ECE-655L-001",
+    "title": "FULL-STACK IOT SYSTEMS.ECE-655L-001.COMPSCI-655L-001.",
+    "instructor": "Chen, Tingjun",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 19  responded (47.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "3WMdEYde%2bRkFCllgBSLgfg%3d%3d",
+      "data-id3": "0zC5HKjjt5pqwX4UMzF6MA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.621919"
+  },
+  {
+    "uid": "179255_10319_14225166_28112116",
+    "course_code": "COMPSCI-586-01",
+    "title": "USABLE SECURITY AND PRIVACY.COMPSCI-586-01.ECE-657-01.ISS-586-01.PUBPOL-586-01.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "14 of 38  responded (36.84%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "ws3A3akfSrHfm2WOI0f4DQ%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:01:31.622001"
+  },
+  {
+    "uid": "179255_10319_14225207_27991764",
+    "course_code": "COMPSCI-582-01",
+    "title": "CRYPTOGRAPHY.COMPSCI-582-01.ECE-656-01.",
+    "instructor": "Reiter, Michael",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "7 of 17  responded (41.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "LfjK%2bHiI6nXFVpmdj5QUTw%3d%3d",
+      "data-id3": "%2brAcvjJnkWbTGV8WPdrprA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.675615"
+  },
+  {
+    "uid": "179255_10319_14225231_27991641",
+    "course_code": "COMPSCI-526-01",
+    "title": "DATA SCIENCE.COMPSCI-526-01.CBB-526-01.ECE-583-01.",
+    "instructor": "Songdechakraiwut, Tananun",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "10 of 27  responded (37.04%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "GAzPOuDRDxl%2fOohxnbmepA%3d%3d",
+      "data-id3": "s0liyPI4zHrpKJUGs1aGpQ%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "CBB",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.675722"
+  },
+  {
+    "uid": "179255_10319_14225243_27991725",
+    "course_code": "ECE-554-01",
+    "title": "FAULT-TOLERANT/COMP SYS.ECE-554-01.COMPSCI-554-01.",
+    "instructor": "Sorin, Daniel",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "22 of 35  responded (62.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "qYLUyQpGtsWSK%2biA%2f6kMbA%3d%3d",
+      "data-id3": "pkXIxk1%2bkGUgAm0m2f8mJA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.675811"
+  },
+  {
+    "uid": "179281_10319_14261554_28111948",
+    "course_code": "ECE-487-01",
+    "title": "SYS DESIGN FOR ML & SIG PROCES.ECE-487-01.",
+    "instructor": "Tantum, Stacy",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 24  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "TkQSxZuao3OAYxH5G%2f%2fwoQ%3d%3d",
+      "data-id3": "I7wWIyYKUZuNsQrLUMBoQQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.675902"
+  },
+  {
+    "uid": "179281_10319_14261557_27991596",
+    "course_code": "ECE-496-03",
+    "title": "SPECIAL TOPICS.ECE-496-03.",
+    "instructor": "Rahbar, Afsaneh",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "JGaQsTe2oNxSEBAsYWgIeA%3d%3d",
+      "data-id3": "e9OXTN18FUv15BZYgIpMsw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676001"
+  },
+  {
+    "uid": "179281_10319_14261566_28111984",
+    "course_code": "ECE-110L-004",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-004.",
+    "instructor": "Gustafson, Michael",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "18 of 48  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "GSOed4w1gFme1w2kuLSTFQ%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676089"
+  },
+  {
+    "uid": "179281_10319_14261601_27991588",
+    "course_code": "ECE-469-01",
+    "title": "WEARABLE&UBIQ COMPUTING DESIGN.ECE-469-01.",
+    "instructor": "Younes, Rabih",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 25  responded (36.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "udNPe1mjz26J6M7cqNV1cA%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676174"
+  },
+  {
+    "uid": "179281_10319_14261616_27445842",
+    "course_code": "ECE-110L-003",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-003.",
+    "instructor": "Huettel, Lisa",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 38  responded (31.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "1vOwOcUgAqLUnC0tDDvwJA%3d%3d",
+      "data-id3": "wgY%2fiK69nG6SY1bf2s4v5g%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676309"
+  },
+  {
+    "uid": "179281_10319_14261620_28111996",
+    "course_code": "ECE-331L-001",
+    "title": "FUND. OF MICROELECT. CIRCUITS.ECE-331L-001.",
+    "instructor": "Fair, Richard",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "5 of 20  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "xVQ85ah7IrWOMSeBtzofjg%3d%3d",
+      "data-id3": "Ydjon8e%2f%2b5v1FfMI%2bGjQnw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676403"
+  },
+  {
+    "uid": "179281_10319_14261644_27466681",
+    "course_code": "ECE-458-01",
+    "title": "ENG SOFTWARE MAINTAINABILITY.ECE-458-01.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "XvIaokspP%2fIMHWqSzuJbNw%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676505"
+  },
+  {
+    "uid": "179281_10319_14261655_28111974",
+    "course_code": "ECE-270DL-001",
+    "title": "FIELDS AND WAVES.ECE-270DL-001.",
+    "instructor": "Smith, David",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 36  responded (30.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "swj1LSojdA9RZ0YFh9xoIA%3d%3d",
+      "data-id3": "VnhtrsAuIFyViYmL5B4Whw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:34.676607"
+  },
+  {
+    "uid": "179281_10319_14261664_28111982",
+    "course_code": "ECE-110L-002",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-002.",
+    "instructor": "Massoud, Hisham",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "6 of 29  responded (20.69%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "0Vi3CeYzzLRFkFQdymgl4A%3d%3d",
+      "data-id3": "31XW4zzAMJMPXp54EtcNeQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676704"
+  },
+  {
+    "uid": "179281_10319_14261696_28111986",
+    "course_code": "ECE-280L-01",
+    "title": "INTRO TO SIGNALS AND SYSTEMS.ECE-280L-01.",
+    "instructor": "Collins, Leslie",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "10 of 36  responded (27.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "IPuDRYsVi65C8H%2fccebpGw%3d%3d",
+      "data-id3": "tsTIgc4Tg2fmxTOHAkiONQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676791"
+  },
+  {
+    "uid": "179281_10319_14261701_27991340",
+    "course_code": "ECE-110L-001",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-001.",
+    "instructor": "Daily, Shaundra",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "12 of 40  responded (30.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "hB%2bGw%2boWJFwPRJ6T2dBDIQ%3d%3d",
+      "data-id3": "Cu8F0wGobTYr13WR%2bWHw0Q%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676875"
+  },
+  {
+    "uid": "179281_10319_14261711_27991610",
+    "course_code": "ECE-230L-002",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-002.",
+    "instructor": "Roy, Tania",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "24 of 30  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "LZ4OPVk5CCgKHpS%2fxUkY0A%3d%3d",
+      "data-id3": "XVfxXHVHl4blAkipECT5qQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.676956"
+  },
+  {
+    "uid": "179281_10319_14261724_28807758",
+    "course_code": "ECE-110L-006",
+    "title": "FUND OF ELEC AND COMP ENGR.ECE-110L-006.",
+    "instructor": "Brown, April",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "16 of 37  responded (43.24%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "x20LcfO%2b3CNA4wjrFaXbbw%3d%3d",
+      "data-id3": "UdPmiUIeWsYe3u2JoSy%2fxw%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.677037"
+  },
+  {
+    "uid": "179281_10319_14261760_28111991",
+    "course_code": "ECE-230L-001",
+    "title": "MICROELECT DEVICES & CIRCUITS.ECE-230L-001.",
+    "instructor": "Franklin, Aaron",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "49 of 59  responded (83.05%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "XCkXF%2bl1L0aLVFfa%2fmBRZQ%3d%3d",
+      "data-id3": "YxSuB8y2vjGESXPh%2bfyRiA%3d%3d"
+    },
+    "department_codes": [
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.677121"
+  },
+  {
+    "uid": "179281_10319_14261844_28112211",
+    "course_code": "ECE-350L-001",
+    "title": "DIGITAL SYSTEMS.ECE-350L-001.COMPSCI-350L-001.",
+    "instructor": "Board, John",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "19 of 70  responded (27.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "GuqnPwKrbSCshwm%2bG5VDLg%3d%3d",
+      "data-id3": "%2fzO3D%2fBNNZ2rJKEsCewjUA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.677205"
+  },
+  {
+    "uid": "179281_10319_14261898_27991588",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Younes, Rabih",
+    "term": "Spring 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "61 of 182  responded (33.52%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "fiB1xZ%2bUocFMeEYurhbmmA%3d%3d",
+      "data-id3": "qgfRtoalCYnlpLsVNbkwzA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.677289"
+  },
+  {
+    "uid": "179281_10319_14261920_27991750",
+    "course_code": "COMPSCI-356-01",
+    "title": "COMP NETWORK ARCHITEC.COMPSCI-356-01.ECE-356-01.",
+    "instructor": "Maggs, Bruce",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "23 of 77  responded (29.87%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "BOcr3rlwdhw0I7pGyTu8FA%3d%3d",
+      "data-id3": "QlTz96%2b0tf%2fTuugtZfjCuQ%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:34.677374"
+  },
+  {
+    "uid": "179281_10319_14261936_28111984",
+    "course_code": "ME-344L-001",
+    "title": "CONTROL SYSTEMS.ME-344L-001.ECE-382L-001.",
+    "instructor": "Gustafson, Michael",
+    "term": "Spring 2025",
+    "area": "MECHANICAL",
+    "response_rate": "18 of 37  responded (48.65%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99042",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "E3ZdGv8CEiKih%2b%2fD6w%2fv2g%3d%3d",
+      "data-id3": "DP6TIPrar%2bP5f%2fOlfWn%2fwA%3d%3d"
+    },
+    "department_codes": [
+      "ME",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:35.503946"
+  },
+  {
+    "uid": "179281_10319_14261976_27675583",
+    "course_code": "COMPSCI-310-01D",
+    "title": "INTRO TO OPERATING SYSTM.COMPSCI-310-01D.ECE-353-01D.",
+    "instructor": "Chao, Alex",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "63 of 134  responded (47.01%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "gMG6TFxewbi2AweVpzsbIg%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:35.504065"
+  },
+  {
+    "uid": "179281_10319_14261976_28112220",
+    "course_code": "COMPSCI-310-01D",
+    "title": "INTRO TO OPERATING SYSTM.COMPSCI-310-01D.ECE-353-01D.",
+    "instructor": "Lentz, Matthew",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "63 of 134  responded (47.01%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "gMG6TFxewbi2AweVpzsbIg%3d%3d",
+      "data-id3": "TMDljB9oTzfDnFe6TiH1fA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:01:35.504188"
+  },
+  {
+    "uid": "179281_10319_14262097_27675583",
+    "course_code": "COMPSCI-310-001",
+    "title": "INTRO TO OPERATING SYSTM.COMPSCI-310-001.ECE-353-001.",
+    "instructor": "Chao, Alex",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "90 of 134  responded (67.16%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "S%2fvdr6IpQlgI2Z1Eosa4sA%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:35.504288"
+  },
+  {
+    "uid": "179281_10319_14262097_28112220",
+    "course_code": "COMPSCI-310-001",
+    "title": "INTRO TO OPERATING SYSTM.COMPSCI-310-001.ECE-353-001.",
+    "instructor": "Lentz, Matthew",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "90 of 134  responded (67.16%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "S%2fvdr6IpQlgI2Z1Eosa4sA%3d%3d",
+      "data-id3": "TMDljB9oTzfDnFe6TiH1fA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:35.504381"
+  },
+  {
+    "uid": "179886_10319_14262898_27959553",
+    "course_code": "FINTECH-590-07",
+    "title": "ADV TOPICS IN FINTECH.FINTECH-590-07.ECE-590-07.",
+    "instructor": "Brini, Alessio",
+    "term": "Spring 2025",
+    "area": "FINTECH",
+    "response_rate": "13 of 30  responded (43.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98812",
+      "data-id1": "gYmY77et6q7dcZx1eIJ2aw%3d%3d",
+      "data-id2": "QW6QzwxG4%2ftKQ4cDis5q%2bA%3d%3d",
+      "data-id3": "xp6muk1uLN%2b5o0zARpff%2fA%3d%3d"
+    },
+    "department_codes": [
+      "FINTECH",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:01:35.504470"
+  },
+  {
+    "uid": "187125_10662_14677182_27466681",
+    "course_code": "ECE-250D-001",
+    "title": "COMPUTER ARCHITECTURE.ECE-250D-001.COMPSCI-250D-001.",
+    "instructor": "Bletsch, Tyler",
+    "term": "Summer I 2025",
+    "area": "ELEC&CMP",
+    "response_rate": "14 of 16  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99040",
+      "data-id1": "jEWplQlB%2bshe3uI7LSNBtw%3d%3d",
+      "data-id2": "VGVS9I1kvdNKzzqodlEvIg%3d%3d",
+      "data-id3": "bwRIT1mm3qlDOjDNe1v%2bcQ%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "COMPSCI"
+    ],
+    "scraped_at": "2025-11-24T16:01:35.504562"
+  }
+]

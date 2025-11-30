@@ -1,0 +1,433 @@
+[
+  {
+    "uid": "153858_9169_12283328_28112281",
+    "course_code": "KOREAN-101-003",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-003.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "13 of 17  responded (76.47%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "q94WfLUwX%2bWRYTY7%2bQkJqw%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.876563"
+  },
+  {
+    "uid": "153858_9169_12283401_28112281",
+    "course_code": "KOREAN-101-002",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-002.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "14 of 17  responded (82.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "klCMXF%2bltDD9JLqFw%2bCW1w%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.876697"
+  },
+  {
+    "uid": "153858_9169_12283520_27445950",
+    "course_code": "KOREAN-305-02",
+    "title": "ADVANCED KOREAN.KOREAN-305-02.",
+    "instructor": "Kim, Hae-Young",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "13 of 15  responded (86.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "nBoEg2Tw7C9S5DR5x5iQjg%3d%3d",
+      "data-id3": "pT6ZbHuLBXcRWY0WpPu4iQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.876781"
+  },
+  {
+    "uid": "153858_9169_12283581_28112279",
+    "course_code": "KOREAN-101-02D",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-02D.",
+    "instructor": "Yang, Seojin",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "9 of 17  responded (52.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "dmWh%2bVGk31pbbDMsv6trag%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:25:29.876922"
+  },
+  {
+    "uid": "161337_9470_12751371_28112279",
+    "course_code": "KOREAN-102-02D",
+    "title": "ELEMENTARY KOREAN.KOREAN-102-02D.",
+    "instructor": "Yang, Seojin",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "g2Ou0kbj9jjgbuYUphw1AQ%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:25:29.877024"
+  },
+  {
+    "uid": "161337_9470_12751410_28112279",
+    "course_code": "KOREAN-102-01D",
+    "title": "ELEMENTARY KOREAN.KOREAN-102-01D.",
+    "instructor": "Yang, Seojin",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "12 of 15  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "jUbnIJrlO38MABGfqEdHpA%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:25:29.877106"
+  },
+  {
+    "uid": "161337_9470_12751465_28112281",
+    "course_code": "KOREAN-207-01",
+    "title": "HIGH INTERMEDIATE KOREAN.KOREAN-207-01.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "UuW0sKvFuQjI3aAgAIJ0iQ%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877185"
+  },
+  {
+    "uid": "161337_9470_12751471_28112280",
+    "course_code": "KOREAN-102-002",
+    "title": "ELEMENTARY KOREAN.KOREAN-102-002.",
+    "instructor": "Eun, Barohny",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "oOhVrtkVNFlXBpF%2bi7OpeA%3d%3d",
+      "data-id3": "JRZmGJRVbEnnbKPn1OyEQw%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877266"
+  },
+  {
+    "uid": "161337_9470_12751529_28112280",
+    "course_code": "KOREAN-102-001",
+    "title": "ELEMENTARY KOREAN.KOREAN-102-001.",
+    "instructor": "Eun, Barohny",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "13 of 15  responded (86.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "%2fcaeF1Vx60al0SchkNFBTA%3d%3d",
+      "data-id3": "JRZmGJRVbEnnbKPn1OyEQw%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877348"
+  },
+  {
+    "uid": "161337_9470_12751581_27445950",
+    "course_code": "KOREAN-408S-01",
+    "title": "ISSUES IN KOREAN LANG/SOC II.KOREAN-408S-01.",
+    "instructor": "Kim, Hae-Young",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Ml6%2b9HRsb4JVbi6KvHGtSg%3d%3d",
+      "data-id3": "pT6ZbHuLBXcRWY0WpPu4iQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877428"
+  },
+  {
+    "uid": "161337_9470_12751597_28112279",
+    "course_code": "KOREAN-101-001",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-001.",
+    "instructor": "Yang, Seojin",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "12 of 16  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "pj54FYP%2bKtK4iNU8kKD2Yg%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877507"
+  },
+  {
+    "uid": "161337_9470_12751627_27445950",
+    "course_code": "KOREAN-306S-01",
+    "title": "ADVANCED KOREAN.KOREAN-306S-01.",
+    "instructor": "Kim, Hae-Young",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Zzio3tnkCmfdb3NRRPo6Hg%3d%3d",
+      "data-id3": "pT6ZbHuLBXcRWY0WpPu4iQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877586"
+  },
+  {
+    "uid": "161337_9470_12751671_28112281",
+    "course_code": "KOREAN-204-001",
+    "title": "INTERMEDIATE KOREAN.KOREAN-204-001.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "idqlmCCBQcGCwZ%2bm%2ftNZNw%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877666"
+  },
+  {
+    "uid": "171550_9973_13687278_28112281",
+    "course_code": "KOREAN-102-01",
+    "title": "ELEMENTARY KOREAN.KOREAN-102-01.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "GBZpBE55ySaLqXZGC2ndtA%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877771"
+  },
+  {
+    "uid": "171550_9973_13687283_28112281",
+    "course_code": "KOREAN-207-01",
+    "title": "HIGH INTERMEDIATE KOREAN.KOREAN-207-01.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "%2feNxveubphnV7ZxUSk1h%2bw%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877853"
+  },
+  {
+    "uid": "171550_9973_13687304_28112279",
+    "course_code": "KOREAN-101-02",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-02.",
+    "instructor": "Yang, Seojin",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "k2vp6R1ecG%2bZgo0q34F8gA%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.877932"
+  },
+  {
+    "uid": "171550_9973_13687319_28112279",
+    "course_code": "KOREAN-101-01",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-01.",
+    "instructor": "Yang, Seojin",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "12 of 18  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "2VhdOHELKbITP29T3zVzoQ%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.878010"
+  },
+  {
+    "uid": "171550_9973_13687342_27445950",
+    "course_code": "KOREAN-305-01",
+    "title": "ADVANCED KOREAN.KOREAN-305-01.",
+    "instructor": "Kim, Hae-Young",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "fFCucaFL%2brvr9GBvBriHlg%3d%3d",
+      "data-id3": "pT6ZbHuLBXcRWY0WpPu4iQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.878088"
+  },
+  {
+    "uid": "179281_10319_14262398_28112279",
+    "course_code": "KOREAN-101-01",
+    "title": "ELEMENTARY KOREAN.KOREAN-101-01.",
+    "instructor": "Yang, Seojin",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Km0Fzy%2fmyvlFtVhdF5czCg%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.878229"
+  },
+  {
+    "uid": "179281_10319_14262472_27445950",
+    "course_code": "KOREAN-407S-01",
+    "title": "ISSUES IN KOREAN LANG/SOC I.KOREAN-407S-01.",
+    "instructor": "Kim, Hae-Young",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "RXl82PfeXe%2fDEBJNLF2few%3d%3d",
+      "data-id3": "pT6ZbHuLBXcRWY0WpPu4iQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:29.878309"
+  },
+  {
+    "uid": "179281_10319_14262518_28112281",
+    "course_code": "KOREAN-306S-01",
+    "title": "ADVANCED KOREAN.KOREAN-306S-01.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "16 of 17  responded (94.12%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "zbAd%2bhRzfRuZ%2buPY0F5fxQ%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:30.655492"
+  },
+  {
+    "uid": "179281_10319_14262568_28112279",
+    "course_code": "KOREAN-204-01",
+    "title": "INTERMEDIATE KOREAN.KOREAN-204-01.",
+    "instructor": "Yang, Seojin",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "iQJ2nbLhdPKQRQ5p350QEw%3d%3d",
+      "data-id3": "bUdzoZNHzSdfpSWTXsXQQQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:30.655615"
+  },
+  {
+    "uid": "179281_10319_14262607_28112281",
+    "course_code": "KOREAN-203-01",
+    "title": "INTERMEDIATE KOREAN.KOREAN-203-01.",
+    "instructor": "Kim, Eunyoung",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "AhHLInHOI1eprGb6zKcWlA%3d%3d",
+      "data-id3": "VYfKCIPFD9Ut7QYkQL65RQ%3d%3d"
+    },
+    "department_codes": [
+      "KOREAN"
+    ],
+    "scraped_at": "2025-11-24T16:25:30.655704"
+  }
+]

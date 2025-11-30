@@ -1,0 +1,809 @@
+[
+  {
+    "uid": "152527_9107_12076198_27466683",
+    "course_code": "BIOLOGY-288A-01",
+    "title": "BIOGEO AUSTRALIAN CONTEX.BIOLOGY-288A-01.ENVIRON-288A-01.EOS-288A-01.ECS-288A-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Summer II 2023",
+    "area": "BIOLOGY",
+    "response_rate": "15 of 18  responded (83.33%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "BIOLOGY",
+      "ENVIRON",
+      "EOS",
+      "ECS"
+    ],
+    "data-id0": "98971",
+    "data-id1": "4TxgzUHg4Suz2MS8X7frbw%3d%3d",
+    "data-id2": "Focxq%2bs%2fyNwIvH%2fHdDR%2fyA%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T15:47:07.086147",
+    "data_ids": {
+      "data-id0": "98971",
+      "data-id1": "4TxgzUHg4Suz2MS8X7frbw%3d%3d",
+      "data-id2": "Focxq%2bs%2fyNwIvH%2fHdDR%2fyA%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "170434_9917_13400591_27466683",
+    "course_code": "BIOLOGY-288A-01",
+    "title": "BIOGEO AUSTRALIAN CONTEX.BIOLOGY-288A-01.ECS-288A-01.ENVIRON-288A-01.EOS-288A-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Summer II 2024",
+    "area": "BIOLOGY",
+    "response_rate": "17 of 18  responded (94.44%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "BIOLOGY",
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98971",
+    "data-id1": "p%2f7%2f%2fKmTgr77QbMscbbBXw%3d%3d",
+    "data-id2": "posrLg9zc02mR4gwCMi1Lg%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T15:47:13.297873",
+    "data_ids": {
+      "data-id0": "98971",
+      "data-id1": "p%2f7%2f%2fKmTgr77QbMscbbBXw%3d%3d",
+      "data-id2": "posrLg9zc02mR4gwCMi1Lg%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "149911_8928_11987250_27466683",
+    "course_code": "ECS-101-01",
+    "title": "THE DYNAMIC EARTH.ECS-101-01.EOS-101-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Summer I 2023",
+    "area": "ECS",
+    "response_rate": "12 of 70  responded (17.14%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+    "data-id2": "TNH7wsaMiQ%2fHydfUiN60IQ%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204305",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+      "data-id2": "TNH7wsaMiQ%2fHydfUiN60IQ%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "154503_9169_12241497_27991587",
+    "course_code": "ECS-511-01",
+    "title": "THE CLIMATE SYSTEM.ECS-511-01.EOS-511-01.",
+    "instructor": "Li, Wenhong",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98838",
+    "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+    "data-id2": "FpAKzoxIVwGgxgN7gzf2Bg%3d%3d",
+    "data-id3": "TeLeNXT0PpONofSmQzmDhQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204519",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "FpAKzoxIVwGgxgN7gzf2Bg%3d%3d",
+      "data-id3": "TeLeNXT0PpONofSmQzmDhQ%3d%3d"
+    }
+  },
+  {
+    "uid": "154503_9169_12241500_27991663",
+    "course_code": "ECS-525-01",
+    "title": "OCEAN & FRESHWATER POLLUTION.ECS-525-01.EOS-525-01.",
+    "instructor": "Cassar, Nicolas",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98838",
+    "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+    "data-id2": "GQmSJxZ2q23%2b2GfVKWR%2b0w%3d%3d",
+    "data-id3": "6DDy6xJ8HneX0NIJMirMfQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204600",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "GQmSJxZ2q23%2b2GfVKWR%2b0w%3d%3d",
+      "data-id3": "6DDy6xJ8HneX0NIJMirMfQ%3d%3d"
+    }
+  },
+  {
+    "uid": "154503_9169_12241557_27991656",
+    "course_code": "ECS-550-01",
+    "title": "CLIMATE AND SOCIETY.ECS-550-01.ENVIRON-552-01.EOS-550-01.",
+    "instructor": "Shindell, Drew",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "27 of 44  responded (61.36%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98838",
+    "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+    "data-id2": "Gn9UsrgUV2ovHOVG9FUmkw%3d%3d",
+    "data-id3": "8XTdpFLa0uLCPh7WekdWRA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204762",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Gn9UsrgUV2ovHOVG9FUmkw%3d%3d",
+      "data-id3": "8XTdpFLa0uLCPh7WekdWRA%3d%3d"
+    }
+  },
+  {
+    "uid": "154503_9169_12241604_27446082",
+    "course_code": "ECS-785S-01",
+    "title": "CONTRIBUTNS EARTH CLIMATE SCI.ECS-785S-01.EOS-785S-01.",
+    "instructor": "Murray, Brad",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98804",
+    "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+    "data-id2": "2b2ZUQGgCBgdzKd9w8murg%3d%3d",
+    "data-id3": "217J0hvriKTJ6TGJR1EFKg%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204842",
+    "data_ids": {
+      "data-id0": "98804",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "2b2ZUQGgCBgdzKd9w8murg%3d%3d",
+      "data-id3": "217J0hvriKTJ6TGJR1EFKg%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12282850_28112115",
+    "course_code": "ECS-226S-01",
+    "title": "FIELD METH EARTH/ENV SCI.ECS-226S-01.ENVIRON-226S-01.EOS-226S-01.",
+    "instructor": "Dwyer, Gary",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "5 of 16  responded (31.25%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "14rXLiz8iBLG33DBsc%2bZcw%3d%3d",
+    "data-id3": "LPeHDFpK%2bHiIDJCN3bmVdA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204921",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "14rXLiz8iBLG33DBsc%2bZcw%3d%3d",
+      "data-id3": "LPeHDFpK%2bHiIDJCN3bmVdA%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12282859_27886263",
+    "course_code": "ENVIRON-231-01",
+    "title": "ENERGY AND ENVIRONMENT.ENVIRON-231-01.ECS-231-01.ENERGY-231-01.EOS-231-01.",
+    "instructor": "Johnson, Timothy",
+    "term": "Fall 2023",
+    "area": "NSOE",
+    "response_rate": "36 of 80  responded (45.00%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ENVIRON",
+      "ECS",
+      "ENERGY",
+      "EOS"
+    ],
+    "data-id0": "99019",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "EJ4soOk%2fJIW9uo2rsU8HsA%3d%3d",
+    "data-id3": "GZMG6J0eTjHgfX4Lb0uywA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.204999",
+    "data_ids": {
+      "data-id0": "99019",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "EJ4soOk%2fJIW9uo2rsU8HsA%3d%3d",
+      "data-id3": "GZMG6J0eTjHgfX4Lb0uywA%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12282893_27886264",
+    "course_code": "ECS-220-01",
+    "title": "WATER SCIENCES.ECS-220-01.ENVIRON-220-01.EOS-220-01.",
+    "instructor": "Vengosh, Avner",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "11 of 15  responded (73.33%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "KdkX%2b8kKk0UYjONdlqdfkQ%3d%3d",
+    "data-id3": "ulDkwrbQbMFHglap7ipMqQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.205078",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "KdkX%2b8kKk0UYjONdlqdfkQ%3d%3d",
+      "data-id3": "ulDkwrbQbMFHglap7ipMqQ%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12282949_27466683",
+    "course_code": "ECS-103-01",
+    "title": "CLIMATE CHANGE.ECS-103-01.EOS-103-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "70 of 172  responded (40.70%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "i%2fAZh%2fWzz%2fB0%2fiOJ7q6efA%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.205155",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "i%2fAZh%2fWzz%2fB0%2fiOJ7q6efA%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12282999_27466683",
+    "course_code": "ECS-403-01",
+    "title": "NATURAL HISTORY OF YELLOWSTONE.ECS-403-01.EOS-403-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "xD%2b9clwdyoFuQVaDRr%2bvUg%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.205233",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "xD%2b9clwdyoFuQVaDRr%2bvUg%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12283074_27446014",
+    "course_code": "ECS-210S-01",
+    "title": "EXPLORING EARTH SCIENCES.ECS-210S-01.EOS-210S-01.",
+    "instructor": "McAdoo, Brian",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "zwxv7MbnaZXczi8hPdJ5hw%3d%3d",
+    "data-id3": "bb2DtYZO%2fwUD6X5Lbd%2bF5w%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.205312",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "zwxv7MbnaZXczi8hPdJ5hw%3d%3d",
+      "data-id3": "bb2DtYZO%2fwUD6X5Lbd%2bF5w%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12283130_27445806",
+    "course_code": "ECS-101-01",
+    "title": "THE DYNAMIC EARTH.ECS-101-01.EOS-101-01.",
+    "instructor": "Klein, Emily",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "43 of 77  responded (55.84%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "G955QJWcI1B2Q3EaEM1esg%3d%3d",
+    "data-id3": "dnogf6IftcFTFxp221Qdiw%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.205466",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "G955QJWcI1B2Q3EaEM1esg%3d%3d",
+      "data-id3": "dnogf6IftcFTFxp221Qdiw%3d%3d"
+    }
+  },
+  {
+    "uid": "153858_9169_12283174_27991660",
+    "course_code": "ECS-202-01",
+    "title": "ATMOSPHERE AND OCEAN DYNAMICS.ECS-202-01.EOS-202-01.",
+    "instructor": "Hu, Shineng",
+    "term": "Fall 2023",
+    "area": "ECS",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+    "data-id2": "Ei9S8xbKtPmgKpbkcuT6wA%3d%3d",
+    "data-id3": "hR8XvS9RD5%2b9C7XnvAkfag%3d%3d",
+    "scraped_at": "2025-11-24T16:05:28.205549",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Ei9S8xbKtPmgKpbkcuT6wA%3d%3d",
+      "data-id3": "hR8XvS9RD5%2b9C7XnvAkfag%3d%3d"
+    }
+  },
+  {
+    "uid": "161337_9470_12750956_27466683",
+    "course_code": "ECS-204L-001",
+    "title": "EVOLVING EARTH AND LIFE.ECS-204L-001.EOS-204L-001.",
+    "instructor": "Glass, Alexander",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "6 of 22  responded (27.27%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+    "data-id2": "IB08zcSRvZtIA8VMzJcDig%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.030536",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "IB08zcSRvZtIA8VMzJcDig%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "161337_9470_12750966_27991587",
+    "course_code": "ECS-365-01",
+    "title": "WEATHER AND CLIMATE.ECS-365-01.ENVIRON-368-01.EOS-365-01.",
+    "instructor": "Li, Wenhong",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "13 of 27  responded (48.15%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+    "data-id2": "AhixDpO%2bOvgyGLRXLr%2f2eQ%3d%3d",
+    "data-id3": "TeLeNXT0PpONofSmQzmDhQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.030616",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "AhixDpO%2bOvgyGLRXLr%2f2eQ%3d%3d",
+      "data-id3": "TeLeNXT0PpONofSmQzmDhQ%3d%3d"
+    }
+  },
+  {
+    "uid": "161337_9470_12750999_27466683",
+    "course_code": "ECS-101-01",
+    "title": "THE DYNAMIC EARTH.ECS-101-01.EOS-101-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "52 of 205  responded (25.37%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+    "data-id2": "0TBKXBICxSEr6u6BTcHTBw%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.030700",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "0TBKXBICxSEr6u6BTcHTBw%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "161337_9470_12751016_27991660",
+    "course_code": "ECS-212S-01",
+    "title": "EXPLORING CLIMATE SCIENCES.ECS-212S-01.EOS-212S-01.",
+    "instructor": "Hu, Shineng",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "16 of 16  responded (100.00%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+    "data-id2": "5aPUgBYMVOr62Q6mPJASWw%3d%3d",
+    "data-id3": "hR8XvS9RD5%2b9C7XnvAkfag%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.030781",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "5aPUgBYMVOr62Q6mPJASWw%3d%3d",
+      "data-id3": "hR8XvS9RD5%2b9C7XnvAkfag%3d%3d"
+    }
+  },
+  {
+    "uid": "161337_9470_12751052_27991656",
+    "course_code": "ECS-103-01",
+    "title": "CLIMATE CHANGE.ECS-103-01.EOS-103-01.",
+    "instructor": "Shindell, Drew",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "16 of 34  responded (47.06%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+    "data-id2": "Kh6RHMWc05jiImou6JeCXA%3d%3d",
+    "data-id3": "8XTdpFLa0uLCPh7WekdWRA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.030894",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Kh6RHMWc05jiImou6JeCXA%3d%3d",
+      "data-id3": "8XTdpFLa0uLCPh7WekdWRA%3d%3d"
+    }
+  },
+  {
+    "uid": "161325_9470_12752174_28807988",
+    "course_code": "ECS-568S-01",
+    "title": "INTEGRATED ASSESSMENT MODELING.ECS-568S-01.ENVIRON-568S-01.EOS-568S-01.",
+    "instructor": "Loughlin, Daniel",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98838",
+    "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+    "data-id2": "wZsw%2bz%2fgYYHIGwAJb9dBGA%3d%3d",
+    "data-id3": "3%2bEGkERrNpB0UR0A4GXHfA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.847202",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "wZsw%2bz%2fgYYHIGwAJb9dBGA%3d%3d",
+      "data-id3": "3%2bEGkERrNpB0UR0A4GXHfA%3d%3d"
+    }
+  },
+  {
+    "uid": "161325_9470_12752185_27446082",
+    "course_code": "ECS-716A-01",
+    "title": "BEACH/ISLAND GEO PROCESS.ECS-716A-01.EOS-716A-01.",
+    "instructor": "Murray, Brad",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "6 of 18  responded (33.33%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98804",
+    "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+    "data-id2": "uCQRQ2vnqd8rzAIdve2FdA%3d%3d",
+    "data-id3": "217J0hvriKTJ6TGJR1EFKg%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.847288",
+    "data_ids": {
+      "data-id0": "98804",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "uCQRQ2vnqd8rzAIdve2FdA%3d%3d",
+      "data-id3": "217J0hvriKTJ6TGJR1EFKg%3d%3d"
+    }
+  },
+  {
+    "uid": "161325_9470_12752202_27886264",
+    "course_code": "ECS-524-01",
+    "title": "WATER QUALITY HEALTH.ECS-524-01.ENERGY-524-01.ENVIRON-524-01.EOS-524-01.GLHLTH-534-01.",
+    "instructor": "Vengosh, Avner",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENERGY",
+      "ENVIRON",
+      "EOS",
+      "GLHLTH"
+    ],
+    "data-id0": "98838",
+    "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+    "data-id2": "F9gvmu2B0d%2fGXIkl0SwP5g%3d%3d",
+    "data-id3": "ulDkwrbQbMFHglap7ipMqQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.847373",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "F9gvmu2B0d%2fGXIkl0SwP5g%3d%3d",
+      "data-id3": "ulDkwrbQbMFHglap7ipMqQ%3d%3d"
+    }
+  },
+  {
+    "uid": "161325_9470_12752303_27446082",
+    "course_code": "ECS-715-01",
+    "title": "INTRO COASTAL ENVIRON CHANGE.ECS-715-01.EOS-715-01.",
+    "instructor": "Murray, Brad",
+    "term": "Spring 2024",
+    "area": "ECS",
+    "response_rate": "6 of 18  responded (33.33%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98804",
+    "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+    "data-id2": "h8MkDv%2fYZ2N%2fwyNmlP4k2A%3d%3d",
+    "data-id3": "217J0hvriKTJ6TGJR1EFKg%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.847460",
+    "data_ids": {
+      "data-id0": "98804",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "h8MkDv%2fYZ2N%2fwyNmlP4k2A%3d%3d",
+      "data-id3": "217J0hvriKTJ6TGJR1EFKg%3d%3d"
+    }
+  },
+  {
+    "uid": "167891_9753_13291479_27466683",
+    "course_code": "ECS-101-01",
+    "title": "THE DYNAMIC EARTH.ECS-101-01.EOS-101-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Summer I 2024",
+    "area": "ECS",
+    "response_rate": "27 of 77  responded (35.06%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "6%2brhCO9lgM5iOp4aUS%2b8gg%3d%3d",
+    "data-id2": "Oc8Gdtl9lybfcyfRkdIa2g%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.847667",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "6%2brhCO9lgM5iOp4aUS%2b8gg%3d%3d",
+      "data-id2": "Oc8Gdtl9lybfcyfRkdIa2g%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "171571_9973_13645624_27991587",
+    "course_code": "ECS-511-01",
+    "title": "THE CLIMATE SYSTEM.ECS-511-01.EOS-511-01.",
+    "instructor": "Li, Wenhong",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "8 of 15  responded (53.33%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98838",
+    "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+    "data-id2": "sMbCVHkIAnXF9s9y5Pyf9Q%3d%3d",
+    "data-id3": "TeLeNXT0PpONofSmQzmDhQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.847996",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "sMbCVHkIAnXF9s9y5Pyf9Q%3d%3d",
+      "data-id3": "TeLeNXT0PpONofSmQzmDhQ%3d%3d"
+    }
+  },
+  {
+    "uid": "171571_9973_13645673_27991663",
+    "course_code": "ECS-525-01",
+    "title": "OCEAN & FRESHWATER POLLUTION.ECS-525-01.EOS-525-01.",
+    "instructor": "Cassar, Nicolas",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98838",
+    "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+    "data-id2": "Hz6Uu4VXDGGaQLGOYBd9gw%3d%3d",
+    "data-id3": "6DDy6xJ8HneX0NIJMirMfQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848088",
+    "data_ids": {
+      "data-id0": "98838",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "Hz6Uu4VXDGGaQLGOYBd9gw%3d%3d",
+      "data-id3": "6DDy6xJ8HneX0NIJMirMfQ%3d%3d"
+    }
+  },
+  {
+    "uid": "171571_9973_13645707_30096929",
+    "course_code": "ECS-792S-01",
+    "title": "MICROGRID SEMINAR.ECS-792S-01.EOS-792S-01.",
+    "instructor": "Pratson, Lincoln",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "6 of 15  responded (40.00%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98804",
+    "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+    "data-id2": "8CxHBH9D69Gu2v4c0hjfzA%3d%3d",
+    "data-id3": "CA8iywZ3F9mRp9Ta2DILoQ%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848216",
+    "data_ids": {
+      "data-id0": "98804",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "8CxHBH9D69Gu2v4c0hjfzA%3d%3d",
+      "data-id3": "CA8iywZ3F9mRp9Ta2DILoQ%3d%3d"
+    }
+  },
+  {
+    "uid": "171550_9973_13686486_30187754",
+    "course_code": "ECS-209-01",
+    "title": "PALEOCLIMATE.ECS-209-01.EOS-209-01.",
+    "instructor": "Kipp, Michael",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "6 of 11  responded (54.55%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+    "data-id2": "ivjEpm1Zo11HWYVjjJfdLw%3d%3d",
+    "data-id3": "gvIvwhKVZtUAAeMPgEOqhA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848323",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ivjEpm1Zo11HWYVjjJfdLw%3d%3d",
+      "data-id3": "gvIvwhKVZtUAAeMPgEOqhA%3d%3d"
+    }
+  },
+  {
+    "uid": "171550_9973_13686499_28112115",
+    "course_code": "ECS-226S-01",
+    "title": "FIELD METH EARTH/ENV SCI.ECS-226S-01.ENVIRON-226S-01.EOS-226S-01.",
+    "instructor": "Dwyer, Gary",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "6 of 18  responded (33.33%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "ENVIRON",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+    "data-id2": "5Z%2bcuU7oDXQYSCv694SCwg%3d%3d",
+    "data-id3": "LPeHDFpK%2bHiIDJCN3bmVdA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848411",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "5Z%2bcuU7oDXQYSCv694SCwg%3d%3d",
+      "data-id3": "LPeHDFpK%2bHiIDJCN3bmVdA%3d%3d"
+    }
+  },
+  {
+    "uid": "171550_9973_13686742_27991660",
+    "course_code": "ECS-202-01",
+    "title": "ATMOSPHERE AND OCEAN DYNAMICS.ECS-202-01.EOS-202-01.",
+    "instructor": "Hu, Shineng",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "14 of 18  responded (77.78%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+    "data-id2": "7wj3Xv4gwQbA2M86It5IKg%3d%3d",
+    "data-id3": "hR8XvS9RD5%2b9C7XnvAkfag%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848506",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "7wj3Xv4gwQbA2M86It5IKg%3d%3d",
+      "data-id3": "hR8XvS9RD5%2b9C7XnvAkfag%3d%3d"
+    }
+  },
+  {
+    "uid": "171550_9973_13686846_27466683",
+    "course_code": "ECS-103-01",
+    "title": "CLIMATE CHANGE.ECS-103-01.EOS-103-01.",
+    "instructor": "Glass, Alexander",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "56 of 205  responded (27.32%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+    "data-id2": "%2fcF3qDmnk8dc%2b5WGDpwfMQ%3d%3d",
+    "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848755",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "%2fcF3qDmnk8dc%2b5WGDpwfMQ%3d%3d",
+      "data-id3": "waNfm8tpMGpJwnFhupu9AA%3d%3d"
+    }
+  },
+  {
+    "uid": "171550_9973_13686894_27445806",
+    "course_code": "ECS-101-01",
+    "title": "THE DYNAMIC EARTH.ECS-101-01.EOS-101-01.",
+    "instructor": "Klein, Emily",
+    "term": "Fall 2024",
+    "area": "ECS",
+    "response_rate": "29 of 71  responded (40.85%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ECS",
+      "EOS"
+    ],
+    "data-id0": "98986",
+    "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+    "data-id2": "fIWHDMamwpfXpBk%2bWG4qdQ%3d%3d",
+    "data-id3": "dnogf6IftcFTFxp221Qdiw%3d%3d",
+    "scraped_at": "2025-11-24T16:05:29.848836",
+    "data_ids": {
+      "data-id0": "98986",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "fIWHDMamwpfXpBk%2bWG4qdQ%3d%3d",
+      "data-id3": "dnogf6IftcFTFxp221Qdiw%3d%3d"
+    }
+  }
+]

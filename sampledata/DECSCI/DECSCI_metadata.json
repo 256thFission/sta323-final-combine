@@ -1,0 +1,80 @@
+[
+  {
+    "uid": "153858_9169_12283066_27446054",
+    "course_code": "DECSCI-101-01",
+    "title": "FNDMNTLS OF DECISION SCIENCE.DECSCI-101-01.PSY-141-01.",
+    "instructor": "Huettel, Scott",
+    "term": "Fall 2023",
+    "area": "DECSCI",
+    "response_rate": "43 of 113  responded (38.05%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98980",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "X%2b%2fpOL2reHIjChYAJKEUQQ%3d%3d",
+      "data-id3": "IwQyWYEaUFwe5293owjsyQ%3d%3d"
+    },
+    "department_codes": [
+      "DECSCI",
+      "PSY"
+    ],
+    "scraped_at": "2025-11-24T16:00:44.418582"
+  },
+  {
+    "uid": "171550_9973_13686475_27991429",
+    "course_code": "POLSCI-217-01",
+    "title": "DISCOVERING GAME THEORY.POLSCI-217-01.DECSCI-201-01.ECON-362-01.",
+    "instructor": "Vanberg, Georg",
+    "term": "Fall 2024",
+    "area": "POLISCI",
+    "response_rate": "17 of 69  responded (24.64%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99024",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "%2fjc1%2f1TcpV43eCOoMkKX5Q%3d%3d",
+      "data-id3": "adbYG%2fpOEIhQ%2faIJDzygNw%3d%3d"
+    },
+    "department_codes": [
+      "POLSCI",
+      "DECSCI",
+      "ECON"
+    ],
+    "scraped_at": "2025-11-24T16:00:44.418673"
+  },
+  {
+    "uid": "171550_9973_13686506_27446054",
+    "course_code": "DECSCI-101-01",
+    "title": "FNDMNTLS OF DECISION SCIENCE.DECSCI-101-01.PSY-141-01.",
+    "instructor": "Huettel, Scott",
+    "term": "Fall 2024",
+    "area": "DECSCI",
+    "response_rate": "31 of 92  responded (33.70%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98980",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "KtfuwXMtu%2fGujFLkmKQh3Q%3d%3d",
+      "data-id3": "IwQyWYEaUFwe5293owjsyQ%3d%3d"
+    },
+    "department_codes": [
+      "DECSCI",
+      "PSY"
+    ],
+    "scraped_at": "2025-11-24T16:00:44.418851"
+  },
+  {
+    "uid": "171550_9973_13686739_27446104",
+    "course_code": "POLSCI-189FS-01",
+    "title": "INTRO TO MACHINE LEARNING.POLSCI-189FS-01.DECSCI-189FS-01.",
+    "instructor": "De Marchi, Scott",
+    "term": "Fall 2024",
+    "area": "POLISCI",
+    "response_rate": "10 of 18  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99024",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "3dDqBjNYf77%2bWciTbqkhVg%3d%3d",
+      "data-id3": "1hf5%2fQyUrhhdWJ89EjGrnQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:00:44.418945"
+  }
+]

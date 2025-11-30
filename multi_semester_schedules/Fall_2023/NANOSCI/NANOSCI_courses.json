@@ -1,0 +1,82 @@
+[
+  {
+    "index": 1,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "003720",
+    "crse_offer_nbr": 2,
+    "strm": "1910",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/08/2025",
+    "end_dt": "04/23/2025",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 7565,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "LEC",
+    "subject": "NANOSCI",
+    "subject_descr": "Nanosciences",
+    "catalog_nbr": "511",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "NANOSCI",
+    "grading_basis": "Graded",
+    "wait_tot": 0,
+    "wait_cap": 60,
+    "class_capacity": 60,
+    "enrollment_total": 59,
+    "enrollment_available": 1,
+    "descr": "Foundations of Nanoscale Science and Technology",
+    "rqmnt_designtn": "",
+    "units": "3",
+    "combined_section": "Y",
+    "combined_descr": "This is a combined section class",
+    "enrl_stat": "O",
+    "enrl_stat_descr": "Open",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "Aaron Franklin",
+        "email": "aaron.franklin@duke.edu"
+      }
+    ],
+    "section_type": "Lecture",
+    "meetings": [
+      {
+        "days": "TuTh",
+        "start_time": "13.25.00.000000",
+        "end_time": "14.40.00.000000",
+        "start_dt": "01/08/2025",
+        "end_dt": "04/23/2025",
+        "bldg_cd": "7735",
+        "bldg_has_coordinates": true,
+        "facility_descr": "FITZPATRICK SCHICIANO B 1466",
+        "room": "1466",
+        "facility_id": "77351466",
+        "instructor": "Aaron Franklin"
+      }
+    ],
+    "crse_attr": "BLTN,REG",
+    "crse_attr_value": "BLTN-G,BLTN-U,REG-C,REG-NOSU,REG-P",
+    "reserve_caps": [],
+    "reserved_combined_info": {
+      "class_enrl_cap": 60,
+      "combined_enrl_cap": 60,
+      "enrl_tot_other_combined": 58
+    },
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "This course is the introductory course for the Graduate Certificate Program in Nanoscience (GPNANO) and is designed to introduce students to the interdisciplinary aspects of nanoscience by integrating important components of the broad research field together. This integrated approach will cross the traditional disciplines of biology, chemistry, electrical & computer engineering, computer science, and physics. Fundamental properties of materials at the nanoscale, synthesis of nanoparticles, characterization tools, and self-assembly. Prerequisites: Physics 152L and Chemistry 101DL or instructor approval."
+  }
+]

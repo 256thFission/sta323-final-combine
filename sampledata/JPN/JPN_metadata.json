@@ -1,0 +1,359 @@
+[
+  {
+    "uid": "153858_9169_12283341_28112283",
+    "course_code": "JPN-101-02D",
+    "title": "ELEMENTARY JAPANESE.JPN-101-02D.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "7 of 18  responded (38.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "hfCBq2fSyta7j66Rrcm2hQ%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:25:19.831164"
+  },
+  {
+    "uid": "153858_9169_12283439_28112283",
+    "course_code": "JPN-101-002",
+    "title": "ELEMENTARY JAPANESE.JPN-101-002.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "17 of 18  responded (94.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "dTqG2o2Uwi%2fJsw0Au5i4Qg%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831274"
+  },
+  {
+    "uid": "153858_9169_12283494_28112283",
+    "course_code": "JPN-101-001",
+    "title": "ELEMENTARY JAPANESE.JPN-101-001.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "9 of 9  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Jl75hMCIDEgZP8m9fOzpVQ%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831374"
+  },
+  {
+    "uid": "153858_9169_12283496_27445885",
+    "course_code": "JPN-305-01",
+    "title": "ADVANCED JAPANESE.JPN-305-01.",
+    "instructor": "Chen, Yunchuan",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "qz6mDshPAiSz%2fiKjn5a2Iw%3d%3d",
+      "data-id3": "EsPaBx8Fh20VY9XCpUj7YQ%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831458"
+  },
+  {
+    "uid": "153858_9169_12283556_28112282",
+    "course_code": "JPN-203-01D",
+    "title": "INTERMEDIATE JAPANESE.JPN-203-01D.",
+    "instructor": "Saito, Azusa",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "%2bOuqEi8wCyohdF5NVJ48ag%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:25:19.831573"
+  },
+  {
+    "uid": "153858_9169_12283570_28112282",
+    "course_code": "JPN-203-002",
+    "title": "INTERMEDIATE JAPANESE.JPN-203-002.",
+    "instructor": "Saito, Azusa",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "GOId6WLokERl5A9PMtf1Lg%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831652"
+  },
+  {
+    "uid": "153858_9169_12283583_28112282",
+    "course_code": "JPN-203-001",
+    "title": "INTERMEDIATE JAPANESE.JPN-203-001.",
+    "instructor": "Saito, Azusa",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "fPtlOURNKHOVu1pdGIgejg%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831730"
+  },
+  {
+    "uid": "161337_9470_12751481_28112283",
+    "course_code": "JPN-102-002",
+    "title": "ELEMENTARY JAPANESE.JPN-102-002.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "12 of 12  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "qfChsJYovuYVBjoDQEdC4w%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831812"
+  },
+  {
+    "uid": "161337_9470_12751510_28112283",
+    "course_code": "JPN-102-001",
+    "title": "ELEMENTARY JAPANESE.JPN-102-001.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "eCMeJKFKYRp%2fdPCMvzTpQA%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831892"
+  },
+  {
+    "uid": "161337_9470_12751637_28112282",
+    "course_code": "JPN-306-01",
+    "title": "ADVANCED JAPANESE.JPN-306-01.",
+    "instructor": "Saito, Azusa",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "8 of 8  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "%2fFyM9Lko1NNLvlE0Iabong%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.831971"
+  },
+  {
+    "uid": "161337_9470_12751656_28112282",
+    "course_code": "JPN-204-01",
+    "title": "INTERMEDIATE JAPANESE.JPN-204-01.",
+    "instructor": "Saito, Azusa",
+    "term": "Spring 2024",
+    "area": "AMES",
+    "response_rate": "10 of 10  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "WL4MjLJy1eI8nxvyn%2bTnCw%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832049"
+  },
+  {
+    "uid": "171550_9973_13687213_28112283",
+    "course_code": "JPN-101-01",
+    "title": "ELEMENTARY JAPANESE.JPN-101-01.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "21 of 21  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "pcmVi02KIyLheqgwAaasNQ%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832127"
+  },
+  {
+    "uid": "171550_9973_13687327_27445885",
+    "course_code": "JPN-305-01",
+    "title": "ADVANCED JAPANESE.JPN-305-01.",
+    "instructor": "Chen, Yunchuan",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "rzK%2bGyZ%2fwQGuEbG8xGLCHw%3d%3d",
+      "data-id3": "EsPaBx8Fh20VY9XCpUj7YQ%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832220"
+  },
+  {
+    "uid": "171550_9973_13687336_28112282",
+    "course_code": "JPN-203-02",
+    "title": "INTERMEDIATE JAPANESE.JPN-203-02.",
+    "instructor": "Saito, Azusa",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "8DdLZptC%2fKdUCYyz%2faW6nQ%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832312"
+  },
+  {
+    "uid": "171550_9973_13687344_28112282",
+    "course_code": "JPN-203-01",
+    "title": "INTERMEDIATE JAPANESE.JPN-203-01.",
+    "instructor": "Saito, Azusa",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "8 of 9  responded (88.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "j1izd%2fKUZsLHhOp6Ic4cGg%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832393"
+  },
+  {
+    "uid": "171550_9973_13687351_28112283",
+    "course_code": "JPN-101-02",
+    "title": "ELEMENTARY JAPANESE.JPN-101-02.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "AV2FpkyvNyCCjeLaz36b9Q%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832472"
+  },
+  {
+    "uid": "179281_10319_14262452_28112282",
+    "course_code": "JPN-306-01",
+    "title": "ADVANCED JAPANESE.JPN-306-01.",
+    "instructor": "Saito, Azusa",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "1Qqp0%2bl4XNTEcUVKvXJ5wA%3d%3d",
+      "data-id3": "sumMBzn7q0INRSmW%2bvoZKw%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832552"
+  },
+  {
+    "uid": "179281_10319_14262547_28112283",
+    "course_code": "JPN-102-002",
+    "title": "ELEMENTARY JAPANESE.JPN-102-002.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "7 of 9  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Qc9Ccrjtjyyt8hZxDrpPvg%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832628"
+  },
+  {
+    "uid": "179281_10319_14262586_28112283",
+    "course_code": "JPN-102-01",
+    "title": "ELEMENTARY JAPANESE.JPN-102-01.",
+    "instructor": "Kurokawa, Naoko",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "12 of 12  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "gmj5y6kPXZ9nRB2IXVjq5w%3d%3d",
+      "data-id3": "lQ6qchSm7Vq8fXgC44ifTg%3d%3d"
+    },
+    "department_codes": [
+      "JPN"
+    ],
+    "scraped_at": "2025-11-24T16:25:19.832704"
+  }
+]

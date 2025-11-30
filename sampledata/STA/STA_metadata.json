@@ -1,0 +1,2867 @@
+[
+  {
+    "uid": "149911_8928_11987176_27466639",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Meyer, Elijah",
+    "term": "Summer I 2023",
+    "area": "STATSCI",
+    "response_rate": "10 of 20  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "R3taZNKnw14IRH7UBESaUg%3d%3d",
+      "data-id2": "bmQ4g86f0DJ2R3X%2fGub6JA%3d%3d",
+      "data-id3": "N3F5SyzGISEE5AC3OsCO1w%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.598568"
+  },
+  {
+    "uid": "152527_9107_12076186_27675591",
+    "course_code": "MATH-230-01",
+    "title": "PROBABILITY.MATH-230-01.STA-230-01.",
+    "instructor": "Ghanbari, Maryam",
+    "term": "Summer II 2023",
+    "area": "MATH",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "4TxgzUHg4Suz2MS8X7frbw%3d%3d",
+      "data-id2": "BDhxJtrSAZeutnk3SPW07A%3d%3d",
+      "data-id3": "vNX48dyO49URA5KfGGBznQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.598931"
+  },
+  {
+    "uid": "152527_9107_12076213_27675608",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Tam, Ed",
+    "term": "Summer II 2023",
+    "area": "STATSCI",
+    "response_rate": "15 of 25  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "4TxgzUHg4Suz2MS8X7frbw%3d%3d",
+      "data-id2": "zdnTjDYvcfk0m121i4fTsg%3d%3d",
+      "data-id3": "m4qySfrqDB3utu1dvJXuIw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.599337"
+  },
+  {
+    "uid": "154503_9169_12217080_27930957",
+    "course_code": "STA-790-1-01",
+    "title": "SPECIAL TOPICS.STA-790-1-01.",
+    "instructor": "Ma, Li",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "10 of 14  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "jLVzni0vX1w6L2Bye1f97g%3d%3d",
+      "data-id3": "Zr8z5fduHRuCsRHbP5CXkA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.599562"
+  },
+  {
+    "uid": "154503_9169_12241027_27991334",
+    "course_code": "STA-521L-001",
+    "title": "PREDICTIVE MODELING.STA-521L-001.",
+    "instructor": "Banks, David",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "30 of 39  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "5bo%2fDfeFywi1Mq0r1U3m1g%3d%3d",
+      "data-id3": "Pn4E0Iei229wDEFDYtYGkw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.599784"
+  },
+  {
+    "uid": "154503_9169_12241037_27991331",
+    "course_code": "STA-522-01",
+    "title": "STUDY DESIGN.STA-522-01.",
+    "instructor": "Reiter, Jerry",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "1%2fglDU%2bSYcYW0dEo1Yn2cw%3d%3d",
+      "data-id3": "iCdyH%2bq7RfM%2b6aMCIn%2fvwg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.599979"
+  },
+  {
+    "uid": "154503_9169_12241058_27991337",
+    "course_code": "STA-832-01",
+    "title": "MULTIVARIATE STAT ANALY.STA-832-01.",
+    "instructor": "Hoff, Peter",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "11 of 21  responded (52.38%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "faYUAlYaVtxqBHLFKUo61Q%3d%3d",
+      "data-id3": "TWUf5w2JbbDKl8GZyymU%2bg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.600171"
+  },
+  {
+    "uid": "154503_9169_12241063_27991330",
+    "course_code": "STA-610L-001",
+    "title": "HIERARCHICAL MODELS.STA-610L-001.",
+    "instructor": "Li, Fan",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "30 of 53  responded (56.60%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "O4HabU7F0f5cLbpsXhPbQA%3d%3d",
+      "data-id3": "uump4JmLVYaMG%2bYcOu4FdA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.600513"
+  },
+  {
+    "uid": "154503_9169_12241065_27991338",
+    "course_code": "STA-711-01",
+    "title": "PROBABIL/MEASURE THEORY.STA-711-01.",
+    "instructor": "Reeves, Galen",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "14 of 21  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "PU0Q3Xtp6abvHMVwHi0qxA%3d%3d",
+      "data-id3": "o5O2r5josIeUvZOsn%2f%2fEYA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.600717"
+  },
+  {
+    "uid": "154503_9169_12241071_27930957",
+    "course_code": "STA-602L-001",
+    "title": "BAYESIAN STATISTICAL MODELING.STA-602L-001.",
+    "instructor": "Ma, Li",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "29 of 36  responded (80.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "YrxsERyx9UuvpHr60DYW8w%3d%3d",
+      "data-id3": "Zr8z5fduHRuCsRHbP5CXkA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.600873"
+  },
+  {
+    "uid": "154503_9169_12241494_27991696",
+    "course_code": "MATH-541-01",
+    "title": "APPLIED STOCHASTIC PROC.MATH-541-01.STA-621-01.",
+    "instructor": "Dunlap, Alexander",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "19 of 41  responded (46.34%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98862",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "c3zHZdYxL3U9rGtdxQ7hVg%3d%3d",
+      "data-id3": "Cv0VVCoec6ryRGA62c%2bcuw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.600952"
+  },
+  {
+    "uid": "154503_9169_12241510_27991338",
+    "course_code": "ECE-587-01",
+    "title": "INFORMATION THEORY.ECE-587-01.STA-563-01.",
+    "instructor": "Reeves, Galen",
+    "term": "Fall 2023",
+    "area": "ELEC&CMP",
+    "response_rate": "11 of 27  responded (40.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "D0N12ImZPxwMc3nIUqeTCQ%3d%3d",
+      "data-id3": "o5O2r5josIeUvZOsn%2f%2fEYA%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.601027"
+  },
+  {
+    "uid": "154503_9169_12241520_27991701",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "AGtyK22LzqmLKe%2f06jpA0w%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:53.601102"
+  },
+  {
+    "uid": "154503_9169_12241520_27991703",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "AGtyK22LzqmLKe%2f06jpA0w%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:53.601174"
+  },
+  {
+    "uid": "154503_9169_12241561_27991336",
+    "course_code": "STA-721L-001",
+    "title": "LINEAR MODELS.STA-721L-001.MATH-743L-001.",
+    "instructor": "Xu, Jason",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "6 of 10  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "ntPZgxbXl%2fMAhUz0TvTWVw%3d%3d",
+      "data-id3": "2ChOJwOZvuxo1VekFC1m2A%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.601248"
+  },
+  {
+    "uid": "154503_9169_12241570_27991701",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "49 of 182  responded (26.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "oteB%2bXVE5Z1v5Kw%2f2jYNFQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.601323"
+  },
+  {
+    "uid": "154503_9169_12241570_27991703",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "49 of 182  responded (26.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "oteB%2bXVE5Z1v5Kw%2f2jYNFQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:53.601393"
+  },
+  {
+    "uid": "154503_9169_12241642_27991701",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "SLPL83K0ixSm3n44HiRbjQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:53.601463"
+  },
+  {
+    "uid": "154503_9169_12241642_27991703",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "SLPL83K0ixSm3n44HiRbjQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:53.601532"
+  },
+  {
+    "uid": "154503_9169_12241659_27991701",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "RKYsXTRbuF2hPShYr5ChdQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:53.601598"
+  },
+  {
+    "uid": "154503_9169_12241659_27991703",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "5 of 22  responded (22.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "RKYsXTRbuF2hPShYr5ChdQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:54.333729"
+  },
+  {
+    "uid": "154503_9169_12241663_27991701",
+    "course_code": "COMPSCI-671D-10D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-10D.ECE-687D-10D.STA-671D-10D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "6 of 20  responded (30.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "wTF4%2bubMu9%2brDQyTjuv4Ow%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:54.333817"
+  },
+  {
+    "uid": "154503_9169_12241663_27991703",
+    "course_code": "COMPSCI-671D-10D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-10D.ECE-687D-10D.STA-671D-10D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "6 of 20  responded (30.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "wTF4%2bubMu9%2brDQyTjuv4Ow%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:54.333887"
+  },
+  {
+    "uid": "154503_9169_12241673_27991701",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 18  responded (38.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "5YPia3h65epIHVXzhdZCuQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:54.333959"
+  },
+  {
+    "uid": "154503_9169_12241673_27991703",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Barnett, Alina",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "7 of 18  responded (38.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "5YPia3h65epIHVXzhdZCuQ%3d%3d",
+      "data-id3": "wG%2fM66XfbOFNOV11Wj2bzA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:54.334059"
+  },
+  {
+    "uid": "153858_9169_12281817_27991332",
+    "course_code": "STA-325L-001",
+    "title": "MACHINE LEARNING & DATA MINING.STA-325L-001.",
+    "instructor": "Mak, Simon tsz fung",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "26 of 35  responded (74.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "DJOq7pe9asUtBEjCvDBebQ%3d%3d",
+      "data-id3": "QxSRJUViI971kUAwTKBd2g%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334135"
+  },
+  {
+    "uid": "153858_9169_12281827_28111706",
+    "course_code": "STA-440L-001",
+    "title": "CASE STUDIES.STA-440L-001.",
+    "instructor": "Jiang, Yue",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "19 of 33  responded (57.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "vE2faiXFChT%2bWcHfohBU4Q%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334206"
+  },
+  {
+    "uid": "153858_9169_12281828_27991334",
+    "course_code": "STA-110FS-01",
+    "title": "FOCUS PROGRAM - SPECIAL TOPICS.STA-110FS-01.",
+    "instructor": "Banks, David",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "12 of 18  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "EW6GCuVSQcCZ64LcP96yew%3d%3d",
+      "data-id3": "Pn4E0Iei229wDEFDYtYGkw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:54.334277"
+  },
+  {
+    "uid": "153858_9169_12281838_28111708",
+    "course_code": "STA-210L-001",
+    "title": "REGRESSION ANALYSIS.STA-210L-001.",
+    "instructor": "Tackett, Maria",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "49 of 60  responded (81.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "AjNBiq3xKnKs%2bfSEMYeOhQ%3d%3d",
+      "data-id3": "1X7wI0OKpfb8JM2W4L9bFg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334347"
+  },
+  {
+    "uid": "153858_9169_12281839_28111708",
+    "course_code": "STA-210L-002",
+    "title": "REGRESSION ANALYSIS.STA-210L-002.",
+    "instructor": "Tackett, Maria",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "43 of 52  responded (82.69%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "v%2fCjcqFIdy6dOfHkS1INbg%3d%3d",
+      "data-id3": "1X7wI0OKpfb8JM2W4L9bFg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334417"
+  },
+  {
+    "uid": "153858_9169_12281841_28111707",
+    "course_code": "STA-360L-001",
+    "title": "BAYESIAN AND MODERN STATISTICS.STA-360L-001.",
+    "instructor": "Fisher, Alexander",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "28 of 31  responded (90.32%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "51j8r0lq0VnPeXiakmxu5Q%3d%3d",
+      "data-id3": "PoCkPJtXOrJjeAErF5816Q%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334485"
+  },
+  {
+    "uid": "153858_9169_12281851_27466639",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Meyer, Elijah",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "91 of 157  responded (57.96%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "rqgoQageza0KTnlrrDWIAg%3d%3d",
+      "data-id3": "N3F5SyzGISEE5AC3OsCO1w%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334557"
+  },
+  {
+    "uid": "153858_9169_12281852_28111709",
+    "course_code": "STA-470S-01",
+    "title": "INTRO STATISTICAL CONSULTING.STA-470S-01.",
+    "instructor": "Iversen, Edwin",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "6 of 18  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "nGc2GSKuHRRFmQPjNPLgFw%3d%3d",
+      "data-id3": "CPqSxHzT7EA6gB3Rs%2bKguA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334628"
+  },
+  {
+    "uid": "153858_9169_12281856_27466639",
+    "course_code": "STA-199L-002",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-002.",
+    "instructor": "Meyer, Elijah",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "101 of 147  responded (68.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "HXw6E9lJcDWO6NS2z5LIxg%3d%3d",
+      "data-id3": "N3F5SyzGISEE5AC3OsCO1w%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334697"
+  },
+  {
+    "uid": "153858_9169_12282816_27991507",
+    "course_code": "MATH-340-01",
+    "title": "ADVANCED INTRO PROBABILITY.MATH-340-01.STA-231-01.",
+    "instructor": "Cook, Nicholas",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "7 of 17  responded (41.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "zRidJlr1GxhjJgkRUt%2fGeg%3d%3d",
+      "data-id3": "VUkDPycLdLkcT0A6wZklZg%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334766"
+  },
+  {
+    "uid": "153858_9169_12282865_27991510",
+    "course_code": "MATH-230-05",
+    "title": "PROBABILITY.MATH-230-05.STA-230-05.",
+    "instructor": "Bezemek, Zachary",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "19 of 38  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "N%2bFtFyb%2bpnwgFPls5bo%2bXQ%3d%3d",
+      "data-id3": "RftNRUayZUdInh7SiYNaRA%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334833"
+  },
+  {
+    "uid": "153858_9169_12282868_27446066",
+    "course_code": "STA-432-01",
+    "title": "STAT. LEARNING AND INFERENCE.STA-432-01.MATH-343-01.",
+    "instructor": "Tokdar, Surya",
+    "term": "Fall 2023",
+    "area": "STATSCI",
+    "response_rate": "31 of 34  responded (91.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "2qFz6ZCL4qlgCjXoNId9Kw%3d%3d",
+      "data-id3": "ENdIW0FzKux8PhdlgSxLZg%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.334949"
+  },
+  {
+    "uid": "153858_9169_12282937_27991514",
+    "course_code": "MATH-230-04",
+    "title": "PROBABILITY.MATH-230-04.STA-230-04.",
+    "instructor": "Lang, Quanjun",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "5 of 19  responded (26.32%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "1DQpVa53fhKBDjF6m3Rijw%3d%3d",
+      "data-id3": "CNdOrD6GP0LW%2fgKckW5VLw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.335028"
+  },
+  {
+    "uid": "153858_9169_12282990_27991514",
+    "course_code": "MATH-230-03",
+    "title": "PROBABILITY.MATH-230-03.STA-230-03.",
+    "instructor": "Lang, Quanjun",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "10 of 32  responded (31.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "%2bFKhc3z61sT5rKBZ1lJzEQ%3d%3d",
+      "data-id3": "CNdOrD6GP0LW%2fgKckW5VLw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.335101"
+  },
+  {
+    "uid": "153858_9169_12283079_27446077",
+    "course_code": "MATH-230-02",
+    "title": "PROBABILITY.MATH-230-02.STA-230-02.",
+    "instructor": "Akin, Victoria",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "19 of 41  responded (46.34%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "ObfK6K2HPZ%2f8HTRAKht6Ig%3d%3d",
+      "data-id3": "%2b1o4pDVP5DnzYsWSaICnRQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:54.335170"
+  },
+  {
+    "uid": "153858_9169_12283104_27446077",
+    "course_code": "MATH-230-01",
+    "title": "PROBABILITY.MATH-230-01.STA-230-01.",
+    "instructor": "Akin, Victoria",
+    "term": "Fall 2023",
+    "area": "MATH",
+    "response_rate": "14 of 43  responded (32.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "QOqbTL63p2XReor1XkI3rA%3d%3d",
+      "data-id3": "%2b1o4pDVP5DnzYsWSaICnRQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.315806"
+  },
+  {
+    "uid": "161337_9470_12749936_28111703",
+    "course_code": "STA-211-01",
+    "title": "MATH OF REGRESSION.STA-211-01.",
+    "instructor": "Dewaskar, Miheer Ulhas",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "47 of 70  responded (67.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "nGGuY9My2FzdKeVT6mXJsA%3d%3d",
+      "data-id3": "22Y%2fjTEjS6hOmkiz4Mn5OA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.315904"
+  },
+  {
+    "uid": "161337_9470_12749937_28111708",
+    "course_code": "STA-310-001",
+    "title": "GENERALIZED LINEAR MODELS.STA-310-001.",
+    "instructor": "Tackett, Maria",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "6 of 11  responded (54.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "LN1y9s0LQv6Lk7%2bqg2PpGw%3d%3d",
+      "data-id3": "1X7wI0OKpfb8JM2W4L9bFg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.315981"
+  },
+  {
+    "uid": "161337_9470_12749951_28111706",
+    "course_code": "STA-210L-001",
+    "title": "REGRESSION ANALYSIS.STA-210L-001.",
+    "instructor": "Jiang, Yue",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "51 of 75  responded (68.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "5g2hoA5MkDm8FetxbpHuGg%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316058"
+  },
+  {
+    "uid": "161337_9470_12749961_27991337",
+    "course_code": "STA-360L-001",
+    "title": "BAYESIAN AND MODERN STATISTICS.STA-360L-001.",
+    "instructor": "Hoff, Peter",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "33 of 61  responded (54.10%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "JoLbAD5jTf57phaLRZkaQw%3d%3d",
+      "data-id3": "TWUf5w2JbbDKl8GZyymU%2bg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316139"
+  },
+  {
+    "uid": "161337_9470_12749967_27991333",
+    "course_code": "STA-323D-001",
+    "title": "STATISTICAL COMPUTING.STA-323D-001.",
+    "instructor": "Rundel, Colin",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "5 of 18  responded (27.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "SCVGFQ3TRjufsqCoNhFoSA%3d%3d",
+      "data-id3": "d%2bfgyqB%2bVP985E79CeXRVw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316221"
+  },
+  {
+    "uid": "161337_9470_12749968_28111706",
+    "course_code": "STA-440L-001",
+    "title": "CASE STUDIES.STA-440L-001.",
+    "instructor": "Jiang, Yue",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "7 of 33  responded (21.21%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "6CBLdfHTSZ1hD2Vl1X2sMQ%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316299"
+  },
+  {
+    "uid": "161337_9470_12749973_27991329",
+    "course_code": "STA-101L-001",
+    "title": "DATA ANALY/STAT INFER.STA-101L-001.",
+    "instructor": "Lane, Andrea",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "45 of 71  responded (63.38%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "x9Ez%2b3qSs%2fQodg1uyxPqaQ%3d%3d",
+      "data-id3": "nhIORVcqadNrHukxmXP0xA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316372"
+  },
+  {
+    "uid": "161337_9470_12750816_27991341",
+    "course_code": "COMPSCI-190-01",
+    "title": "TOPICS IN COMPUTER SCIENCE.COMPSCI-190-01.AAAS-190-01.STA-190-01.",
+    "instructor": "Peoples, Crystal",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "20 of 25  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "9PEdrOfJKzfTHX1fJpC6lw%3d%3d",
+      "data-id3": "2uUHK%2b%2fpcb5Sl1mIhlc3Fw%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "AAAS",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316444"
+  },
+  {
+    "uid": "161337_9470_12750984_28807846",
+    "course_code": "MATH-340-01",
+    "title": "ADVANCED INTRO PROBABILITY.MATH-340-01.STA-231-01.",
+    "instructor": "Nolen, James",
+    "term": "Spring 2024",
+    "area": "MATH",
+    "response_rate": "16 of 31  responded (51.61%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "rHckYdLose7YoPGBsAiuig%3d%3d",
+      "data-id3": "2CWgmrWQTVu7cKdwlIpPlg%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316516"
+  },
+  {
+    "uid": "161337_9470_12751031_28111936",
+    "course_code": "MATH-230-04",
+    "title": "PROBABILITY.MATH-230-04.STA-230-04.",
+    "instructor": "Jones, Edna",
+    "term": "Spring 2024",
+    "area": "MATH",
+    "response_rate": "33 of 39  responded (84.62%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "2By2rFIvHcAmqreBh3Q2wQ%3d%3d",
+      "data-id3": "xKL3r2yyFLcx5wzpxDo%2fwg%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316586"
+  },
+  {
+    "uid": "161337_9470_12751060_28111936",
+    "course_code": "MATH-230-03",
+    "title": "PROBABILITY.MATH-230-03.STA-230-03.",
+    "instructor": "Jones, Edna",
+    "term": "Spring 2024",
+    "area": "MATH",
+    "response_rate": "32 of 38  responded (84.21%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "9QmReSm6W1eSpkZzab3wkQ%3d%3d",
+      "data-id3": "xKL3r2yyFLcx5wzpxDo%2fwg%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316659"
+  },
+  {
+    "uid": "161337_9470_12751114_28111870",
+    "course_code": "MATH-230-02",
+    "title": "PROBABILITY.MATH-230-02.STA-230-02.",
+    "instructor": "Hughes, James",
+    "term": "Spring 2024",
+    "area": "MATH",
+    "response_rate": "32 of 43  responded (74.42%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "CTokQR2FcMjSuBH695qmUw%3d%3d",
+      "data-id3": "sljl3FEUcCetehBvHcuByw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316730"
+  },
+  {
+    "uid": "161337_9470_12751135_27991332",
+    "course_code": "STA-240L-001",
+    "title": "PROBABILITY FOR STATISTICS.STA-240L-001.MATH-228L-001.",
+    "instructor": "Mak, Simon tsz fung",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "9 of 29  responded (31.03%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "WBTimYUzvJlgpEHIWEUedg%3d%3d",
+      "data-id3": "QxSRJUViI971kUAwTKBd2g%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316800"
+  },
+  {
+    "uid": "161337_9470_12751164_28111870",
+    "course_code": "MATH-230-01",
+    "title": "PROBABILITY.MATH-230-01.STA-230-01.",
+    "instructor": "Hughes, James",
+    "term": "Spring 2024",
+    "area": "MATH",
+    "response_rate": "21 of 38  responded (55.26%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "9AlhWcESDabP2BwClGVASA%3d%3d",
+      "data-id3": "sljl3FEUcCetehBvHcuByw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316873"
+  },
+  {
+    "uid": "161325_9470_12751678_27991331",
+    "course_code": "STA-790-1-01",
+    "title": "SPECIAL TOPICS.STA-790-1-01.",
+    "instructor": "Reiter, Jerry",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "9 of 22  responded (40.91%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "oC418d9QtMyJ2HXMC%2fc14A%3d%3d",
+      "data-id3": "iCdyH%2bq7RfM%2b6aMCIn%2fvwg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.316942"
+  },
+  {
+    "uid": "161325_9470_12751679_27991330",
+    "course_code": "STA-640-01",
+    "title": "CAUSAL INFERENCE.STA-640-01.",
+    "instructor": "Li, Fan",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "23 of 46  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "BP%2f%2flD5396KOnVD2HEeyIg%3d%3d",
+      "data-id3": "uump4JmLVYaMG%2bYcOu4FdA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.317009"
+  },
+  {
+    "uid": "161325_9470_12751680_28111706",
+    "course_code": "STA-583-01",
+    "title": "COMMUNICATING STATISTICS.STA-583-01.",
+    "instructor": "Jiang, Yue",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "11 of 28  responded (39.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "vGhGJY0R53nQq81VPlmkJQ%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.317100"
+  },
+  {
+    "uid": "161325_9470_12751687_27446066",
+    "course_code": "STA-532-01",
+    "title": "THEORY OF INFERENCE.STA-532-01.",
+    "instructor": "Tokdar, Surya",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "22 of 39  responded (56.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "7KWJ5Q9%2bwcwPq%2bJ6BsxXig%3d%3d",
+      "data-id3": "ENdIW0FzKux8PhdlgSxLZg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.317185"
+  },
+  {
+    "uid": "161325_9470_12751689_28807816",
+    "course_code": "STA-790-1-02",
+    "title": "SPECIAL TOPICS.STA-790-1-02.",
+    "instructor": "Volfovsky, Alexander",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "5 of 18  responded (27.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "rZDYcZzP0nvfSv8iFP%2bAzA%3d%3d",
+      "data-id3": "hJRmrK6c40zS0NGjWWhhBQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:55.317257"
+  },
+  {
+    "uid": "161325_9470_12751691_27991334",
+    "course_code": "STA-611-01",
+    "title": "INTRO TO MATHEMATICAL STAT.STA-611-01.",
+    "instructor": "Banks, David",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "8 of 22  responded (36.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "SzEFmeoRHpvcVXvbtadbgg%3d%3d",
+      "data-id3": "Pn4E0Iei229wDEFDYtYGkw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065348"
+  },
+  {
+    "uid": "161325_9470_12751697_28807737",
+    "course_code": "STA-698-01",
+    "title": "CAPSTONE PROJECT.STA-698-01.",
+    "instructor": "Herschlag, Gregory",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "9 of 13  responded (69.23%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "yPQ707EPmJy9qYni8MSpHQ%3d%3d",
+      "data-id3": "0Dl4AWv9%2b3zQr%2fWDRaIEfQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065441"
+  },
+  {
+    "uid": "161325_9470_12751716_27930957",
+    "course_code": "STA-732-01",
+    "title": "STATISTICAL INFERENCE.STA-732-01.",
+    "instructor": "Ma, Li",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "9 of 13  responded (69.23%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "JjRpNAnFtWSBLxOuaCSrPw%3d%3d",
+      "data-id3": "Zr8z5fduHRuCsRHbP5CXkA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065514"
+  },
+  {
+    "uid": "161325_9470_12751722_28807878",
+    "course_code": "STA-663L-001",
+    "title": "STATISTICAL COMPUTATION.STA-663L-001.",
+    "instructor": "Huang, Ouwen",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "40 of 42  responded (95.24%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "4cX%2fEgv9jcYkenU4BUkS3g%3d%3d",
+      "data-id3": "yOxpa42fHKZXuykY8jQOkg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065585"
+  },
+  {
+    "uid": "161325_9470_12751725_28807877",
+    "course_code": "STA-602L-001",
+    "title": "BAYESIAN STATISTICAL MODELING.STA-602L-001.",
+    "instructor": "Lin, Lin",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "6 of 23  responded (26.09%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "ZnJG5cooyGEZyMuLMwCn5A%3d%3d",
+      "data-id3": "fsMz0Nd2f3Ca8l%2bAVxnV5Q%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065678"
+  },
+  {
+    "uid": "161325_9470_12752137_27991768",
+    "course_code": "COMPSCI-520D-01D",
+    "title": "NUMERICAL ANALYSIS.COMPSCI-520D-01D.MATH-565D-01D.STA-612D-01D.",
+    "instructor": "Sun, Xiaobai",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 38  responded (31.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "5EBk2hqwRUbgPk6jtonnYA%3d%3d",
+      "data-id3": "vYMqPh%2fGI%2fLCr7VXSw8JFg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.065787"
+  },
+  {
+    "uid": "161325_9470_12752171_27991768",
+    "course_code": "COMPSCI-520D-001",
+    "title": "NUMERICAL ANALYSIS.COMPSCI-520D-001.MATH-565D-001.STA-612D-001.",
+    "instructor": "Sun, Xiaobai",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "22 of 38  responded (57.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "y22EuZo7zuGMN8uQdlmKJQ%3d%3d",
+      "data-id3": "vYMqPh%2fGI%2fLCr7VXSw8JFg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065862"
+  },
+  {
+    "uid": "161325_9470_12752205_28807876",
+    "course_code": "STA-561D-001",
+    "title": "PROBABILISTIC MACHINE LEARNING.STA-561D-001.COMPSCI-571D-001.ECE-682D-001.",
+    "instructor": "Laber, Eric",
+    "term": "Spring 2024",
+    "area": "STATSCI",
+    "response_rate": "38 of 100  responded (38.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "1Xw0Vro4XP%2fO4DFCeTpr0Q%3d%3d",
+      "data-id3": "0Q5jgiW%2byonRs5FFpwyf8w%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.065933"
+  },
+  {
+    "uid": "167891_9753_13291460_29177156",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Bersson, Elizabeth (Betsy)",
+    "term": "Summer I 2024",
+    "area": "STATSCI",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "6%2brhCO9lgM5iOp4aUS%2b8gg%3d%3d",
+      "data-id2": "7Z0%2fWYfixGmJjHo6ell%2frg%3d%3d",
+      "data-id3": "VX55l94FVwH%2fDnDL%2btS2pQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066003"
+  },
+  {
+    "uid": "171571_9973_13446608_27991335",
+    "course_code": "STA-690-01",
+    "title": "SPECIAL TOPICS.STA-690-01.",
+    "instructor": "Scott, Sean",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "19 of 34  responded (55.88%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "XncyEqh4AhK%2bqYpfUo3ZVw%3d%3d",
+      "data-id3": "JeL5blNVaJW%2bBrDGcUrz8A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066070"
+  },
+  {
+    "uid": "171571_9973_13645139_27991337",
+    "course_code": "STA-610L-001",
+    "title": "HIERARCHICAL MODELS.STA-610L-001.",
+    "instructor": "Hoff, Peter",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "21 of 40  responded (52.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "SSY6c2K9DO%2f%2fGYYw6N5piQ%3d%3d",
+      "data-id3": "TWUf5w2JbbDKl8GZyymU%2bg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066138"
+  },
+  {
+    "uid": "171571_9973_13645142_27446066",
+    "course_code": "STA-711-01",
+    "title": "PROBABIL/MEASURE THEORY.STA-711-01.",
+    "instructor": "Tokdar, Surya",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "14 of 18  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WpgC6hirqQ%2ff2sJc3nyrew%3d%3d",
+      "data-id3": "ENdIW0FzKux8PhdlgSxLZg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066209"
+  },
+  {
+    "uid": "171571_9973_13645144_27930957",
+    "course_code": "STA-702L-001",
+    "title": "BAYESIAN STATISTICS.STA-702L-001.",
+    "instructor": "Ma, Li",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "11 of 13  responded (84.62%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "5CUsrgCW4LsioUcQRF63Ug%3d%3d",
+      "data-id3": "Zr8z5fduHRuCsRHbP5CXkA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066279"
+  },
+  {
+    "uid": "171571_9973_13645145_27446066",
+    "course_code": "STA-532-01",
+    "title": "THEORY OF INFERENCE.STA-532-01.",
+    "instructor": "Tokdar, Surya",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "33 of 46  responded (71.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "yBhOpPyv36upGti3WTdOyw%3d%3d",
+      "data-id3": "ENdIW0FzKux8PhdlgSxLZg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066347"
+  },
+  {
+    "uid": "171571_9973_13645147_27991334",
+    "course_code": "STA-521L-001",
+    "title": "PREDICTIVE MODELING.STA-521L-001.",
+    "instructor": "Banks, David",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "36 of 56  responded (64.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "uStWzApFWGSAf4lmydujhg%3d%3d",
+      "data-id3": "Pn4E0Iei229wDEFDYtYGkw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066413"
+  },
+  {
+    "uid": "171571_9973_13645158_27944032",
+    "course_code": "STA-571-01",
+    "title": "ADVANCED MACHINE LEARNING.STA-571-01.",
+    "instructor": "Schmidler, Scott",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "%2f1BoceoLjPYx8wcVab8mPg%3d%3d",
+      "data-id3": "MbLJ32dhwKIUt7Ce2yrp3g%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066479"
+  },
+  {
+    "uid": "171571_9973_13645160_27991333",
+    "course_code": "STA-523L-001",
+    "title": "STATISTICAL PROGRAMMING.STA-523L-001.",
+    "instructor": "Rundel, Colin",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "30 of 40  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "1IvAQMjG8vMkzPuV8PYAYg%3d%3d",
+      "data-id3": "d%2bfgyqB%2bVP985E79CeXRVw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066546"
+  },
+  {
+    "uid": "171571_9973_13645164_27991336",
+    "course_code": "STA-642-01",
+    "title": "TIME SERIES AND DYNAMIC MODELS.STA-642-01.",
+    "instructor": "Xu, Jason",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "10 of 14  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "JlUMzyoA2ssb2nATriNUeA%3d%3d",
+      "data-id3": "2ChOJwOZvuxo1VekFC1m2A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066614"
+  },
+  {
+    "uid": "171571_9973_13645613_27991510",
+    "course_code": "MATH-541-01",
+    "title": "APPLIED STOCHASTIC PROC.MATH-541-01.STA-621-01.",
+    "instructor": "Bezemek, Zachary",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "24 of 50  responded (48.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98862",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "nWCrt8SbRVIgJNnCngN2Ew%3d%3d",
+      "data-id3": "RftNRUayZUdInh7SiYNaRA%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.066680"
+  },
+  {
+    "uid": "171571_9973_13645626_27675583",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WAm6f253zWwloVTrOMJPuw%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.066748"
+  },
+  {
+    "uid": "171571_9973_13645626_27991701",
+    "course_code": "COMPSCI-671D-05D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-05D.ECE-687D-05D.STA-671D-05D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "WAm6f253zWwloVTrOMJPuw%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.805918"
+  },
+  {
+    "uid": "171571_9973_13645636_27991614",
+    "course_code": "ECE-587-01",
+    "title": "INFORMATION THEORY.ECE-587-01.STA-563-01.",
+    "instructor": "Pfister, Henry",
+    "term": "Fall 2024",
+    "area": "ELEC&CMP",
+    "response_rate": "17 of 33  responded (51.52%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98391",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "n3lgz9nlRpIsMlYRULywbA%3d%3d",
+      "data-id3": "OaUzfl%2bmsWFRHPTPfXuOVg%3d%3d"
+    },
+    "department_codes": [
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.806013"
+  },
+  {
+    "uid": "171571_9973_13645643_27675583",
+    "course_code": "COMPSCI-671D-09D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-09D.ECE-687D-09D.STA-671D-09D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "hTVdSXtK9IVBXCzYBmYu2g%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806093"
+  },
+  {
+    "uid": "171571_9973_13645643_27991701",
+    "course_code": "COMPSCI-671D-09D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-09D.ECE-687D-09D.STA-671D-09D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "hTVdSXtK9IVBXCzYBmYu2g%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806165"
+  },
+  {
+    "uid": "171571_9973_13645664_27675583",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ipWFJhR3ID2GNN2jShBdZw%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806236"
+  },
+  {
+    "uid": "171571_9973_13645664_27991701",
+    "course_code": "COMPSCI-671D-02D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-02D.ECE-687D-02D.STA-671D-02D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ipWFJhR3ID2GNN2jShBdZw%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806309"
+  },
+  {
+    "uid": "171571_9973_13645732_27675583",
+    "course_code": "COMPSCI-671D-04D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-04D.ECE-687D-04D.STA-671D-04D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "16 of 26  responded (61.54%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "zpPU7UVF6WonyXXQgdfpDQ%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806380"
+  },
+  {
+    "uid": "171571_9973_13645732_27991701",
+    "course_code": "COMPSCI-671D-04D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-04D.ECE-687D-04D.STA-671D-04D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "16 of 26  responded (61.54%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "zpPU7UVF6WonyXXQgdfpDQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806449"
+  },
+  {
+    "uid": "171571_9973_13645735_27675583",
+    "course_code": "COMPSCI-671D-11D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-11D.ECE-687D-11D.STA-671D-11D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "DBKY8etdthI2EunxX1P7cA%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806517"
+  },
+  {
+    "uid": "171571_9973_13645735_27991701",
+    "course_code": "COMPSCI-671D-11D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-11D.ECE-687D-11D.STA-671D-11D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "DBKY8etdthI2EunxX1P7cA%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806585"
+  },
+  {
+    "uid": "171571_9973_13645736_27675583",
+    "course_code": "COMPSCI-671D-01D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-01D.ECE-687D-01D.STA-671D-01D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 31  responded (38.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ilgZ9kYsbcfV5aB5jYocvQ%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806652"
+  },
+  {
+    "uid": "171571_9973_13645736_27991701",
+    "course_code": "COMPSCI-671D-01D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-01D.ECE-687D-01D.STA-671D-01D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 31  responded (38.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "ilgZ9kYsbcfV5aB5jYocvQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806745"
+  },
+  {
+    "uid": "171571_9973_13645745_30096927",
+    "course_code": "BA-915-01",
+    "title": "STOCHASTIC MODELS.BA-915-01.MATH-742-01.STA-715-01.",
+    "instructor": "Arlotto, Alessandro",
+    "term": "Fall 2024",
+    "area": "FUQUA",
+    "response_rate": "8 of 14  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98844",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "kwNsR6HCUY4AuQXBy5J7hg%3d%3d",
+      "data-id3": "h4oC6Ceoxis7CtbxeLVjJw%3d%3d"
+    },
+    "department_codes": [
+      "BA",
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.806824"
+  },
+  {
+    "uid": "171571_9973_13645749_27675583",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 21  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "qWGC9m9HqvSvVOhf8R0zZQ%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806900"
+  },
+  {
+    "uid": "171571_9973_13645749_27991701",
+    "course_code": "COMPSCI-671D-07D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-07D.ECE-687D-07D.STA-671D-07D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "12 of 21  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "qWGC9m9HqvSvVOhf8R0zZQ%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.806971"
+  },
+  {
+    "uid": "171571_9973_13645784_27675583",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "89 of 160  responded (55.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "p07OXsMQ6En3VwzGpRweBw%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.807041"
+  },
+  {
+    "uid": "171571_9973_13645784_27991701",
+    "course_code": "COMPSCI-671D-001",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-001.ECE-687D-001.STA-671D-001.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "89 of 160  responded (55.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "p07OXsMQ6En3VwzGpRweBw%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.807113"
+  },
+  {
+    "uid": "171571_9973_13645788_27675583",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Chao, Alex",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "JwkTZ5ostU73aaZckZGZjg%3d%3d",
+      "data-id3": "PAVg4BwHhjtVd5tzPXsybg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.807185"
+  },
+  {
+    "uid": "171571_9973_13645788_27991701",
+    "course_code": "COMPSCI-671D-06D",
+    "title": "THEORY & ALG MACHINE LEARNING.COMPSCI-671D-06D.ECE-687D-06D.STA-671D-06D.",
+    "instructor": "Rudin, Cynthia",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "6 of 7  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "JwkTZ5ostU73aaZckZGZjg%3d%3d",
+      "data-id3": "nKi5fZBS0C49sFHkermiIg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:56.807256"
+  },
+  {
+    "uid": "171550_9973_13685522_28111708",
+    "course_code": "STA-221L-001",
+    "title": "REGRESSION THEORY APPLICATIONS.STA-221L-001.",
+    "instructor": "Tackett, Maria",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "38 of 43  responded (88.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ZBq6C%2ftYhqZGxIjLiRVmTA%3d%3d",
+      "data-id3": "1X7wI0OKpfb8JM2W4L9bFg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:56.807326"
+  },
+  {
+    "uid": "171550_9973_13685532_30187715",
+    "course_code": "STA-211-01",
+    "title": "MATH OF REGRESSION.STA-211-01.",
+    "instructor": "Anceschi, Niccolo",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "16 of 48  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "FxY9kj6jAURsFa8bH9Igmg%3d%3d",
+      "data-id3": "geEhjgWF9e1U46Q34hB0dA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.534577"
+  },
+  {
+    "uid": "171550_9973_13685533_30187714",
+    "course_code": "STA-101L-001",
+    "title": "DATA ANALY/STAT INFER.STA-101L-001.",
+    "instructor": "Zito, John",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "50 of 117  responded (42.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "LFfO9Kq0OlWaQuuG51yCYw%3d%3d",
+      "data-id3": "D1UM1CAH7hOLzAXzcjG8JQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.534667"
+  },
+  {
+    "uid": "171550_9973_13685569_28111706",
+    "course_code": "STA-440L-001",
+    "title": "CASE STUDIES.STA-440L-001.",
+    "instructor": "Jiang, Yue",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "11 of 19  responded (57.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "zI76PabdXsdlaAfmu%2flTMg%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.534762"
+  },
+  {
+    "uid": "171550_9973_13685571_28111706",
+    "course_code": "STA-490-01",
+    "title": "SPECIAL TOPICS IN STATISTICS.STA-490-01.",
+    "instructor": "Jiang, Yue",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "D6k5EYdvzUEvzmI%2bOFN40g%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.534845"
+  },
+  {
+    "uid": "171550_9973_13685574_27991334",
+    "course_code": "STA-110FS-01",
+    "title": "FOCUS PROGRAM - SPECIAL TOPICS.STA-110FS-01.",
+    "instructor": "Banks, David",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "15 of 18  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "plWT6iVfD2nxQ6tAaU0j2Q%3d%3d",
+      "data-id3": "Pn4E0Iei229wDEFDYtYGkw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:57.534917"
+  },
+  {
+    "uid": "171550_9973_13685575_28111709",
+    "course_code": "STA-470S-01",
+    "title": "INTRO STATISTICAL CONSULTING.STA-470S-01.",
+    "instructor": "Iversen, Edwin",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "RSKUArpivjb7ozO%2beEINuQ%3d%3d",
+      "data-id3": "CPqSxHzT7EA6gB3Rs%2bKguA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.534988"
+  },
+  {
+    "uid": "171550_9973_13685576_28111707",
+    "course_code": "STA-360L-001",
+    "title": "BAYESIAN AND MODERN STATISTICS.STA-360L-001.",
+    "instructor": "Fisher, Alexander",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "38 of 47  responded (80.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "o3tUX%2fiHnmVczHo6vHHRiA%3d%3d",
+      "data-id3": "PoCkPJtXOrJjeAErF5816Q%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535059"
+  },
+  {
+    "uid": "171550_9973_13686525_30096892",
+    "course_code": "MATH-230-03",
+    "title": "PROBABILITY.MATH-230-03.STA-230-03.",
+    "instructor": "Brailovskaya, Tatiana",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "19 of 38  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "7EuBIxLJ8L3OcigRTB2iyQ%3d%3d",
+      "data-id3": "Yrrvy5OhtWkO0GItkqZyEA%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535128"
+  },
+  {
+    "uid": "171550_9973_13686573_27991514",
+    "course_code": "MATH-230-02",
+    "title": "PROBABILITY.MATH-230-02.STA-230-02.",
+    "instructor": "Lang, Quanjun",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "19 of 40  responded (47.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "z%2bSvSnG40b4IlxoZpekkEg%3d%3d",
+      "data-id3": "CNdOrD6GP0LW%2fgKckW5VLw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535198"
+  },
+  {
+    "uid": "171550_9973_13686628_27991332",
+    "course_code": "STA-240L-001",
+    "title": "PROBABILITY FOR STATISTICS.STA-240L-001.MATH-228L-001.",
+    "instructor": "Mak, Simon tsz fung",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "24 of 39  responded (61.54%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ctvKGm3tt4KHnjgAZA9yVg%3d%3d",
+      "data-id3": "QxSRJUViI971kUAwTKBd2g%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535267"
+  },
+  {
+    "uid": "171550_9973_13686636_27991514",
+    "course_code": "MATH-230-01",
+    "title": "PROBABILITY.MATH-230-01.STA-230-01.",
+    "instructor": "Lang, Quanjun",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "12 of 38  responded (31.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "8Pvf3m0vLZwBYZSG1gBtLA%3d%3d",
+      "data-id3": "CNdOrD6GP0LW%2fgKckW5VLw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535337"
+  },
+  {
+    "uid": "171550_9973_13686685_30187765",
+    "course_code": "STA-432-01",
+    "title": "STAT. LEARNING AND INFERENCE.STA-432-01.MATH-343-01.",
+    "instructor": "Ascolani, Filippo",
+    "term": "Fall 2024",
+    "area": "STATSCI",
+    "response_rate": "20 of 59  responded (33.90%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "Hx3qH1Mlwws8CMJZrW41Yw%3d%3d",
+      "data-id3": "GQmuOCnqNpmhZ0ITmOEauQ%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535406"
+  },
+  {
+    "uid": "171550_9973_13686695_27991523",
+    "course_code": "MATH-465-01",
+    "title": "INTRO HIGH DIM DATA ANALYSIS.MATH-465-01.COMPSCI-445-01.STA-465-01.",
+    "instructor": "Yu, Jiajia",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ZnekX56R%2fjoW8iGVF3V9fQ%3d%3d",
+      "data-id3": "sQXaFWFuUy7RnpubtA2JPQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "COMPSCI",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535481"
+  },
+  {
+    "uid": "171550_9973_13686799_28807846",
+    "course_code": "MATH-340-01",
+    "title": "ADVANCED INTRO PROBABILITY.MATH-340-01.STA-231-01.",
+    "instructor": "Nolen, James",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "25 of 35  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "B7l6ExPUUBXgoVgHWSKk0w%3d%3d",
+      "data-id3": "2CWgmrWQTVu7cKdwlIpPlg%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535550"
+  },
+  {
+    "uid": "171550_9973_13686839_29084441",
+    "course_code": "MATH-230-05",
+    "title": "PROBABILITY.MATH-230-05.STA-230-05.",
+    "instructor": "Zhou, Ling",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "27 of 34  responded (79.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "JmV9Dy0nwGbvEktmKDfoiA%3d%3d",
+      "data-id3": "xT7O3eWdA5ZheLHF0QmJHQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535617"
+  },
+  {
+    "uid": "171550_9973_13686911_29084441",
+    "course_code": "MATH-230-04",
+    "title": "PROBABILITY.MATH-230-04.STA-230-04.",
+    "instructor": "Zhou, Ling",
+    "term": "Fall 2024",
+    "area": "MATH",
+    "response_rate": "32 of 37  responded (86.49%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "sUcqZMqUUIBPgiHu9ZsAag%3d%3d",
+      "data-id3": "xT7O3eWdA5ZheLHF0QmJHQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535684"
+  },
+  {
+    "uid": "179255_10319_14075937_29395222",
+    "course_code": "STA-790-1-01",
+    "title": "SPECIAL TOPICS.STA-790-1-01.",
+    "instructor": "Dunson, David",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "7 of 11  responded (63.64%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "tB%2bTIGNMvvGI8U5%2bC7EOFw%3d%3d",
+      "data-id3": "KL6ToL41pWdVqDiiDfeC5g%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535764"
+  },
+  {
+    "uid": "179255_10319_14104487_27944032",
+    "course_code": "STA-790-1-02",
+    "title": "SPECIAL TOPICS.STA-790-1-02.",
+    "instructor": "Schmidler, Scott",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "kYc0Kz9XNMtjl7wJjI%2bLIQ%3d%3d",
+      "data-id3": "MbLJ32dhwKIUt7Ce2yrp3g%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535832"
+  },
+  {
+    "uid": "179255_10319_14224651_27991333",
+    "course_code": "STA-663L-001",
+    "title": "STATISTICAL COMPUTATION.STA-663L-001.",
+    "instructor": "Rundel, Colin",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "23 of 36  responded (63.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "HleMEadiL7kt%2fBiniYpWXQ%3d%3d",
+      "data-id3": "d%2bfgyqB%2bVP985E79CeXRVw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535900"
+  },
+  {
+    "uid": "179255_10319_14224652_29395222",
+    "course_code": "STA-602L-002",
+    "title": "BAYESIAN STATISTICAL MODELING.STA-602L-002.",
+    "instructor": "Dunson, David",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "7 of 12  responded (58.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "ASbkOPonBW%2bSYlGEcTtdig%3d%3d",
+      "data-id3": "KL6ToL41pWdVqDiiDfeC5g%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:57.535968"
+  },
+  {
+    "uid": "179255_10319_14224658_27991334",
+    "course_code": "STA-611-01",
+    "title": "INTRO TO MATHEMATICAL STAT.STA-611-01.",
+    "instructor": "Banks, David",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "9 of 17  responded (52.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "vrpEnj07dPf%2fstNeJbeSJw%3d%3d",
+      "data-id3": "Pn4E0Iei229wDEFDYtYGkw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.269539"
+  },
+  {
+    "uid": "179255_10319_14224663_27930957",
+    "course_code": "STA-841-01",
+    "title": "CATEGORICAL DATA.STA-841-01.",
+    "instructor": "Ma, Li",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "7Mt3ujfMGr%2fNy2G5GrLqYg%3d%3d",
+      "data-id3": "Zr8z5fduHRuCsRHbP5CXkA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.269657"
+  },
+  {
+    "uid": "179255_10319_14224665_27991337",
+    "course_code": "STA-732-01",
+    "title": "STATISTICAL INFERENCE.STA-732-01.",
+    "instructor": "Hoff, Peter",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "9 of 18  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "Al3Ex%2bcGPmYiXgr8wx9RCg%3d%3d",
+      "data-id3": "TWUf5w2JbbDKl8GZyymU%2bg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.269733"
+  },
+  {
+    "uid": "179255_10319_14224666_28111706",
+    "course_code": "STA-583-01",
+    "title": "COMMUNICATING STATISTICS.STA-583-01.",
+    "instructor": "Jiang, Yue",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "gRt03mVDpT0vUQ%2f10RXf5A%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.269803"
+  },
+  {
+    "uid": "179255_10319_14224667_28111709",
+    "course_code": "STA-723-01D",
+    "title": "STATISTICS CASE STUDIES.STA-723-01D.",
+    "instructor": "Iversen, Edwin",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "8 of 15  responded (53.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "bWKvN8CHnjTxi%2boWoF%2bw7g%3d%3d",
+      "data-id3": "CPqSxHzT7EA6gB3Rs%2bKguA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:58.269873"
+  },
+  {
+    "uid": "179255_10319_14224669_30096925",
+    "course_code": "STA-725-01",
+    "title": "BAYESIAN HEALTH DATA SCIENCE.STA-725-01.",
+    "instructor": "Berchuck, Samuel",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "lrEiRLzltBoP8PL4Dl9m4Q%3d%3d",
+      "data-id3": "5%2bSCDQLHdmu8u1ITIAcl6w%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.269942"
+  },
+  {
+    "uid": "179255_10319_14224694_30187765",
+    "course_code": "STA-831-01",
+    "title": "PROBABILITY/STAT MODELS.STA-831-01.",
+    "instructor": "Ascolani, Filippo",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "8 of 15  responded (53.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "y2ZBQaft%2fZnXjxx%2by6OGyQ%3d%3d",
+      "data-id3": "GQmuOCnqNpmhZ0ITmOEauQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270010"
+  },
+  {
+    "uid": "179255_10319_14224696_28111707",
+    "course_code": "STA-602L-001",
+    "title": "BAYESIAN STATISTICAL MODELING.STA-602L-001.",
+    "instructor": "Fisher, Alexander",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "39 of 52  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "pdBhLyvWwrqRywRbYsIbrg%3d%3d",
+      "data-id3": "PoCkPJtXOrJjeAErF5816Q%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270077"
+  },
+  {
+    "uid": "179255_10319_14224698_27991337",
+    "course_code": "STA-790-1-03",
+    "title": "SPECIAL TOPICS.STA-790-1-03.",
+    "instructor": "Hoff, Peter",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "12 of 20  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "C0QbDfsua6Kfy%2byVHkvNmg%3d%3d",
+      "data-id3": "TWUf5w2JbbDKl8GZyymU%2bg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270143"
+  },
+  {
+    "uid": "179255_10319_14225063_28807876",
+    "course_code": "STA-561D-001",
+    "title": "PROBABILISTIC MACHINE LEARNING.STA-561D-001.COMPSCI-571D-001.ECE-682D-001.",
+    "instructor": "Laber, Eric",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "47 of 106  responded (44.34%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98889",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "VN3KKWVm%2fniFZ5rPeXpTIQ%3d%3d",
+      "data-id3": "0Q5jgiW%2byonRs5FFpwyf8w%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "COMPSCI",
+      "ECE"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270212"
+  },
+  {
+    "uid": "179255_10319_14225132_27991768",
+    "course_code": "COMPSCI-520D-01D",
+    "title": "NUMERICAL ANALYSIS.COMPSCI-520D-01D.MATH-565D-01D.STA-612D-01D.",
+    "instructor": "Sun, Xiaobai",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "12 of 23  responded (52.17%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "EHgh3nxZtm6%2bmlU5ZFWI2A%3d%3d",
+      "data-id3": "vYMqPh%2fGI%2fLCr7VXSw8JFg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:47:58.270281"
+  },
+  {
+    "uid": "179255_10319_14225197_27991768",
+    "course_code": "COMPSCI-520D-001",
+    "title": "NUMERICAL ANALYSIS.COMPSCI-520D-001.MATH-565D-001.STA-612D-001.",
+    "instructor": "Sun, Xiaobai",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "16 of 23  responded (69.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "Z4VGWOBybs1aLgvl2gOwZg%3d%3d",
+      "data-id3": "vYMqPh%2fGI%2fLCr7VXSw8JFg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270350"
+  },
+  {
+    "uid": "179281_10319_14260895_28111709",
+    "course_code": "STA-470S-01",
+    "title": "INTRO STATISTICAL CONSULTING.STA-470S-01.",
+    "instructor": "Iversen, Edwin",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "14 of 18  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "GbtgVHoHnML6I1fzkmUX6w%3d%3d",
+      "data-id3": "CPqSxHzT7EA6gB3Rs%2bKguA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270422"
+  },
+  {
+    "uid": "179281_10319_14260906_28111708",
+    "course_code": "STA-210L-001",
+    "title": "REGRESSION ANALYSIS.STA-210L-001.",
+    "instructor": "Tackett, Maria",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "25 of 32  responded (78.13%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "8JurmIMfk2fonHOIc5i9GA%3d%3d",
+      "data-id3": "1X7wI0OKpfb8JM2W4L9bFg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270516"
+  },
+  {
+    "uid": "179281_10319_14260907_28807697",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Knox, Mary",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "97 of 333  responded (29.13%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "L3tJH30L%2fjG8yy7Q%2bHl%2bXQ%3d%3d",
+      "data-id3": "qfwE7Cs3T4PHTg06S28SJQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270593"
+  },
+  {
+    "uid": "179281_10319_14260907_30187714",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Zito, John",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "97 of 333  responded (29.13%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "L3tJH30L%2fjG8yy7Q%2bHl%2bXQ%3d%3d",
+      "data-id3": "D1UM1CAH7hOLzAXzcjG8JQ%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270662"
+  },
+  {
+    "uid": "179281_10319_14260916_28111706",
+    "course_code": "STA-440L-001",
+    "title": "CASE STUDIES.STA-440L-001.",
+    "instructor": "Jiang, Yue",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "9 of 47  responded (19.15%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "C2%2fxAq1i9T7kwim0ML%2fEOg%3d%3d",
+      "data-id3": "w8yNKiCB9AgGhoQNUD%2bA3A%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270731"
+  },
+  {
+    "uid": "179281_10319_14260922_28111708",
+    "course_code": "STA-221L-001",
+    "title": "REGRESSION THEORY APPLICATIONS.STA-221L-001.",
+    "instructor": "Tackett, Maria",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "54 of 68  responded (79.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Mphm0dAinL2OkRsHpzQ51A%3d%3d",
+      "data-id3": "1X7wI0OKpfb8JM2W4L9bFg%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270800"
+  },
+  {
+    "uid": "179281_10319_14260926_28111707",
+    "course_code": "STA-360L-001",
+    "title": "BAYESIAN AND MODERN STATISTICS.STA-360L-001.",
+    "instructor": "Fisher, Alexander",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "48 of 60  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Xx%2bxtbGuB1h2Ck%2fbeNoehg%3d%3d",
+      "data-id3": "PoCkPJtXOrJjeAErF5816Q%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270869"
+  },
+  {
+    "uid": "179281_10319_14260931_27991329",
+    "course_code": "STA-101L-001",
+    "title": "DATA ANALY/STAT INFER.STA-101L-001.",
+    "instructor": "Lane, Andrea",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "32 of 79  responded (40.51%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "mj49rOp669yw15kJ2x3ipQ%3d%3d",
+      "data-id3": "nhIORVcqadNrHukxmXP0xA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.270935"
+  },
+  {
+    "uid": "179281_10319_14260933_27991333",
+    "course_code": "STA-323D-001",
+    "title": "STATISTICAL COMPUTING.STA-323D-001.",
+    "instructor": "Rundel, Colin",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "20 of 52  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "lcfMl%2bhGQ37lC3U69nw5BQ%3d%3d",
+      "data-id3": "d%2bfgyqB%2bVP985E79CeXRVw%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.976686"
+  },
+  {
+    "uid": "179281_10319_14261855_27446077",
+    "course_code": "MATH-230S-01",
+    "title": "PROBABILITY IBL.MATH-230S-01.STA-230S-01.",
+    "instructor": "Akin, Victoria",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "7 of 18  responded (38.89%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "oFEXLdT82UmwsK7y1OdvnQ%3d%3d",
+      "data-id3": "%2b1o4pDVP5DnzYsWSaICnRQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.976778"
+  },
+  {
+    "uid": "179281_10319_14261876_27991338",
+    "course_code": "STA-432-01",
+    "title": "STAT. LEARNING AND INFERENCE.STA-432-01.MATH-343-01.",
+    "instructor": "Reeves, Galen",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "29 of 75  responded (38.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "QTjVZVZgMxPdsCLkYEhYxg%3d%3d",
+      "data-id3": "o5O2r5josIeUvZOsn%2f%2fEYA%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.976853"
+  },
+  {
+    "uid": "179281_10319_14261911_30096892",
+    "course_code": "MATH-230-05",
+    "title": "PROBABILITY.MATH-230-05.STA-230-05.",
+    "instructor": "Brailovskaya, Tatiana",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "5 of 21  responded (23.81%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "cFwCjSILRBEnfgC5LVE7Bg%3d%3d",
+      "data-id3": "Yrrvy5OhtWkO0GItkqZyEA%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.976924"
+  },
+  {
+    "uid": "179281_10319_14261951_30096894",
+    "course_code": "MATH-230-04",
+    "title": "PROBABILITY.MATH-230-04.STA-230-04.",
+    "instructor": "Guelen, Aziz Burak",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "7 of 35  responded (20.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "8fErjoR%2bs1uXGqQUJsfz9g%3d%3d",
+      "data-id3": "YStVAjeciGLoMUUzcRZXaw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.976995"
+  },
+  {
+    "uid": "179281_10319_14262077_29084441",
+    "course_code": "MATH-230-03",
+    "title": "PROBABILITY.MATH-230-03.STA-230-03.",
+    "instructor": "Zhou, Ling",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "25 of 40  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "boFHydsdtbrPrgJHnZUCLQ%3d%3d",
+      "data-id3": "xT7O3eWdA5ZheLHF0QmJHQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.977064"
+  },
+  {
+    "uid": "179281_10319_14262110_28807737",
+    "course_code": "MATH-230-02",
+    "title": "PROBABILITY.MATH-230-02.STA-230-02.",
+    "instructor": "Herschlag, Gregory",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "20 of 38  responded (52.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "n8XyQt%2bdub6jLheTyLdmQA%3d%3d",
+      "data-id3": "0Dl4AWv9%2b3zQr%2fWDRaIEfQ%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.977133"
+  },
+  {
+    "uid": "179281_10319_14262115_27991510",
+    "course_code": "MATH-340-01",
+    "title": "ADVANCED INTRO PROBABILITY.MATH-340-01.STA-231-01.",
+    "instructor": "Bezemek, Zachary",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "14 of 25  responded (56.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "xZ1%2bPvCJSs9uz9RNoMcDTg%3d%3d",
+      "data-id3": "RftNRUayZUdInh7SiYNaRA%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.977202"
+  },
+  {
+    "uid": "179281_10319_14262131_30926236",
+    "course_code": "MATH-230-01",
+    "title": "PROBABILITY.MATH-230-01.STA-230-01.",
+    "instructor": "Khan, Ilyas",
+    "term": "Spring 2025",
+    "area": "MATH",
+    "response_rate": "12 of 30  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99010",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "%2fTAtoSfN4Cj1NbwqvNeUrA%3d%3d",
+      "data-id3": "KHJ%2fJWfV%2bz8TbDNrKqzNSw%3d%3d"
+    },
+    "department_codes": [
+      "MATH",
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.977270"
+  },
+  {
+    "uid": "179281_10319_14262323_30187714",
+    "course_code": "STA-240L-001",
+    "title": "PROBABILITY FOR STATISTICS.STA-240L-001.MATH-228L-001.",
+    "instructor": "Zito, John",
+    "term": "Spring 2025",
+    "area": "STATSCI",
+    "response_rate": "16 of 44  responded (36.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Q%2b4iNXFzNu5M34hl8FwebA%3d%3d",
+      "data-id3": "D1UM1CAH7hOLzAXzcjG8JQ%3d%3d"
+    },
+    "department_codes": [
+      "STA",
+      "MATH"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.977341"
+  },
+  {
+    "uid": "187125_10662_14677132_28597627",
+    "course_code": "STA-199L-001",
+    "title": "INTRO TO DATA SCIENCE.STA-199L-001.",
+    "instructor": "Neubrander, Marie",
+    "term": "Summer I 2025",
+    "area": "STATSCI",
+    "response_rate": "14 of 17  responded (82.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99034",
+      "data-id1": "jEWplQlB%2bshe3uI7LSNBtw%3d%3d",
+      "data-id2": "O4dEuQtsD9jnNTp5g%2b9nKw%3d%3d",
+      "data-id3": "FxI5x%2bLgBFxt7Gs%2bzKgkBA%3d%3d"
+    },
+    "department_codes": [
+      "STA"
+    ],
+    "scraped_at": "2025-11-24T16:47:58.977589"
+  }
+]

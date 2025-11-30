@@ -1,0 +1,674 @@
+[
+  {
+    "uid": "153858_9169_12282388_28111924",
+    "course_code": "HLTHPOL-395T-03",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-395T-03.",
+    "instructor": "Goodwin, Rory",
+    "term": "Fall 2023",
+    "area": "MARGOLIS",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "X8i0j3uqcbjHxRIiXgLKjQ%3d%3d",
+      "data-id3": "jxV%2fdY%2b9Jlo%2b8%2bCMmetalQ%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.015877"
+  },
+  {
+    "uid": "153858_9169_12282438_27991539",
+    "course_code": "HLTHPOL-395T-02",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-395T-02.",
+    "instructor": "Hogan, Wesley",
+    "term": "Fall 2023",
+    "area": "MARGOLIS",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "wvJXv4r6srUJm520efcXrQ%3d%3d",
+      "data-id3": "bqVyaGI0V2MBuPv81W7zQw%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.015963"
+  },
+  {
+    "uid": "153858_9169_12282860_27445912",
+    "course_code": "I&E-263S-01",
+    "title": "PROBLEM SOLVING GLOBAL HEALTH.I&E-263S-01.GLHLTH-273S-01.HLTHPOL-263S-01.",
+    "instructor": "Clements, Dennis",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "9 of 17  responded (52.94%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "UYwjREBJ6YqZ1J%2f0LSbGVA%3d%3d",
+      "data-id3": "c%2fVTHk3hu%2bvzpum2kmKL7A%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "GLHLTH",
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016038"
+  },
+  {
+    "uid": "153858_9169_12282886_28112098",
+    "course_code": "SPANISH-306-1-01",
+    "title": "HEALTH, CULTURE: SERVICE-LRNG.SPANISH-306-1-01.GLHLTH-326-1-01.HLTHPOL-306-1-01.LSGS-306-1-01.",
+    "instructor": "Clifford, Joan",
+    "term": "Fall 2023",
+    "area": "ROMANCE",
+    "response_rate": "11 of 15  responded (73.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "3kep3WwYwlJuVjAcgQu0Zw%3d%3d",
+      "data-id3": "T5zLY9ibvs18PtMooYjhzg%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016113"
+  },
+  {
+    "uid": "153858_9169_12282905_27445858",
+    "course_code": "PUBPOL-165-01",
+    "title": "INTRO TO US HEALTH CARE SYSTM.PUBPOL-165-01.HLTHPOL-165-01.SCISOC-165-01.",
+    "instructor": "Boucher, Nathan",
+    "term": "Fall 2023",
+    "area": "PPS",
+    "response_rate": "19 of 53  responded (35.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "MI6Tw8K5Qb8NlnCX90uNFw%3d%3d",
+      "data-id3": "PjURNxNB99DE2uExMkRjXA%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HLTHPOL",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016184"
+  },
+  {
+    "uid": "153858_9169_12282944_28112101",
+    "course_code": "SPANISH-306-01",
+    "title": "HEALTH, CULTURE, LATINO COMMUN.SPANISH-306-01.CULANTH-306-01.GLHLTH-326-01.HLTHPOL-306-01.LSGS-306-01.",
+    "instructor": "Solorzano, Rosa",
+    "term": "Fall 2023",
+    "area": "ROMANCE",
+    "response_rate": "14 of 14  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "6S2k3FMWKrWP3n97k9K0WQ%3d%3d",
+      "data-id3": "jogqrIMvt6DYzGlXds7KEw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016254"
+  },
+  {
+    "uid": "153858_9169_12283073_27445818",
+    "course_code": "CULANTH-424-1-01",
+    "title": "MEDICAL ANTHROPOLOGY.CULANTH-424-1-01.GLHLTH-321-1-01.HLTHPOL-424-1-01.ICS-424-1-01.",
+    "instructor": "Solomon, Harris",
+    "term": "Fall 2023",
+    "area": "CULANTHRO",
+    "response_rate": "14 of 16  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "MpE3zSNsx9%2fdB6v2Nm85%2bQ%3d%3d",
+      "data-id3": "gM0NDTcfUjhfMlHm1i9r6w%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016375"
+  },
+  {
+    "uid": "153858_9169_12283122_27991609",
+    "course_code": "ECON-462-01",
+    "title": "BEHAVIORAL ECONOMICS.ECON-462-01.HLTHPOL-462-01.PSY-463-01.",
+    "instructor": "Sadowski, Philipp",
+    "term": "Fall 2023",
+    "area": "ECONOMICS",
+    "response_rate": "5 of 16  responded (31.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98985",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "fa%2byYc8HLrrtZ0uacxVZZQ%3d%3d",
+      "data-id3": "wLypxSwuQCDRhrQUZEZv1g%3d%3d"
+    },
+    "department_codes": [
+      "ECON",
+      "HLTHPOL",
+      "PSY"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016453"
+  },
+  {
+    "uid": "161337_9470_12750501_28111924",
+    "course_code": "HLTHPOL-396T-03",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-396T-03.",
+    "instructor": "Goodwin, Rory",
+    "term": "Spring 2024",
+    "area": "MARGOLIS",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "oIp%2fxRYdxnp7eKxxB1scSQ%3d%3d",
+      "data-id3": "jxV%2fdY%2b9Jlo%2b8%2bCMmetalQ%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016526"
+  },
+  {
+    "uid": "161337_9470_12750546_27991539",
+    "course_code": "HLTHPOL-396T-02",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-396T-02.",
+    "instructor": "Hogan, Wesley",
+    "term": "Spring 2024",
+    "area": "MARGOLIS",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "kECHAHFr7T8uR%2bl2Rm31vw%3d%3d",
+      "data-id3": "bqVyaGI0V2MBuPv81W7zQw%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016600"
+  },
+  {
+    "uid": "161337_9470_12750818_28807772",
+    "course_code": "PUBPOL-165-01",
+    "title": "INTRO TO US HEALTH CARE SYSTM.PUBPOL-165-01.HLTHPOL-165-01.SCISOC-165-01.",
+    "instructor": "Ubel, Peter",
+    "term": "Spring 2024",
+    "area": "PPS",
+    "response_rate": "12 of 24  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "nM%2b3lzwSPceGWU1V8WbNfg%3d%3d",
+      "data-id3": "VfovkFCXgE3wHMtO8APZ2w%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HLTHPOL",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016672"
+  },
+  {
+    "uid": "161337_9470_12750973_28807850",
+    "course_code": "GLHLTH-306-01",
+    "title": "GLOBAL HEALTH POLICY.GLHLTH-306-01.HLTHPOL-304-01.PUBPOL-324-01.",
+    "instructor": "Mao, Wenhui",
+    "term": "Spring 2024",
+    "area": "GLHLTH",
+    "response_rate": "17 of 22  responded (77.27%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98995",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "0g1wOXXNv1LPZRlS8LrIhA%3d%3d",
+      "data-id3": "sAi8WayM9T%2b3OFO6WlZ8Jw%3d%3d"
+    },
+    "department_codes": [
+      "GLHLTH",
+      "HLTHPOL",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016745"
+  },
+  {
+    "uid": "161337_9470_12750973_28807851",
+    "course_code": "GLHLTH-306-01",
+    "title": "GLOBAL HEALTH POLICY.GLHLTH-306-01.HLTHPOL-304-01.PUBPOL-324-01.",
+    "instructor": "Quick, Jonathan",
+    "term": "Spring 2024",
+    "area": "GLHLTH",
+    "response_rate": "17 of 22  responded (77.27%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98995",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "0g1wOXXNv1LPZRlS8LrIhA%3d%3d",
+      "data-id3": "uy8zsYGa96pjlrr2%2brJ3wA%3d%3d"
+    },
+    "department_codes": [
+      "GLHLTH",
+      "HLTHPOL",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016816"
+  },
+  {
+    "uid": "161337_9470_12751053_28112101",
+    "course_code": "SPANISH-306-01",
+    "title": "HEALTH, CULTURE, LATINO COMMUN.SPANISH-306-01.CULANTH-306-01.GLHLTH-326-01.HLTHPOL-306-01.LSGS-306-01.",
+    "instructor": "Solorzano, Rosa",
+    "term": "Spring 2024",
+    "area": "ROMANCE",
+    "response_rate": "11 of 15  responded (73.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "IMEheHMrKO4yIT7GZfWUfw%3d%3d",
+      "data-id3": "jogqrIMvt6DYzGlXds7KEw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016888"
+  },
+  {
+    "uid": "161337_9470_12751080_28807820",
+    "course_code": "CULANTH-341-01",
+    "title": "LIFE AND DEATH.CULANTH-341-01.GLHLTH-353-01.HLTHPOL-341-01.ICS-353-01.SOCIOL-351-01.",
+    "instructor": "Allison, Anne",
+    "term": "Spring 2024",
+    "area": "CULANTHRO",
+    "response_rate": "19 of 27  responded (70.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "aCswkavw5ztuKqzDtJdLDQ%3d%3d",
+      "data-id3": "GeQi5T138aIhAF9zwsQwsA%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "ICS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.016967"
+  },
+  {
+    "uid": "161337_9470_12751102_28112098",
+    "course_code": "SPANISH-306-1-01",
+    "title": "HEALTH, CULTURE: SERVICE-LRNG.SPANISH-306-1-01.GLHLTH-326-1-01.HLTHPOL-306-1-01.LSGS-306-1-01.",
+    "instructor": "Clifford, Joan",
+    "term": "Spring 2024",
+    "area": "ROMANCE",
+    "response_rate": "12 of 15  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "cDXWZLxS04YFMFAGYT8Wdg%3d%3d",
+      "data-id3": "T5zLY9ibvs18PtMooYjhzg%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.017043"
+  },
+  {
+    "uid": "161325_9470_12752132_28807969",
+    "course_code": "BME-500-1-01",
+    "title": "REIMBURSEMENT MED PROD.BME-500-1-01.HLTHPOL-540-01.",
+    "instructor": "Silcox, Christina",
+    "term": "Spring 2024",
+    "area": "BIOMEDICAL",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98893",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "gQGqcKOUsz8FH1D%2bU7a1Ow%3d%3d",
+      "data-id3": "8lNo6OnRjyKZ%2bfsDF0pN2A%3d%3d"
+    },
+    "department_codes": [
+      "BME",
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.017115"
+  },
+  {
+    "uid": "171550_9973_13686069_28111924",
+    "course_code": "HLTHPOL-395T-10",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-395T-10.",
+    "instructor": "Goodwin, Rory",
+    "term": "Fall 2024",
+    "area": "MARGOLIS",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "Iim%2bfLUjn4wLK04oLlrXQQ%3d%3d",
+      "data-id3": "jxV%2fdY%2b9Jlo%2b8%2bCMmetalQ%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.017202"
+  },
+  {
+    "uid": "171550_9973_13686116_27991539",
+    "course_code": "HLTHPOL-395T-09",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-395T-09.",
+    "instructor": "Hogan, Wesley",
+    "term": "Fall 2024",
+    "area": "MARGOLIS",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "jwxYamyMNJyrZLUV7lh0jA%3d%3d",
+      "data-id3": "bqVyaGI0V2MBuPv81W7zQw%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.017291"
+  },
+  {
+    "uid": "171550_9973_13686512_27991609",
+    "course_code": "ECON-462-01",
+    "title": "BEHAVIORAL ECONOMICS.ECON-462-01.HLTHPOL-462-01.PSY-463-01.",
+    "instructor": "Sadowski, Philipp",
+    "term": "Fall 2024",
+    "area": "ECONOMICS",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98985",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "VhKD5UXVVCGzWBTdWO7VAw%3d%3d",
+      "data-id3": "wLypxSwuQCDRhrQUZEZv1g%3d%3d"
+    },
+    "department_codes": [
+      "ECON",
+      "HLTHPOL",
+      "PSY"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.017364"
+  },
+  {
+    "uid": "171550_9973_13686532_27466684",
+    "course_code": "SPANISH-306-1-01",
+    "title": "HEALTH, CULTURE: SERVICE-LRNG.SPANISH-306-1-01.GLHLTH-326-1-01.HLTHPOL-306-1-01.LSGS-306-1-01.",
+    "instructor": "Fernandez, Bethzaida",
+    "term": "Fall 2024",
+    "area": "ROMANCE",
+    "response_rate": "15 of 15  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "NpIvNRJyaNv1rP9grRQqyA%3d%3d",
+      "data-id3": "uQC%2bF4lsYkSRmTi1L2E%2fUw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.784824"
+  },
+  {
+    "uid": "171550_9973_13686580_28112101",
+    "course_code": "SPANISH-306-01",
+    "title": "HEALTH, CULTURE, LATINO COMMUN.SPANISH-306-01.CULANTH-306-01.GLHLTH-326-01.HLTHPOL-306-01.LSGS-306-01.",
+    "instructor": "Solorzano, Rosa",
+    "term": "Fall 2024",
+    "area": "ROMANCE",
+    "response_rate": "15 of 15  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "kp38ci78RXBJunvDENtLyg%3d%3d",
+      "data-id3": "jogqrIMvt6DYzGlXds7KEw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.784951"
+  },
+  {
+    "uid": "171550_9973_13686858_27445858",
+    "course_code": "PUBPOL-165-01",
+    "title": "INTRO TO US HEALTH CARE SYSTM.PUBPOL-165-01.HLTHPOL-165-01.SCISOC-165-01.",
+    "instructor": "Boucher, Nathan",
+    "term": "Fall 2024",
+    "area": "PPS",
+    "response_rate": "20 of 47  responded (42.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "9vKFgv6RcDIYq9KSFi2eng%3d%3d",
+      "data-id3": "PjURNxNB99DE2uExMkRjXA%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HLTHPOL",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785040"
+  },
+  {
+    "uid": "179255_10319_14225047_28807969",
+    "course_code": "BME-500-1-01",
+    "title": "REIMBURSEMENT MED PROD.BME-500-1-01.HLTHPOL-540-01.",
+    "instructor": "Silcox, Christina",
+    "term": "Spring 2025",
+    "area": "BIOMEDICAL",
+    "response_rate": "8 of 20  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98893",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "dljun4tkodmcmosm%2bi005A%3d%3d",
+      "data-id3": "8lNo6OnRjyKZ%2bfsDF0pN2A%3d%3d"
+    },
+    "department_codes": [
+      "BME",
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785117"
+  },
+  {
+    "uid": "179281_10319_14261492_27991539",
+    "course_code": "HLTHPOL-396T-09",
+    "title": "BASS CONNECTION HEALTH POLICY.HLTHPOL-396T-09.",
+    "instructor": "Hogan, Wesley",
+    "term": "Spring 2025",
+    "area": "MARGOLIS",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99009",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "pJOIow1Nj8uxp%2b5CSv9DGQ%3d%3d",
+      "data-id3": "bqVyaGI0V2MBuPv81W7zQw%3d%3d"
+    },
+    "department_codes": [
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785198"
+  },
+  {
+    "uid": "179281_10319_14261894_27466684",
+    "course_code": "SPANISH-306-1-01",
+    "title": "HEALTH, CULTURE: SERVICE-LRNG.SPANISH-306-1-01.GLHLTH-326-1-01.HLTHPOL-306-1-01.LSGS-306-1-01.",
+    "instructor": "Fernandez, Bethzaida",
+    "term": "Spring 2025",
+    "area": "ROMANCE",
+    "response_rate": "12 of 15  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "HIE8kEUYcciHujCUUBAm%2fg%3d%3d",
+      "data-id3": "uQC%2bF4lsYkSRmTi1L2E%2fUw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785271"
+  },
+  {
+    "uid": "179281_10319_14261929_28112101",
+    "course_code": "SPANISH-306-01",
+    "title": "HEALTH, CULTURE, LATINO COMMUN.SPANISH-306-01.CULANTH-306-01.GLHLTH-326-01.HLTHPOL-306-01.LSGS-306-01.",
+    "instructor": "Solorzano, Rosa",
+    "term": "Spring 2025",
+    "area": "ROMANCE",
+    "response_rate": "14 of 15  responded (93.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "INgox0kidye6ONdwY%2fb5Bw%3d%3d",
+      "data-id3": "jogqrIMvt6DYzGlXds7KEw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "LSGS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785343"
+  },
+  {
+    "uid": "179281_10319_14262116_28112052",
+    "course_code": "HISTORY-203-01",
+    "title": "HISTORY OF GLOBAL HEALTH.HISTORY-203-01.GLHLTH-203-01.HLTHPOL-203-01.",
+    "instructor": "Humphreys, Margaret",
+    "term": "Spring 2025",
+    "area": "HISTORY",
+    "response_rate": "9 of 40  responded (22.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98997",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "ivMbF4whQsemav4Nu4lbVA%3d%3d",
+      "data-id3": "CJRJ72OShMqCfZVopxGJnQ%3d%3d"
+    },
+    "department_codes": [
+      "HISTORY",
+      "GLHLTH",
+      "HLTHPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785413"
+  },
+  {
+    "uid": "179281_10319_14262142_27924858",
+    "course_code": "PUBPOL-165-01",
+    "title": "INTRO TO US HEALTH CARE SYSTM.PUBPOL-165-01.HLTHPOL-165-01.SCISOC-165-01.",
+    "instructor": "Campbell, Hilary",
+    "term": "Spring 2025",
+    "area": "PPS",
+    "response_rate": "30 of 40  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Zgnx4nAgU%2fsRV4azetruIg%3d%3d",
+      "data-id3": "CK%2bQ7y%2byllQB1fr7Wqmn4g%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "HLTHPOL",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785485"
+  },
+  {
+    "uid": "179281_10319_14262156_28112094",
+    "course_code": "CULANTH-424-1-01",
+    "title": "MEDICAL ANTHROPOLOGY.CULANTH-424-1-01.GLHLTH-321-1-01.HLTHPOL-424-1-01.ICS-424-1-01.",
+    "instructor": "Rogers, Emily",
+    "term": "Spring 2025",
+    "area": "CULANTHRO",
+    "response_rate": "12 of 17  responded (70.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "navr7qftfbCJzSSIVmIDug%3d%3d",
+      "data-id3": "jlezaNFqx4oC9Xucmr7%2beg%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "GLHLTH",
+      "HLTHPOL",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785564"
+  },
+  {
+    "uid": "179281_10319_14262227_28807850",
+    "course_code": "GLHLTH-306-01",
+    "title": "GLOBAL HEALTH POLICY.GLHLTH-306-01.HLTHPOL-304-01.PUBPOL-324-01.",
+    "instructor": "Mao, Wenhui",
+    "term": "Spring 2025",
+    "area": "GLHLTH",
+    "response_rate": "13 of 16  responded (81.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98995",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "VJO3NhuuQB0WknKbw1BcrQ%3d%3d",
+      "data-id3": "sAi8WayM9T%2b3OFO6WlZ8Jw%3d%3d"
+    },
+    "department_codes": [
+      "GLHLTH",
+      "HLTHPOL",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785660"
+  },
+  {
+    "uid": "179281_10319_14262227_28807851",
+    "course_code": "GLHLTH-306-01",
+    "title": "GLOBAL HEALTH POLICY.GLHLTH-306-01.HLTHPOL-304-01.PUBPOL-324-01.",
+    "instructor": "Quick, Jonathan",
+    "term": "Spring 2025",
+    "area": "GLHLTH",
+    "response_rate": "13 of 16  responded (81.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98995",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "VJO3NhuuQB0WknKbw1BcrQ%3d%3d",
+      "data-id3": "uy8zsYGa96pjlrr2%2brJ3wA%3d%3d"
+    },
+    "department_codes": [
+      "GLHLTH",
+      "HLTHPOL",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:18:55.785737"
+  }
+]

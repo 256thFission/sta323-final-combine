@@ -1,0 +1,263 @@
+---
+title: "Course Ratings: Time-of-Day Analysis"
+author: "Your Name"
+format:
+  html:
+    code-fold: false
+    toc: true
+    toc-depth: 3
+editor: visual
+---
+
+```{r}
+install.packages("ggpubr")
+```
+
+# Setup
+
+```{r setup, message=FALSE}
+library(tidyverse)
+library(jsonlite)
+library(ggpubr)
+
+
+# Config
+SCHEDULES_DIR <- "multi_semester_schedules"
+EVAL_DATA_DIR <- "sampledata"
+```
+
+# Load Schedule Data
+
+```{r}
+# Parse meeting time from "HH.MM.SS.000000" format
+parse_time <- function(time_string) {
+  if (is.na(time_string) || time_string == "") return(NA_real_)
+  parts <- str_split(time_string, "\\.")[[1]]
+  as.numeric(parts[1]) + as.numeric(parts[2]) / 60
+}
+
+# Load one semester's schedules
+load_semester <- function(semester_path) {
+  json_files <- list.files(semester_path, pattern = "_courses\\.json$",
+                           recursive = TRUE, full.names = TRUE)
+
+  if (length(json_files) == 0) return(tibble())
+ 
+  map_dfr( json_files, function(f) {
+    data <- read_json(f, simplifyVector = TRUE)
+
+    if (nrow(data) == 0) return(tibble())
+
+    data |>
+      mutate(
+        semester = basename(dirname(dirname(f))),
+        instructor = map_chr(instructors, ~if(length(.x) > 0) .x$name[1] else NA_character_),
+        start_time = map_chr(meetings, ~if(length(.x) > 0) .x$start_time[1] else NA_character_),
+        days = map_chr(meetings, ~if(length(.x) > 0) .x$days[1] else NA_character_),
+        start_hour = map_dbl(start_time, parse_time)
+      ) |>
+      select(semester, subject, catalog_nbr, class_section, descr,
+             instructor, start_time, start_hour, days, enrollment_total)
+  })
+}
+
+load_all_schedules <- function() {
+  semester_dirs <- list.dirs(SCHEDULES_DIR, recursive = FALSE, full.names = TRUE)
+  map_dfr(semester_dirs, load_semester)
+}
+```
+
+```{r load-schedules}
+schedules <- load_all_schedules()
+
+cat("Loaded", nrow(schedules), "course sections\n")
+cat("Semesters:", paste(unique(schedules$semester), collapse = ", "), "\n")
+cat("Departments:", n_distinct(schedules$subject), "\n")
+```
+
+# Load Evaluation Data
+
+```{r}
+
+extract_last_name <- function(name) {
+  if (is.na(name)) return(NA_character_)
+
+  last <- ifelse(
+    str_detect(name, ","),
+    str_extract(name, "^[A-Za-z-]+"),
+    str_extract(name, "[A-Za-z-]+$")
+  )
+  str_to_title(last)
+}
+
+# Load one dept
+load_dept <- function(dept_path) {
+  questions_file <- file.path(dept_path, "evaluations_questions.csv")
+  if (!file.exists(questions_file)) return(tibble())
+
+  read_csv(questions_file, show_col_types = FALSE) |>
+    mutate(
+      question_number = as.character(question_number),
+      mean = suppressWarnings(as.numeric(mean)),
+      median = suppressWarnings(as.numeric(median)),
+      std = suppressWarnings(as.numeric(std)),
+      total_responses = suppressWarnings(as.numeric(total_responses))
+    )
+}
+
+# Load all evaluations
+load_all_evaluations <- function() {
+  dept_dirs <- list.dirs(EVAL_DATA_DIR, recursive = FALSE, full.names = TRUE)
+  dept_dirs <- dept_dirs[!str_detect(basename(dept_dirs), "\\.(csv|json)$")]
+
+  map_dfr(dept_dirs, load_dept)
+}
+```
+
+```{r load-evals}
+evaluations <- load_all_evaluations()
+
+cat("Loaded", nrow(evaluations), "evaluation records\n")
+cat("Departments:", n_distinct(str_extract(evaluations$course, "^[A-Z]+")), "\n")
+cat("Semesters:", paste(unique(evaluations$semester), collapse = ", "), "\n")
+```
+
+# Merge Data
+
+```{r}
+# Standardize for merging
+schedules_clean <- schedules |>
+  mutate(
+    semester_std = str_replace(semester, "_", " "),
+    course_code = paste(subject, catalog_nbr, class_section, sep = "-"),
+    instructor_last = map_chr(instructor, extract_last_name)
+  )
+
+evals_clean <- evaluations |>
+  rename(term = semester) |>
+  mutate(
+    semester_std = term,
+    course_code = str_extract(course, "^[A-Z]+-[0-9A-Z]+-[0-9]+"),
+    instructor_last = map_chr(instructor, extract_last_name)
+  )
+
+# Merge
+merged <- schedules_clean |>
+  inner_join(
+    evals_clean,
+    by = c("course_code", "instructor_last", "semester_std")
+  )
+
+cat("Merged:", nrow(merged), "records\n")
+```
+
+# Filter to Rating Questions
+
+```{r}
+ratings <- merged |>
+  filter(
+    question_number %in% c("3", "5", "6", "8", "9"),
+    !is.na(mean),
+    !is.na(start_hour)
+  )
+
+cat("Rating records:", nrow(ratings), "\n")
+```
+
+## Distribution of Start Times
+
+```{r}
+ratings_clean <- ratings |>
+  mutate(
+    # convert decimals to minutes
+    hour = floor(start_hour),
+    minute = round((start_hour - hour) * 60),
+    time_label = sprintf("%02d:%02d", hour, minute)
+    
+  )|>
+  mutate(question_label = factor(question_number, 
+                                 levels = c(3, 5, 6, 8, 9),
+                                 labels = c("Intellectually Stimulating", 
+                                            "Overall Course Rating", 
+                                            "Instructor Rating", 
+                                            "Difficulty", 
+                                            "Hours Per Week"))) |>
+  filter(!is.na(question_label))
+
+ggplot(ratings_clean, aes(x = time_label)) +
+  geom_bar(fill = "steelblue", alpha = 0.7) +
+  labs(title = "Distribution of Class Start Times",
+       x = "Start Time",
+       y = "# Sections") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## Ratings by Start Time
+
+```{r}
+
+questions_label_top <- c("Difficulty", "Hours Per Week")
+
+questions_label_bottom <- c("Intellectually Stimulating", "Overall Course Rating", "Instructor Rating")
+
+ggplot(ratings_clean, aes(x = start_hour, y = mean)) +
+  geom_jitter(alpha = 0.2, width = 0.2, height = 0.05) +
+  geom_smooth(method = "lm", color = "red", fill = "pink", se = TRUE) +
+  facet_wrap(~question_label, scales = "free_y") + 
+  
+  stat_cor(
+    data = subset(ratings_clean, question_label %in% questions_label_top), 
+    method = "pearson",
+    geom = "label",        
+    fill = "white",
+    label.x.npc = "left",
+    label.y.npc = 0.95     
+  ) +
+  
+  stat_cor(
+    data = subset(ratings_clean, question_label %in% questions_label_bottom), 
+    method = "pearson",
+    geom = "label",        
+    fill = "white",
+    label.x.npc = "left",
+    label.y.npc = 0.05     
+  ) +
+  
+  scale_x_continuous(breaks = seq(8, 18, 2)) +
+  labs(title = "Trend of Course Metrics vs. Start Time",
+       x = "Start Hour",
+       y = "Mean Score") +
+  theme_minimal()
+```
+
+## Ratings by Start Time normalized by dept/course lvl
+
+```{r}
+ratings_norm <- ratings_clean |>
+  mutate(course_level = str_extract(catalog_nbr, "^[0-9]")) |>
+  filter(course_level %in% c("1","2","3","4","5")) |>
+  group_by(subject, course_level, question_label) |>
+  filter(n() >= 5) |>
+  mutate(z_score = (mean - mean(mean)) / sd(mean)) |>
+  filter(!is.na(z_score), is.finite(z_score))|>
+  ungroup()
+
+ggplot(ratings_norm, aes(start_hour, z_score)) +
+  geom_jitter(alpha = 0.15, width = 0.2) +
+  geom_smooth(method = "lm", 
+              color = "blue",
+              fill = "skyblue") +
+  
+  facet_wrap(~question_label) +
+  stat_cor(method = "pearson",
+           label.x.npc = "left",
+           label.y.npc = "bottom", size = 3) +
+  
+  scale_x_continuous(breaks = seq(8, 18, 2)) +
+  labs(title = "Course Time vs Rating Metrics, Norm. by Dept & Course Level",
+       x = "Start Hour",
+       y = "Z-Score") +
+  theme_bw()
+
+```

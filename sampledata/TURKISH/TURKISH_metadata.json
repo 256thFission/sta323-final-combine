@@ -1,0 +1,97 @@
+[
+  {
+    "uid": "153858_9169_12283490_28112266",
+    "course_code": "TURKISH-305-01",
+    "title": "CONTEMP TURKISH COMP/READINGS.TURKISH-305-01.",
+    "instructor": "BAYRAKTAR, Esragul",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "nqMQAe%2f40WV6za7KUxty3w%3d%3d",
+      "data-id3": "5U1DXRS7sMV5YsTi9ECKqQ%3d%3d"
+    },
+    "department_codes": [
+      "TURKISH"
+    ],
+    "scraped_at": "2025-11-24T16:49:15.756413"
+  },
+  {
+    "uid": "161325_9470_12751969_28112045",
+    "course_code": "GERMAN-735S-01",
+    "title": "TURKISH-GERMAN LIT & FILM.GERMAN-735S-01.",
+    "instructor": "Reisoglu, Bahadir",
+    "term": "Spring 2024",
+    "area": "GERMAN",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98845",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "IMB3GisTvBXw%2b6MqEoA%2bwg%3d%3d",
+      "data-id3": "RTLZuSnxubDr11KPP2CFqA%3d%3d"
+    },
+    "department_codes": [
+      "GERMAN"
+    ],
+    "scraped_at": "2025-11-24T16:49:15.756506"
+  },
+  {
+    "uid": "171550_9973_13687290_27445933",
+    "course_code": "TURKISH-101-01",
+    "title": "ELEMENTARY TURKISH.TURKISH-101-01.",
+    "instructor": "Havlioglu, Didem",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "5 of 10  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "j%2bUN8Zh5CLhaXGJUK37WQw%3d%3d",
+      "data-id3": "QFDb9vWgaw0FEudib25BUg%3d%3d"
+    },
+    "department_codes": [
+      "TURKISH"
+    ],
+    "scraped_at": "2025-11-24T16:49:15.756583"
+  },
+  {
+    "uid": "179281_10319_14262376_27445933",
+    "course_code": "TURKISH-102-01",
+    "title": "ELEMENTARY TURKISH.TURKISH-102-01.",
+    "instructor": "Havlioglu, Didem",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "J%2bbIGQAgQg%2bni8KNsgmgmw%3d%3d",
+      "data-id3": "QFDb9vWgaw0FEudib25BUg%3d%3d"
+    },
+    "department_codes": [
+      "TURKISH"
+    ],
+    "scraped_at": "2025-11-24T16:49:15.756691"
+  },
+  {
+    "uid": "179281_10319_14262664_27445933",
+    "course_code": "TURKISH-204-01",
+    "title": "INTERMEDIATE TURKISH.TURKISH-204-01.",
+    "instructor": "Havlioglu, Didem",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "wAKWHGSOIET45ngBGRg61w%3d%3d",
+      "data-id3": "QFDb9vWgaw0FEudib25BUg%3d%3d"
+    },
+    "department_codes": [
+      "TURKISH"
+    ],
+    "scraped_at": "2025-11-24T16:49:15.756770"
+  }
+]

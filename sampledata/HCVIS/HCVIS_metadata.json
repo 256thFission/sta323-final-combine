@@ -1,0 +1,56 @@
+[
+  {
+    "uid": "154503_9169_12241480_27446185",
+    "course_code": "CMAC-580S-01",
+    "title": "DIGITAL HUMANITIES PROSEM 1.CMAC-580S-01.ARTHIST-580S-01.HCVIS-580S-01.ISS-580S-01.VMS-580S-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Fall 2023",
+    "area": "CMAC",
+    "response_rate": "8 of 16  responded (50.00%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "CMAC",
+      "ARTHIST",
+      "HCVIS",
+      "ISS",
+      "VMS"
+    ],
+    "data-id0": "98825",
+    "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+    "data-id2": "Ym8AmIg6zrB6ADSPRlQRVQ%3d%3d",
+    "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d",
+    "scraped_at": "2025-11-24T15:45:37.719958",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Ym8AmIg6zrB6ADSPRlQRVQ%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    }
+  },
+  {
+    "uid": "171571_9973_13645726_27446170",
+    "course_code": "ARTHIST-581S-01",
+    "title": "HIST & CULT VIZ PROSEMINAR 2.ARTHIST-581S-01.CMAC-581S-01.HCVIS-581S-01.ISS-581S-01.VMS-581S-01.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\n                            \n\n\n\n Download PDF",
+    "department_codes": [
+      "ARTHIST",
+      "CMAC",
+      "HCVIS",
+      "ISS",
+      "VMS"
+    ],
+    "data-id0": "98816",
+    "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+    "data-id2": "3r2khbTkkD8ywzmZ6XT0Gg%3d%3d",
+    "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d",
+    "scraped_at": "2025-11-24T15:45:38.494367",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "3r2khbTkkD8ywzmZ6XT0Gg%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    }
+  }
+]

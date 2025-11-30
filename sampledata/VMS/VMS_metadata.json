@@ -1,0 +1,3266 @@
+[
+  {
+    "uid": "152527_9107_12076172_27445801",
+    "course_code": "DOCST-101-01",
+    "title": "TRADITIONS IN DOC STUDIES.DOCST-101-01.VMS-103-01.ICS-111-01.",
+    "instructor": "Sims, Christopher",
+    "term": "Summer II 2023",
+    "area": "DOCST",
+    "response_rate": "6 of 15  responded (40.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "4TxgzUHg4Suz2MS8X7frbw%3d%3d",
+      "data-id2": "INBLWBvCr2ugXvMft6C2XA%3d%3d",
+      "data-id3": "P0MP4YBAKgKe%2budlQRWrlg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "VMS",
+      "ICS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.807745"
+  },
+  {
+    "uid": "154503_9169_12241480_27446185",
+    "course_code": "CMAC-580S-01",
+    "title": "DIGITAL HUMANITIES PROSEM 1.CMAC-580S-01.ARTHIST-580S-01.HCVIS-580S-01.ISS-580S-01.VMS-580S-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Fall 2023",
+    "area": "CMAC",
+    "response_rate": "8 of 16  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Ym8AmIg6zrB6ADSPRlQRVQ%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "ARTHIST",
+      "HCVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.807845"
+  },
+  {
+    "uid": "154503_9169_12241490_27991659",
+    "course_code": "CINE-749S-01",
+    "title": "CINEMATOGRAPHY.CINE-749S-01.VMS-760S-01.",
+    "instructor": "Milligan, Stephen",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 5  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "VGWHslmC4OxEzjsbe6CQlg%3d%3d",
+      "data-id3": "fk4leEtkwsLaRJT7XpC1ww%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.807928"
+  },
+  {
+    "uid": "154503_9169_12241509_27446048",
+    "course_code": "CULANTH-743S-01",
+    "title": "MEDIA AND MEDIATION.CULANTH-743S-01.ARTHIST-743S-01.VMS-743S-01.",
+    "instructor": "Stein, Rebecca",
+    "term": "Fall 2023",
+    "area": "CULANTHRO",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98829",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "vWt1CCAgdz8kTdjmEbMe6A%3d%3d",
+      "data-id3": "DlqU1BhP497DBiqVnHrzTA%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "ARTHIST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808008"
+  },
+  {
+    "uid": "154503_9169_12241590_27466645",
+    "course_code": "FRENCH-510-01",
+    "title": "CITIZEN GODARD.FRENCH-510-01.CINE-642-01.LIT-510-01.VMS-552-01.",
+    "instructor": "Saliot, Anne-Gaelle",
+    "term": "Fall 2023",
+    "area": "ROMANCE",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98885",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "02ZPuhBy%2bSdYZxifx3wYhw%3d%3d",
+      "data-id3": "Z7Z28P1U53siqyLVTWp%2bGw%3d%3d"
+    },
+    "department_codes": [
+      "FRENCH",
+      "CINE",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808088"
+  },
+  {
+    "uid": "154503_9169_12241594_27445875",
+    "course_code": "ARTSVIS-640S-01",
+    "title": "EXPANDED CINEMA.ARTSVIS-640S-01.CINE-639S-01.DOCST-640S-01.LIT-545S-01.VMS-640S-01.",
+    "instructor": "Kaul, Shambhavi",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "11 of 13  responded (84.62%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "HcNw7UeBT78tifHQs%2ftnwQ%3d%3d",
+      "data-id3": "mMabPAiKivv7K2c78pHwlw%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "DOCST",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808167"
+  },
+  {
+    "uid": "154503_9169_12241630_27991657",
+    "course_code": "ARTSVIS-510S-01",
+    "title": "BODY AS ELECTROCHEMICAL COMP.ARTSVIS-510S-01.CMAC-666S-01.ISS-666S-01.VMS-510S-01.",
+    "instructor": "Seaman, William",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 10  responded (90.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "oFKDdS55NxZ9Z%2b%2f2m6Ga8w%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808244"
+  },
+  {
+    "uid": "154503_9169_12241647_27991676",
+    "course_code": "AMES-631-01",
+    "title": "NATIONAL CINEMAS.AMES-631-01.CINE-632-01.LIT-632-01.VMS-632-01.",
+    "instructor": "Hong, Guo-Juin",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98815",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "YakjV5PPAveEJl6yMZqypw%3d%3d",
+      "data-id3": "Gue8wq%2fp%2buXf%2bpoRatUq3A%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808322"
+  },
+  {
+    "uid": "153858_9169_12282710_27446019",
+    "course_code": "ENGLISH-290S-2-01",
+    "title": "SP TOP 18TH & 19TH CENTURY LIT.ENGLISH-290S-2-01.VMS-290S-01.",
+    "instructor": "D'Alessandro, Michael",
+    "term": "Fall 2023",
+    "area": "ENGLISH",
+    "response_rate": "13 of 13  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98988",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "7h3eGEIezBX2iT%2fMlyjANw%3d%3d",
+      "data-id3": "1mWwHfyCS1QuuwFntJhyFw%3d%3d"
+    },
+    "department_codes": [
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808397"
+  },
+  {
+    "uid": "153858_9169_12282766_27991628",
+    "course_code": "CINE-202-01",
+    "title": "HISTORY OF DOCUMENTARY FILM.CINE-202-01.DOCST-107-01.VMS-265-01.",
+    "instructor": "Hill, Madison",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "13 of 14  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "OxIAxH77XurFiS9n2kYl7g%3d%3d",
+      "data-id3": "XH2XGVsbFjP85uG%2fUXMI5A%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808475"
+  },
+  {
+    "uid": "153858_9169_12282793_27445819",
+    "course_code": "ARTHIST-231-02",
+    "title": "HISTORY OF ART MARKETS.ARTHIST-231-02.ECON-344-02.VMS-242-02.",
+    "instructor": "Van Miegroet, Hans",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 31  responded (22.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "YkuPsGkqRwZYL%2fcze4H%2f%2bA%3d%3d",
+      "data-id3": "WLvbXmCKSWtsGQyihLvyDw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ECON",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808551"
+  },
+  {
+    "uid": "153858_9169_12282797_27675586",
+    "course_code": "CINE-301S-01",
+    "title": "MOVING IMAGE PRACTICE.CINE-301S-01.VMS-261S-01.",
+    "instructor": "Boyette, Archer",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 14  responded (57.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "k1xHmjCZZg6EgtpmjkMQrw%3d%3d",
+      "data-id3": "G4ayOH3Ysq2%2fYt2E05L5tA%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808627"
+  },
+  {
+    "uid": "153858_9169_12282798_28111753",
+    "course_code": "SPANISH-414A-01",
+    "title": "URBAN FICTION & COLLECTIVE IM.SPANISH-414A-01.VMS-414A-01.",
+    "instructor": "Esteban, Patricia",
+    "term": "Fall 2023",
+    "area": "ROMANCE",
+    "response_rate": "13 of 22  responded (59.09%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "oKiOFdEniEI7aoty5uY6eA%3d%3d",
+      "data-id3": "Ncxk3hVyTqf0LdYF5lAHsw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808705"
+  },
+  {
+    "uid": "153858_9169_12282803_27445874",
+    "course_code": "AMES-188FS-01",
+    "title": "GAMES AND CULTURE.AMES-188FS-01.ICS-186FS-01.ISS-188FS-01.LIT-188FS-01.POLSCI-186FS-01.VMS-188FS-01.",
+    "instructor": "Ginsburg, Shai",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "5 of 16  responded (31.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "d4Ced2bGY59BSsm4YRsxFw%3d%3d",
+      "data-id3": "RLn6Ohgo9wAGJHGB9ltrjA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:27.808786"
+  },
+  {
+    "uid": "153858_9169_12282803_28112075",
+    "course_code": "AMES-188FS-01",
+    "title": "GAMES AND CULTURE.AMES-188FS-01.ICS-186FS-01.ISS-188FS-01.LIT-188FS-01.POLSCI-186FS-01.VMS-188FS-01.",
+    "instructor": "Ching, Leo",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "5 of 16  responded (31.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "d4Ced2bGY59BSsm4YRsxFw%3d%3d",
+      "data-id3": "4G1msGgAG2flWYXX4adIow%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:27.808863"
+  },
+  {
+    "uid": "153858_9169_12282840_27445819",
+    "course_code": "ARTHIST-231-01",
+    "title": "HISTORY OF ART MARKETS.ARTHIST-231-01.ECON-344-01.VMS-242-01.",
+    "instructor": "Van Miegroet, Hans",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 32  responded (15.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "ZdnE1x%2fdHKIt4R1Lk6gyMw%3d%3d",
+      "data-id3": "WLvbXmCKSWtsGQyihLvyDw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ECON",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.808938"
+  },
+  {
+    "uid": "153858_9169_12282849_27446185",
+    "course_code": "CMAC-187FS-01",
+    "title": "DIGITAL STORYTELLING.CMAC-187FS-01.ISS-187FS-01.VMS-187FS-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Fall 2023",
+    "area": "CMAC",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98975",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "5qlBXytoJgb1kkR8zanj%2fA%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:27.809013"
+  },
+  {
+    "uid": "153858_9169_12282852_28112107",
+    "course_code": "ARTSVIS-326S-01",
+    "title": "FILM ANIMATION PRODUCTION.ARTSVIS-326S-01.CINE-320S-01.VMS-271S-01.",
+    "instructor": "Herbert, Casey",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "tnXo4vwmwOIScGpRRLL0DQ%3d%3d",
+      "data-id3": "5Xul2zlOsrsTBQiiYQMr0Q%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.809088"
+  },
+  {
+    "uid": "153858_9169_12282872_27991676",
+    "course_code": "AMES-129-01",
+    "title": "MASTERS OF CHINESE CINEMA.AMES-129-01.CINE-250-01.LIT-214-01.VMS-235-01.",
+    "instructor": "Hong, Guo-Juin",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "10 of 16  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "pq7CskY1fqIReeTN6Ti8hg%3d%3d",
+      "data-id3": "Gue8wq%2fp%2buXf%2bpoRatUq3A%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.809163"
+  },
+  {
+    "uid": "153858_9169_12282936_27445795",
+    "course_code": "AAAS-261D-001",
+    "title": "RACE, GENOMICS, AND SOCIETY.AAAS-261D-001.BIOLOGY-261D-001.CULANTH-261D-001.GLHLTH-258D-001.SCISOC-258D-001.VMS-274D-001.",
+    "instructor": "Royal, Charmaine",
+    "term": "Fall 2023",
+    "area": "AFRAMRST",
+    "response_rate": "20 of 92  responded (21.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "RJMJHhSo0r31NZZ7iEB1jg%3d%3d",
+      "data-id3": "GYf5Q83NEy00pD2%2fV2X9gg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "BIOLOGY",
+      "CULANTH",
+      "GLHLTH",
+      "SCISOC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:27.809239"
+  },
+  {
+    "uid": "153858_9169_12282939_28112110",
+    "course_code": "CINE-357S-01",
+    "title": "EDITING FOR FILM AND VIDEO.CINE-357S-01.DOCST-288S-01.VMS-356S-01.",
+    "instructor": "Haverkamp, James",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 14  responded (64.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Ce9XtPt7qxTH5Kk7o9WTVg%3d%3d",
+      "data-id3": "B6IX8098ku1D7GunVAZ7Ug%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.603529"
+  },
+  {
+    "uid": "153858_9169_12282963_28112034",
+    "course_code": "GSF-265S-01",
+    "title": "DIGITAL FEMINISM.GSF-265S-01.CMAC-265S-01.COMPSCI-112S-01.I&E-265S-01.ISS-265S-01.SOCIOL-217S-01.VMS-286S-01.",
+    "instructor": "Gelfand, Rachel",
+    "term": "Fall 2023",
+    "area": "GSF",
+    "response_rate": "10 of 15  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "A1tx7iX1sZ%2bFsnxlm4VE2A%3d%3d",
+      "data-id3": "I222ioYFwEO7qHXxdme02w%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "CMAC",
+      "COMPSCI",
+      "I&E",
+      "ISS",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.603641"
+  },
+  {
+    "uid": "153858_9169_12282986_27991628",
+    "course_code": "ARTSVIS-356S-01",
+    "title": "16MM FILM PRODUCTION.ARTSVIS-356S-01.CINE-356S-01.DOCST-357S-01.VMS-362S-01.",
+    "instructor": "Hill, Madison",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 8  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "I%2bgoj42mTLTKKWQe%2fwjXbw%3d%3d",
+      "data-id3": "XH2XGVsbFjP85uG%2fUXMI5A%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.603732"
+  },
+  {
+    "uid": "153858_9169_12282997_27991638",
+    "course_code": "AMES-171-01",
+    "title": "WORLD OF KOREAN CINEMA.AMES-171-01.CINE-256-01.CULANTH-255-01.LIT-212-01.VMS-234-01.",
+    "instructor": "Kwon, Aimee",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "11 of 17  responded (64.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "yxMfrHWCgj7oqb6MmK7aug%3d%3d",
+      "data-id3": "1iujJodvK%2b%2f%2f%2bHqanSIZ8A%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "CULANTH",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.603819"
+  },
+  {
+    "uid": "153858_9169_12283007_28112064",
+    "course_code": "THEATRST-273S-01",
+    "title": "SCREENWRITING.THEATRST-273S-01.CINE-305S-01.ENGLISH-317S-01.VMS-387S-01.",
+    "instructor": "Bell, Neal",
+    "term": "Fall 2023",
+    "area": "THEATRST",
+    "response_rate": "15 of 18  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "SfQs5X%2fsu3b2sLhNcdVIdQ%3d%3d",
+      "data-id3": "57TS2mBXeFv4jNUUlYJ1DQ%3d%3d"
+    },
+    "department_codes": [
+      "THEATRST",
+      "CINE",
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.603904"
+  },
+  {
+    "uid": "153858_9169_12283019_27991793",
+    "course_code": "ARTHIST-334-01",
+    "title": "ROMAN SPECTACLE.ARTHIST-334-01.CLST-354-01.VMS-334-01.",
+    "instructor": "Dillon, Sheila",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 20  responded (35.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "UEsB2UHQtPXK3AlJgCYpYA%3d%3d",
+      "data-id3": "puMPi0bW3HbPHtr4JK1t7g%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "CLST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604051"
+  },
+  {
+    "uid": "153858_9169_12283049_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "27 of 41  responded (65.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "9NvDGy4GKtK7OPN%2bvxU25Q%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604205"
+  },
+  {
+    "uid": "153858_9169_12283071_27446170",
+    "course_code": "ARTSVIS-242L-001",
+    "title": "INTERACTIVE GRAPHICS.ARTSVIS-242L-001.ISS-294L-001.VMS-397L-001.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 28  responded (32.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Gw9S2qLzGgM%2bTCdRWo0Psw%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604328"
+  },
+  {
+    "uid": "153858_9169_12283076_28112068",
+    "course_code": "RELIGION-268-01",
+    "title": "RELIGION AND FILM.RELIGION-268-01.CINE-273-01.DOCST-268-01.VMS-269-01.",
+    "instructor": "Coates, Andrew",
+    "term": "Fall 2023",
+    "area": "RELIGION",
+    "response_rate": "7 of 34  responded (20.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "zzJZ1GHsO5Tl01CC4CD1hw%3d%3d",
+      "data-id3": "QXlcIjbJA8RgZRyW3mLY%2fA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604430"
+  },
+  {
+    "uid": "153858_9169_12283077_28112049",
+    "course_code": "CLST-304-01",
+    "title": "DRAMA OF ANCIENT ROME.CLST-304-01.THEATRST-227-01.VMS-240-01.",
+    "instructor": "Ginsberg, Lauren",
+    "term": "Fall 2023",
+    "area": "CLASSICAL",
+    "response_rate": "5 of 18  responded (27.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "tz48c%2fpE4LTcCMSmFg02Sw%3d%3d",
+      "data-id3": "JiZG5GQGqiXCmB3gOcrCHA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "THEATRST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604518"
+  },
+  {
+    "uid": "153858_9169_12283094_27445795",
+    "course_code": "AAAS-261D-02D",
+    "title": "RACE, GENOMICS, AND SOCIETY.AAAS-261D-02D.BIOLOGY-261D-02D.CULANTH-261D-02D.GLHLTH-258D-02D.SCISOC-258D-02D.VMS-274D-02D.",
+    "instructor": "Royal, Charmaine",
+    "term": "Fall 2023",
+    "area": "AFRAMRST",
+    "response_rate": "5 of 25  responded (20.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "NDlVk6GmvIBbFMKIb7601A%3d%3d",
+      "data-id3": "GYf5Q83NEy00pD2%2fV2X9gg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:28.604603"
+  },
+  {
+    "uid": "153858_9169_12283118_27675586",
+    "course_code": "CINE-142-01",
+    "title": "LGBTQ/QUEER CINEMA.CINE-142-01.GSF-198-01.LIT-199-01.VMS-199-01.",
+    "instructor": "Boyette, Archer",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "11 of 14  responded (78.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "EqJquHbt6zlN9PQ1HcpFAw%3d%3d",
+      "data-id3": "G4ayOH3Ysq2%2fYt2E05L5tA%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "GSF",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604685"
+  },
+  {
+    "uid": "153858_9169_12283142_27991672",
+    "course_code": "CULANTH-210-01",
+    "title": "GLOBAL CULTURE.CULANTH-210-01.VMS-247-01.",
+    "instructor": "Ho, Engseng",
+    "term": "Fall 2023",
+    "area": "CULANTHRO",
+    "response_rate": "6 of 10  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "9ioT5P5n%2frExuhhgEjbrfA%3d%3d",
+      "data-id3": "3MWw3tcLZU1CCfOJPKBluQ%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604767"
+  },
+  {
+    "uid": "153858_9169_12283149_27991634",
+    "course_code": "DOCST-236S-01",
+    "title": "COLOR PHOTOGRAPHY.DOCST-236S-01.ARTSVIS-240S-01.VMS-227S-01.",
+    "instructor": "Bamberger, William",
+    "term": "Fall 2023",
+    "area": "DOCST",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "sYuKe%2bvrKIpEp9izjVNC6g%3d%3d",
+      "data-id3": "FVLruqTl3rHvfYPPd%2fD5QA%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ARTSVIS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604847"
+  },
+  {
+    "uid": "153858_9169_12283165_28112163",
+    "course_code": "ENVIRON-315S-01",
+    "title": "ENVIRON. ISSUES & THE DOC ARTS.ENVIRON-315S-01.CINE-315S-01.DOCST-315S-01.LATAMER-315S-01.VMS-309S-01.",
+    "instructor": "Rojas Sotelo, Miguel",
+    "term": "Fall 2023",
+    "area": "NSOE",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99019",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "EqGkoSyI%2bGtEDBrUB09%2fsA%3d%3d",
+      "data-id3": "S7AUUG3voCSGomOCsb%2bo9A%3d%3d"
+    },
+    "department_codes": [
+      "ENVIRON",
+      "CINE",
+      "DOCST",
+      "LATAMER",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.604926"
+  },
+  {
+    "uid": "153858_9169_12283184_28112147",
+    "course_code": "DOCST-101-01",
+    "title": "TRADITIONS IN DOC STUDIES.DOCST-101-01.ICS-111-01.VMS-103-01.",
+    "instructor": "Hyde, Katherine",
+    "term": "Fall 2023",
+    "area": "DOCST",
+    "response_rate": "30 of 35  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "3yf6Itbwav4rTuP%2b35%2bhxA%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.605005"
+  },
+  {
+    "uid": "161337_9470_12750766_27446048",
+    "course_code": "CULANTH-405S-01",
+    "title": "MEDIA AND CONFLICT.CULANTH-405S-01.AMES-405S-01.ICS-416S-01.PUBPOL-405S-01.VMS-405S-01.",
+    "instructor": "Stein, Rebecca",
+    "term": "Spring 2024",
+    "area": "CULANTHRO",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "49JZb15MyirdFdfmXXTLWg%3d%3d",
+      "data-id3": "DlqU1BhP497DBiqVnHrzTA%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "AMES",
+      "ICS",
+      "PUBPOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.605084"
+  },
+  {
+    "uid": "161337_9470_12750782_28807787",
+    "course_code": "ARTHIST-381D-01D",
+    "title": "GLOBAL ART SINCE 1945.ARTHIST-381D-01D.GSF-277D-01D.ICS-219D-01D.VMS-382D-01D.",
+    "instructor": "Ballard, Thea",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "hlLVAvFxRcxIe32JQc4JPg%3d%3d",
+      "data-id3": "dni%2bW26BIaiNdEDbGYTvGg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:28.605162"
+  },
+  {
+    "uid": "161337_9470_12750812_27675586",
+    "course_code": "CINE-357S-01",
+    "title": "EDITING FOR FILM AND VIDEO.CINE-357S-01.DOCST-288S-01.VMS-356S-01.",
+    "instructor": "Boyette, Archer",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 9  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "xFkVkKaXmRQLueYBzRMnzw%3d%3d",
+      "data-id3": "G4ayOH3Ysq2%2fYt2E05L5tA%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.605239"
+  },
+  {
+    "uid": "161337_9470_12750834_28112214",
+    "course_code": "WRITING-275S-01",
+    "title": "COMMUNICATION IN DIGITAL AGE.WRITING-275S-01.AMES-278S-01.LIT-272S-01.VMS-277S-01.",
+    "instructor": "Fuleihan, Zeena Yasmine",
+    "term": "Spring 2024",
+    "area": "UWC",
+    "response_rate": "8 of 10  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99036",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Qtd3hnz8d%2bKcfJsiTjfrXA%3d%3d",
+      "data-id3": "iXWbZeKZM1NdKR0rLVlGwg%3d%3d"
+    },
+    "department_codes": [
+      "WRITING",
+      "AMES",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:28.605315"
+  },
+  {
+    "uid": "161337_9470_12750845_27991628",
+    "course_code": "ARTSVIS-340S-01",
+    "title": "PRODUCING DOCU-FICTION.ARTSVIS-340S-01.CINE-334S-01.DOCST-278S-01.VMS-340S-01.",
+    "instructor": "Hill, Madison",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 12  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "%2b4xbgqGNecbW%2bw1dSUQFmw%3d%3d",
+      "data-id3": "XH2XGVsbFjP85uG%2fUXMI5A%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329014"
+  },
+  {
+    "uid": "161337_9470_12750856_27445875",
+    "course_code": "ARTSVIS-496S-01",
+    "title": "ARTSVIS/CINE ARTS SENIOR CAPST.ARTSVIS-496S-01.CINE-499S-01.VMS-496S-01.",
+    "instructor": "Kaul, Shambhavi",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "e3ANZts8fbYLldjZWZpX2A%3d%3d",
+      "data-id3": "mMabPAiKivv7K2c78pHwlw%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329112"
+  },
+  {
+    "uid": "161337_9470_12750883_28112107",
+    "course_code": "ARTSVIS-326S-01",
+    "title": "FILM ANIMATION PRODUCTION.ARTSVIS-326S-01.CINE-320S-01.VMS-271S-01.",
+    "instructor": "Herbert, Casey",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "7SB9mMtYk85OMAX%2bJ4C0YQ%3d%3d",
+      "data-id3": "5Xul2zlOsrsTBQiiYQMr0Q%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329194"
+  },
+  {
+    "uid": "161337_9470_12750908_28112068",
+    "course_code": "RELIGION-268-02",
+    "title": "RELIGION AND FILM.RELIGION-268-02.CINE-273-02.DOCST-268-02.VMS-269-02.",
+    "instructor": "Coates, Andrew",
+    "term": "Spring 2024",
+    "area": "RELIGION",
+    "response_rate": "8 of 40  responded (20.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "UL0Sy97cfRL3VSKHYDB6jA%3d%3d",
+      "data-id3": "QXlcIjbJA8RgZRyW3mLY%2fA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329273"
+  },
+  {
+    "uid": "161337_9470_12750922_28112118",
+    "course_code": "CINE-201-01",
+    "title": "INTRO TO FILM STUDIES.CINE-201-01.DOCST-264-01.ENGLISH-181-01.VMS-289-01.",
+    "instructor": "Cason, Franklin",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 29  responded (20.69%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "mN63aaLrRO1d3mc04N1qLQ%3d%3d",
+      "data-id3": "nhf4CsP8cQoxqTUVULxB7g%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329353"
+  },
+  {
+    "uid": "161337_9470_12750944_27991502",
+    "course_code": "ARTSVIS-229S-01",
+    "title": "EXPERIMENTAL FILMMAKING.ARTSVIS-229S-01.CINE-340S-01.VMS-229S-01.",
+    "instructor": "Sudak, Jason",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "12 of 14  responded (85.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "0EZwaFjCPr7IxjajCoV28g%3d%3d",
+      "data-id3": "AbOWXT1HHyVKUoF6RP5%2fKg%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329433"
+  },
+  {
+    "uid": "161337_9470_12750946_28112068",
+    "course_code": "RELIGION-268-01",
+    "title": "RELIGION AND FILM.RELIGION-268-01.CINE-273-01.DOCST-268-01.VMS-269-01.",
+    "instructor": "Coates, Andrew",
+    "term": "Spring 2024",
+    "area": "RELIGION",
+    "response_rate": "9 of 39  responded (23.08%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "RDO%2bV%2bapqyO93SkaEnIuDg%3d%3d",
+      "data-id3": "QXlcIjbJA8RgZRyW3mLY%2fA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329539"
+  },
+  {
+    "uid": "161337_9470_12750992_28112050",
+    "course_code": "ARTSVIS-381S-01",
+    "title": "GRAPHIC DESIGN IN MOTION.ARTSVIS-381S-01.CINE-381S-01.VMS-381S-01.",
+    "instructor": "Salvatella De Prada, Raquel",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "V9Wr6f0i4wMZobW9AXzpgw%3d%3d",
+      "data-id3": "3JRaQBnEubnMnQZJEYrNZg%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329625"
+  },
+  {
+    "uid": "161337_9470_12751017_28112147",
+    "course_code": "DOCST-101-01",
+    "title": "TRADITIONS IN DOC STUDIES.DOCST-101-01.ICS-111-01.VMS-103-01.",
+    "instructor": "Hyde, Katherine",
+    "term": "Spring 2024",
+    "area": "DOCST",
+    "response_rate": "23 of 40  responded (57.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Dma1JelJnm0foMrwJOvfsg%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329704"
+  },
+  {
+    "uid": "161337_9470_12751019_28807787",
+    "course_code": "ARTHIST-381D-001",
+    "title": "GLOBAL ART SINCE 1945.ARTHIST-381D-001.GSF-277D-001.ICS-219D-001.VMS-382D-001.",
+    "instructor": "Ballard, Thea",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "10 of 13  responded (76.92%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "7w7EeEzNP7e31%2fLMoweqAg%3d%3d",
+      "data-id3": "dni%2bW26BIaiNdEDbGYTvGg%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "GSF",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329784"
+  },
+  {
+    "uid": "161337_9470_12751033_28807828",
+    "course_code": "LIT-316S-01",
+    "title": "FILM THEORY.LIT-316S-01.CINE-203S-01.VMS-298S-01.",
+    "instructor": "Winn, John",
+    "term": "Spring 2024",
+    "area": "LITERATURE",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99007",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "rsigLShC%2bY9ExWUHFY1b1A%3d%3d",
+      "data-id3": "2nwn%2bBLMOH1xpI%2fo9I5qvQ%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329862"
+  },
+  {
+    "uid": "161337_9470_12751035_28112140",
+    "course_code": "PHIL-212-01",
+    "title": "PHILOSOPHY OF MIND.PHIL-212-01.LINGUIST-208-01.VMS-302-01.",
+    "instructor": "Ho, Ting Fung",
+    "term": "Spring 2024",
+    "area": "PHILOSOPHY",
+    "response_rate": "10 of 29  responded (34.48%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99022",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "9zJkGMP%2b%2bWGXvxCcN143HQ%3d%3d",
+      "data-id3": "53a5qFuoXiVT8RLwtg%2buYA%3d%3d"
+    },
+    "department_codes": [
+      "PHIL",
+      "LINGUIST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.329946"
+  },
+  {
+    "uid": "161337_9470_12751036_27991502",
+    "course_code": "CINE-210-01",
+    "title": "FILM GENRES.CINE-210-01.LIT-220-01.VMS-267-01.",
+    "instructor": "Sudak, Jason",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "13 of 15  responded (86.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "ks7URk%2fY8EENdwqokPuz8g%3d%3d",
+      "data-id3": "AbOWXT1HHyVKUoF6RP5%2fKg%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330027"
+  },
+  {
+    "uid": "161337_9470_12751037_27991657",
+    "course_code": "ARTSVIS-198-01",
+    "title": "EXPERIMENTAL INTERFACE DESIGN.ARTSVIS-198-01.CMAC-198-01.ISS-198-01.VMS-198-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 9  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "fhub6jIrq1Qv1Rond0zQpQ%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330107"
+  },
+  {
+    "uid": "161337_9470_12751045_27466670",
+    "course_code": "ENGLISH-289-01",
+    "title": "AMERICA DREAMS AM MOVIES II.ENGLISH-289-01.CINE-276-01.VMS-276-01.",
+    "instructor": "Torgovnick, Marianna",
+    "term": "Spring 2024",
+    "area": "ENGLISH",
+    "response_rate": "11 of 54  responded (20.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98988",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "k%2buhpM3DMSadNubwZ9VJTg%3d%3d",
+      "data-id3": "Q%2bXHGLSadd5GgcAh8fWCPg%3d%3d"
+    },
+    "department_codes": [
+      "ENGLISH",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330192"
+  },
+  {
+    "uid": "161337_9470_12751045_28111968",
+    "course_code": "ENGLISH-289-01",
+    "title": "AMERICA DREAMS AM MOVIES II.ENGLISH-289-01.CINE-276-01.VMS-276-01.",
+    "instructor": "Black, Taylor",
+    "term": "Spring 2024",
+    "area": "ENGLISH",
+    "response_rate": "11 of 54  responded (20.37%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98988",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "k%2buhpM3DMSadNubwZ9VJTg%3d%3d",
+      "data-id3": "phHolz4imVzcknpGfUia1Q%3d%3d"
+    },
+    "department_codes": [
+      "ENGLISH",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330268"
+  },
+  {
+    "uid": "161337_9470_12751071_28112085",
+    "course_code": "GSF-362S-01",
+    "title": "GENDER AND POPULAR CULTURE.GSF-362S-01.VMS-331S-01.",
+    "instructor": "Lamm, Kimberly",
+    "term": "Spring 2024",
+    "area": "GSF",
+    "response_rate": "10 of 12  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "43gwjDLMfwqMfm2Y2d5bCw%3d%3d",
+      "data-id3": "RNJm%2fF3LLJeAO%2fpGLoczTQ%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330361"
+  },
+  {
+    "uid": "161337_9470_12751079_28112123",
+    "course_code": "AAAS-335-01",
+    "title": "HISTORY OF HIP-HOP.AAAS-335-01.CULANTH-335-01.ENGLISH-381-01.HISTORY-335-01.MUSIC-335-01.VMS-337-01.",
+    "instructor": "Douthit, Patrick",
+    "term": "Spring 2024",
+    "area": "AFRAMRST",
+    "response_rate": "15 of 136  responded (11.03%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "Jtxi1V3huOUrcnmMzmgnhg%3d%3d",
+      "data-id3": "jkemIZ6c26zI3B0%2bARLaCg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "ENGLISH",
+      "HISTORY",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330479"
+  },
+  {
+    "uid": "161337_9470_12751095_28112107",
+    "course_code": "CINE-215-01",
+    "title": "HISTORY OF ANIMATED FILM.CINE-215-01.ISS-211-01.VMS-222-01.",
+    "instructor": "Herbert, Casey",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 35  responded (22.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "qFPFPfBjGLlDoGOaxphMhg%3d%3d",
+      "data-id3": "5Xul2zlOsrsTBQiiYQMr0Q%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330562"
+  },
+  {
+    "uid": "161337_9470_12751127_28112069",
+    "course_code": "CINE-301S-02",
+    "title": "MOVING IMAGE PRACTICE.CINE-301S-02.VMS-261S-02.",
+    "instructor": "Velazquez, Juan",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 11  responded (63.64%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "q9aCb6DSldSjzpWfQe7khQ%3d%3d",
+      "data-id3": "L5LfSuxAO%2bMs%2fzwUzwE3Mw%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:29.330639"
+  },
+  {
+    "uid": "161337_9470_12751131_28112128",
+    "course_code": "DOCST-230S-01",
+    "title": "SMALL TOWN USA.DOCST-230S-01.ARTSVIS-232S-01.PUBPOL-389S-01.VMS-224S-01.",
+    "instructor": "Post-Rust, Susie",
+    "term": "Spring 2024",
+    "area": "DOCST",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "UiS%2bjQo0%2f2hCvtPQfbBjnw%3d%3d",
+      "data-id3": "PORtd70qpTK8YpehgC6O4g%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ARTSVIS",
+      "PUBPOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.046832"
+  },
+  {
+    "uid": "161337_9470_12751146_28112123",
+    "course_code": "AAAS-330-01",
+    "title": "HIP HOP CINEMA.AAAS-330-01.VMS-335-01.",
+    "instructor": "Douthit, Patrick",
+    "term": "Spring 2024",
+    "area": "AFRAMRST",
+    "response_rate": "6 of 39  responded (15.38%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "PX0HIItm2EdhI8xcGvOxsQ%3d%3d",
+      "data-id3": "jkemIZ6c26zI3B0%2bARLaCg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047183"
+  },
+  {
+    "uid": "161337_9470_12751205_27991659",
+    "course_code": "ARTSVIS-453S-01",
+    "title": "CINEMATOGRAPHY II.ARTSVIS-453S-01.CINE-453S-01.DOCST-453S-01.VMS-453S-01.",
+    "instructor": "Milligan, Stephen",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "je3HHsJ0a1bEe6zgJ8o7dQ%3d%3d",
+      "data-id3": "fk4leEtkwsLaRJT7XpC1ww%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047282"
+  },
+  {
+    "uid": "161337_9470_12751207_28112147",
+    "course_code": "DOCST-227S-01",
+    "title": "SOCIOLOGY THRU PHOTOGRAPHY.DOCST-227S-01.SOCIOL-352S-01.VMS-218S-01.",
+    "instructor": "Hyde, Katherine",
+    "term": "Spring 2024",
+    "area": "DOCST",
+    "response_rate": "9 of 15  responded (60.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "IC8OX4kanvSF7rJLLebMog%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047368"
+  },
+  {
+    "uid": "161337_9470_12751215_28112064",
+    "course_code": "THEATRST-285S-01",
+    "title": "WRITING THE TV DRAMA SERIES.THEATRST-285S-01.CINE-304S-01.ENGLISH-224S-01.VMS-220S-01.",
+    "instructor": "Bell, Neal",
+    "term": "Spring 2024",
+    "area": "THEATRST",
+    "response_rate": "15 of 18  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "ds%2f%2ff6OgXR1H0vw3TZG3TQ%3d%3d",
+      "data-id3": "57TS2mBXeFv4jNUUlYJ1DQ%3d%3d"
+    },
+    "department_codes": [
+      "THEATRST",
+      "CINE",
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047454"
+  },
+  {
+    "uid": "161337_9470_12751257_27991628",
+    "course_code": "CINE-301S-01",
+    "title": "MOVING IMAGE PRACTICE.CINE-301S-01.VMS-261S-01.",
+    "instructor": "Hill, Madison",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 17  responded (35.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "T9iNECwxNFjHAeyfiHy7GQ%3d%3d",
+      "data-id3": "XH2XGVsbFjP85uG%2fUXMI5A%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047536"
+  },
+  {
+    "uid": "161337_9470_12751258_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2024",
+    "area": "I&E",
+    "response_rate": "35 of 43  responded (81.40%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "diPedf6wyCrVt03YqSREGw%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047617"
+  },
+  {
+    "uid": "161337_9470_12751300_27991707",
+    "course_code": "ARTHIST-305L-001",
+    "title": "VIRTUAL MUSEUMS.ARTHIST-305L-001.ARTSVIS-305L-001.CLST-240L-001.ISS-305L-001.VMS-332L-001.",
+    "instructor": "Forte, Maurizio",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 11  responded (54.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "USw4rBXyxgo8mdBtRSsYlQ%3d%3d",
+      "data-id3": "5YgJdEgqfwkv78eOl2QmQw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ARTSVIS",
+      "CLST",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047869"
+  },
+  {
+    "uid": "161325_9470_12752204_27446127",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Supko, John",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "85viLBsLqIvF%2f9oCN8kFdw%3d%3d",
+      "data-id3": "pk%2bXL7kU6nw3Z4chJauDCQ%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.047957"
+  },
+  {
+    "uid": "161325_9470_12752204_27991657",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "85viLBsLqIvF%2f9oCN8kFdw%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048063"
+  },
+  {
+    "uid": "161325_9470_12752261_27445866",
+    "course_code": "CULANTH-520S-01",
+    "title": "ECO-MEDIA.CULANTH-520S-01.LIT-522S-01.VMS-520S-01.",
+    "instructor": "Litzinger, Ralph",
+    "term": "Spring 2024",
+    "area": "CULANTHRO",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98829",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "fiGdnQfGAxspOvB3noil9g%3d%3d",
+      "data-id3": "3Y2LJ%2bcqASeQAkPS5CDz5g%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048152"
+  },
+  {
+    "uid": "167891_9753_13291498_27991628",
+    "course_code": "CINE-205-01",
+    "title": "CONTEMPORARY DOCUMENTARY FILMS.CINE-205-01.ARTS&SCI-206-01.DOCST-270-01.POLSCI-276-01.PUBPOL-374-01.VMS-264-01.",
+    "instructor": "Hill, Madison",
+    "term": "Summer I 2024",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "6%2brhCO9lgM5iOp4aUS%2b8gg%3d%3d",
+      "data-id2": "Pi2dHH1Thu8Q9G7%2fCsmuWw%3d%3d",
+      "data-id3": "XH2XGVsbFjP85uG%2fUXMI5A%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "ARTS&SCI",
+      "DOCST",
+      "POLSCI",
+      "PUBPOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048309"
+  },
+  {
+    "uid": "171571_9973_13645588_27991555",
+    "course_code": "GERMAN-745S-01",
+    "title": "BRUTAL HUMANISM.GERMAN-745S-01.LIT-745S-01.VMS-745S-01.",
+    "instructor": "Gellen, Kata",
+    "term": "Fall 2024",
+    "area": "GERMAN",
+    "response_rate": "7 of 9  responded (77.78%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98845",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "Djgw6Benx5bu3jVGtQkReQ%3d%3d",
+      "data-id3": "04OniV0Tp784oyJoHl%2f6kA%3d%3d"
+    },
+    "department_codes": [
+      "GERMAN",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048398"
+  },
+  {
+    "uid": "171571_9973_13645654_30096933",
+    "course_code": "CINE-757S-01",
+    "title": "EDITING FOR FILM AND VIDEO.CINE-757S-01.DOCST-757S-01.ISS-757S-01.VMS-757S-01.",
+    "instructor": "Lion, Jenny",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "L89dIwn5nnIsAQm4roRzcA%3d%3d",
+      "data-id3": "YeeZ6hHLf%2b954gMq42nrbg%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048605"
+  },
+  {
+    "uid": "171571_9973_13645671_27991657",
+    "course_code": "ARTSVIS-510S-01",
+    "title": "BODY AS ELECTROCHEMICAL COMP.ARTSVIS-510S-01.CMAC-666S-01.ISS-666S-01.VMS-510S-01.",
+    "instructor": "Seaman, William",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 10  responded (90.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "bRpW7VcvgCDIGWl8f8Eesw%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048734"
+  },
+  {
+    "uid": "171571_9973_13645689_27446146",
+    "course_code": "LIT-618S-01",
+    "title": "THEORIES OF THE VISUAL.LIT-618S-01.ARTSVIS-618S-01.CINE-618S-01.CMAC-618S-01.ROMST-618S-01.VMS-618S-01.",
+    "instructor": "Hadjioannou, Markos",
+    "term": "Fall 2024",
+    "area": "LITERATURE",
+    "response_rate": "6 of 14  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98858",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "mo89zKusSV7SfuMXD7sbbw%3d%3d",
+      "data-id3": "hMaeTnvmR9wzcLtNqWXR8Q%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "ARTSVIS",
+      "CINE",
+      "CMAC",
+      "ROMST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048827"
+  },
+  {
+    "uid": "171571_9973_13645716_27446170",
+    "course_code": "VMS-565S-01",
+    "title": "NEW MEDIA, MEMORY, AND ARCHIVE.VMS-565S-01.CMAC-565S-01.ISS-565S-01.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "wpyhrbXDnzncVWYG3KCp1A%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "VMS",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.048912"
+  },
+  {
+    "uid": "171571_9973_13645726_27446170",
+    "course_code": "ARTHIST-581S-01",
+    "title": "HIST & CULT VIZ PROSEMINAR 2.ARTHIST-581S-01.CMAC-581S-01.HCVIS-581S-01.ISS-581S-01.VMS-581S-01.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "3r2khbTkkD8ywzmZ6XT0Gg%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "CMAC",
+      "HCVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.049001"
+  },
+  {
+    "uid": "171550_9973_13686522_30096934",
+    "course_code": "CINE-352S-01",
+    "title": "TIME, SPACE AND FILM.CINE-352S-01.VMS-363S-01.",
+    "instructor": "Gibson, Joshua",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "6xl9nEG97oKxB7hIgSvICw%3d%3d",
+      "data-id3": "zGnJVFAykceEng4cgoNJnQ%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.049085"
+  },
+  {
+    "uid": "171550_9973_13686534_28596331",
+    "course_code": "CINE-202-01",
+    "title": "HISTORY OF DOCUMENTARY FILM.CINE-202-01.DOCST-107-01.VMS-265-01.",
+    "instructor": "Zubizarreta, Nora",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "11 of 15  responded (73.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "hw5ZioFAjJel3bKR3Yax2Q%3d%3d",
+      "data-id3": "%2fxKOak6%2fsXaLXItAr3X8pA%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:30.049170"
+  },
+  {
+    "uid": "171550_9973_13686553_27446010",
+    "course_code": "AAAS-336-01",
+    "title": "BLK PERFORM: M. JACKSON/PRINCE.AAAS-336-01.MUSIC-336-01.VMS-353-01.",
+    "instructor": "Neal, Mark Anthony",
+    "term": "Fall 2024",
+    "area": "AFRAMRST",
+    "response_rate": "6 of 33  responded (18.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "5HltdB0W5EWGcnHfQSt66w%3d%3d",
+      "data-id3": "RyZfyXVxfWeRl7ifvpG2Yw%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807077"
+  },
+  {
+    "uid": "171550_9973_13686557_28112055",
+    "course_code": "AMES-329S-01",
+    "title": "ISLAMIC MEDIA.AMES-329S-01.CINE-258S-01.ICS-331S-01.RELIGION-379S-01.VMS-342S-01.",
+    "instructor": "McLarney, Ellen",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "5 of 7  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ZnHYlyB8AxrBc5xEWyUeSQ%3d%3d",
+      "data-id3": "NGE84KCFpVx%2bEsNS7N5srA%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "ICS",
+      "RELIGION",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807192"
+  },
+  {
+    "uid": "171550_9973_13686558_27446177",
+    "course_code": "DANCE-371-01",
+    "title": "ARTISTS IN HEALTHCARE.DANCE-371-01.MUSIC-371-01.THEATRST-371-01.VMS-374-01.",
+    "instructor": "Wilbur, Sarah",
+    "term": "Fall 2024",
+    "area": "DANCE",
+    "response_rate": "9 of 39  responded (23.08%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98979",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "136iPPDlA0%2fcyisIM%2fzUpg%3d%3d",
+      "data-id3": "IebDOBGbJC1wD17SY8MpNg%3d%3d"
+    },
+    "department_codes": [
+      "DANCE",
+      "MUSIC",
+      "THEATRST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807396"
+  },
+  {
+    "uid": "171550_9973_13686570_27991793",
+    "course_code": "ARTHIST-334-01",
+    "title": "ROMAN SPECTACLE.ARTHIST-334-01.CLST-354-01.VMS-334-01.",
+    "instructor": "Dillon, Sheila",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "17 of 24  responded (70.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "9Vq3wh3ohFRFJw1jfjbf%2bQ%3d%3d",
+      "data-id3": "puMPi0bW3HbPHtr4JK1t7g%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "CLST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807511"
+  },
+  {
+    "uid": "171550_9973_13686571_27991502",
+    "course_code": "ARTSVIS-350S-01",
+    "title": "SOUND FOR FILM AND VIDEO.ARTSVIS-350S-01.CINE-350S-01.DOCST-353S-01.VMS-339S-01.",
+    "instructor": "Sudak, Jason",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 10  responded (80.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "rYFdh31rZaTnMWPdDGScSw%3d%3d",
+      "data-id3": "AbOWXT1HHyVKUoF6RP5%2fKg%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807603"
+  },
+  {
+    "uid": "171550_9973_13686590_28112118",
+    "course_code": "CINE-201-01",
+    "title": "INTRO TO FILM STUDIES.CINE-201-01.DOCST-264-01.ENGLISH-181-01.VMS-289-01.",
+    "instructor": "Cason, Franklin",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 27  responded (29.63%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "W71c6SUhMwvvLh36x0eH3Q%3d%3d",
+      "data-id3": "nhf4CsP8cQoxqTUVULxB7g%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807760"
+  },
+  {
+    "uid": "171550_9973_13686593_29177137",
+    "course_code": "LIT-316S-01",
+    "title": "FILM THEORY.LIT-316S-01.CINE-203S-01.VMS-298S-01.",
+    "instructor": "Beaver, Blake",
+    "term": "Fall 2024",
+    "area": "LITERATURE",
+    "response_rate": "14 of 17  responded (82.35%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99007",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "BXopBTd67C8C9%2fPZxSlp4g%3d%3d",
+      "data-id3": "i50BPIpvO%2fWr8Vtm8xMe8w%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.807941"
+  },
+  {
+    "uid": "171550_9973_13686595_30187779",
+    "course_code": "ISS-310S-01",
+    "title": "ARCHIVES AS DATA.ISS-310S-01.CMAC-310S-01.VMS-310S-01.",
+    "instructor": "Jacobs, Hannah",
+    "term": "Fall 2024",
+    "area": "ISS",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "yis409z2dU7WL%2bksC3tZrw%3d%3d",
+      "data-id3": "Y4ES6xeYP4G8iFLLUY5%2bLg%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "CMAC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808057"
+  },
+  {
+    "uid": "171550_9973_13686603_28112118",
+    "course_code": "VMS-253S-01",
+    "title": "IND. AFRICAN AMERICAN CINEMA.VMS-253S-01.AAAS-253S-01.CINE-277S-01.",
+    "instructor": "Cason, Franklin",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 15  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "n2idZtAYfK8uEPEnG5kPBw%3d%3d",
+      "data-id3": "nhf4CsP8cQoxqTUVULxB7g%3d%3d"
+    },
+    "department_codes": [
+      "VMS",
+      "AAAS",
+      "CINE"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808162"
+  },
+  {
+    "uid": "171550_9973_13686644_30096932",
+    "course_code": "ARTHIST-219S-01",
+    "title": "THE TOKYO IDEA.ARTHIST-219S-01.AMES-258S-01.VMS-219S-01.",
+    "instructor": "Weisenfeld, Gennifer",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "13 of 15  responded (86.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "UX4fdcs1WPHWMnKCWrpSaw%3d%3d",
+      "data-id3": "8aRoOf6lLlVVXFl1VlcjSw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "AMES",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808269"
+  },
+  {
+    "uid": "171550_9973_13686664_29084382",
+    "course_code": "LIT-317S-01",
+    "title": "MEDIA THEORY.LIT-317S-01.CINE-204S-01.ISS-214S-01.VMS-328S-01.",
+    "instructor": "Pujol Leon, Ernest",
+    "term": "Fall 2024",
+    "area": "LITERATURE",
+    "response_rate": "7 of 10  responded (70.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99007",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "tEJqSGT%2bXdxbZZC%2bjhk3Ng%3d%3d",
+      "data-id3": "f4p4ZuYq40eqrlDNC%2fx11A%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "CINE",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808459"
+  },
+  {
+    "uid": "171550_9973_13686727_28111704",
+    "course_code": "THEATRST-206SA-01",
+    "title": "NEW YORK, NEW YORK.THEATRST-206SA-01.CULANTH-206SA-01.JAM-392SA-30-01.VMS-398SA-01.",
+    "instructor": "Donovan, Ryan",
+    "term": "Fall 2024",
+    "area": "THEATRST",
+    "response_rate": "8 of 8  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "EITKQLb%2fGk%2f1AkAjmY0SOQ%3d%3d",
+      "data-id3": "n1egeJ2ogrx9a4n8659KKQ%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:32.808632"
+  },
+  {
+    "uid": "171550_9973_13686731_28596385",
+    "course_code": "CINE-301S-01",
+    "title": "MOVING IMAGE PRACTICE.CINE-301S-01.VMS-261S-01.",
+    "instructor": "Yousef, Hareth",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "12 of 12  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "DYrh%2fOAPiMWwZSJHpou7pg%3d%3d",
+      "data-id3": "yPOnnd1%2fexhjXrSqV3Rbkg%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808788"
+  },
+  {
+    "uid": "171550_9973_13686789_28111704",
+    "course_code": "THEATRST-203A-01",
+    "title": "ARTS, CULTURE, AND PERFORMANCE.THEATRST-203A-01.ARTHIST-203A-01.CINE-217A-01.DANCE-203A-01.ENGLISH-203A-01.JAM-392A-10-01.MUSIC-215A-01.VMS-272A-01.",
+    "instructor": "Donovan, Ryan",
+    "term": "Fall 2024",
+    "area": "THEATRST",
+    "response_rate": "7 of 8  responded (87.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "ClTlZnII2MXg7OzyLLVBLw%3d%3d",
+      "data-id3": "n1egeJ2ogrx9a4n8659KKQ%3d%3d"
+    },
+    "department_codes": [
+      "THEATRST",
+      "ARTHIST",
+      "CINE",
+      "DANCE",
+      "ENGLISH",
+      "JAM",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808886"
+  },
+  {
+    "uid": "171550_9973_13686804_28111933",
+    "course_code": "CMAC-125L-001",
+    "title": "FOUNDATIONS OF GAME DESIGN.CMAC-125L-001.ISS-125L-001.VMS-125L-001.",
+    "instructor": "Miller, Marshall",
+    "term": "Fall 2024",
+    "area": "CMAC",
+    "response_rate": "5 of 20  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98975",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "rHaTJcaOeouTW0ng%2fysLQA%3d%3d",
+      "data-id3": "wHiFe6QY1ivjO0WijJuLCw%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.808992"
+  },
+  {
+    "uid": "171550_9973_13686823_28111705",
+    "course_code": "THEATRST-282S-01",
+    "title": "WRITING MOVIES: ADAPTATION.THEATRST-282S-01.CINE-302S-01.ENGLISH-227S-01.RUSSIAN-282S-01.VMS-321S-01.",
+    "instructor": "McAuliffe, Johanna (Jody)",
+    "term": "Fall 2024",
+    "area": "THEATRST",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "FM64NTCnOmRGnVq4p6cI1w%3d%3d",
+      "data-id3": "7wTlqWlHpIDPDXO0f6K7DQ%3d%3d"
+    },
+    "department_codes": [
+      "THEATRST",
+      "CINE",
+      "ENGLISH",
+      "RUSSIAN",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.809088"
+  },
+  {
+    "uid": "171550_9973_13686838_28112050",
+    "course_code": "ARTSVIS-209-01",
+    "title": "3D MODELING AND ANIMATION.ARTSVIS-209-01.CINE-351-01.CMAC-351-01.ISS-209-01.VMS-351-01.",
+    "instructor": "Salvatella De Prada, Raquel",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 15  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HP8zYvgHMu4RgRcgcT4J7g%3d%3d",
+      "data-id3": "3JRaQBnEubnMnQZJEYrNZg%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.809177"
+  },
+  {
+    "uid": "171550_9973_13686851_27445795",
+    "course_code": "AAAS-261D-02D",
+    "title": "RACE, GENOMICS, AND SOCIETY.AAAS-261D-02D.BIOLOGY-261D-02D.CULANTH-261D-02D.GLHLTH-258D-02D.SCISOC-258D-02D.VMS-274D-02D.",
+    "instructor": "Royal, Charmaine",
+    "term": "Fall 2024",
+    "area": "AFRAMRST",
+    "response_rate": "6 of 23  responded (26.09%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "Ed%2bmEfn%2bFbgyHnx2rsjJCQ%3d%3d",
+      "data-id3": "GYf5Q83NEy00pD2%2fV2X9gg%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:32.809266"
+  },
+  {
+    "uid": "171550_9973_13686853_28112128",
+    "course_code": "DOCST-209FS-01",
+    "title": "DIGITAL DOCUMENTARY PHOTO.DOCST-209FS-01.ARTSVIS-212FS-01.EDUC-209FS-01.VMS-212FS-01.",
+    "instructor": "Post-Rust, Susie",
+    "term": "Fall 2024",
+    "area": "DOCST",
+    "response_rate": "9 of 9  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "RAclPAICaHuPcbcbTLmY5Q%3d%3d",
+      "data-id3": "PORtd70qpTK8YpehgC6O4g%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:49:32.809350"
+  },
+  {
+    "uid": "171550_9973_13686865_28112163",
+    "course_code": "ENVIRON-315S-01",
+    "title": "ENVIRON. ISSUES & THE DOC ARTS.ENVIRON-315S-01.CINE-315S-01.DOCST-315S-01.LATAMER-315S-01.VMS-309S-01.",
+    "instructor": "Rojas Sotelo, Miguel",
+    "term": "Fall 2024",
+    "area": "NSOE",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99019",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "7swnGdLDSYx3pLg%2b%2bKGQVA%3d%3d",
+      "data-id3": "S7AUUG3voCSGomOCsb%2bo9A%3d%3d"
+    },
+    "department_codes": [
+      "ENVIRON",
+      "CINE",
+      "DOCST",
+      "LATAMER",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:32.809432"
+  },
+  {
+    "uid": "171550_9973_13686867_28112147",
+    "course_code": "DOCST-101-01",
+    "title": "TRADITIONS IN DOC STUDIES.DOCST-101-01.ICS-111-01.VMS-103-01.",
+    "instructor": "Hyde, Katherine",
+    "term": "Fall 2024",
+    "area": "DOCST",
+    "response_rate": "29 of 40  responded (72.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "%2bfAAcEvnV3lO7cTvR9eckQ%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.522788"
+  },
+  {
+    "uid": "171550_9973_13686878_27991657",
+    "course_code": "ARTSVIS-130-01",
+    "title": "EXPERIMENTAL DRAWING.ARTSVIS-130-01.VMS-131-01.",
+    "instructor": "Seaman, William",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "tjRt9sc5TI5YiFQBbGoMuw%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523142"
+  },
+  {
+    "uid": "171550_9973_13686881_28112068",
+    "course_code": "RELIGION-268-01",
+    "title": "RELIGION AND FILM.RELIGION-268-01.CINE-273-01.DOCST-268-01.VMS-269-01.",
+    "instructor": "Coates, Andrew",
+    "term": "Fall 2024",
+    "area": "RELIGION",
+    "response_rate": "12 of 40  responded (30.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "GZyqUZfYfsgHD8GkYsAWyA%3d%3d",
+      "data-id3": "QXlcIjbJA8RgZRyW3mLY%2fA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523238"
+  },
+  {
+    "uid": "171550_9973_13686884_27991638",
+    "course_code": "AMES-171-01",
+    "title": "WORLD OF KOREAN CINEMA.AMES-171-01.CINE-256-01.CULANTH-255-01.LIT-212-01.VMS-234-01.",
+    "instructor": "Kwon, Aimee",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "9 of 21  responded (42.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "aeda3b18cUMziW5gfTwQxA%3d%3d",
+      "data-id3": "1iujJodvK%2b%2f%2f%2bHqanSIZ8A%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "CULANTH",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523323"
+  },
+  {
+    "uid": "171550_9973_13686902_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Fall 2024",
+    "area": "I&E",
+    "response_rate": "26 of 41  responded (63.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "W3Uqk%2bz0OXVPuCi%2bW0vvIg%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523408"
+  },
+  {
+    "uid": "171550_9973_13686904_28112128",
+    "course_code": "DOCST-209S-01",
+    "title": "DIGITAL DOCUMENTARY PHOTO.DOCST-209S-01.ARTSVIS-212S-01.EDUC-209S-01.VMS-212S-01.",
+    "instructor": "Post-Rust, Susie",
+    "term": "Fall 2024",
+    "area": "DOCST",
+    "response_rate": "13 of 15  responded (86.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "i9I9DaGeTLEYxkpOwVqJdw%3d%3d",
+      "data-id3": "PORtd70qpTK8YpehgC6O4g%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ARTSVIS",
+      "EDUC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523591"
+  },
+  {
+    "uid": "171550_9973_13686957_27991634",
+    "course_code": "DOCST-236S-01",
+    "title": "COLOR PHOTOGRAPHY.DOCST-236S-01.ARTSVIS-240S-01.VMS-227S-01.",
+    "instructor": "Bamberger, William",
+    "term": "Fall 2024",
+    "area": "DOCST",
+    "response_rate": "8 of 11  responded (72.73%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "DbyPwdtpQdqIZZjqGWlVIA%3d%3d",
+      "data-id3": "FVLruqTl3rHvfYPPd%2fD5QA%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ARTSVIS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523697"
+  },
+  {
+    "uid": "171550_9973_13686981_27445795",
+    "course_code": "AAAS-261D-001",
+    "title": "RACE, GENOMICS, AND SOCIETY.AAAS-261D-001.BIOLOGY-261D-001.CULANTH-261D-001.GLHLTH-258D-001.SCISOC-258D-001.VMS-274D-001.",
+    "instructor": "Royal, Charmaine",
+    "term": "Fall 2024",
+    "area": "AFRAMRST",
+    "response_rate": "19 of 75  responded (25.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "SQs%2fUJUB%2b4agKdZ4Z%2fLyrQ%3d%3d",
+      "data-id3": "GYf5Q83NEy00pD2%2fV2X9gg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "BIOLOGY",
+      "CULANTH",
+      "GLHLTH",
+      "SCISOC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.523933"
+  },
+  {
+    "uid": "171550_9973_13687019_28112140",
+    "course_code": "PHIL-212-01",
+    "title": "PHILOSOPHY OF MIND.PHIL-212-01.LINGUIST-208-01.VMS-302-01.",
+    "instructor": "Ho, Ting Fung",
+    "term": "Fall 2024",
+    "area": "PHILOSOPHY",
+    "response_rate": "9 of 29  responded (31.03%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99022",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "EgZku6NNfq8HOW2FGjJCIQ%3d%3d",
+      "data-id3": "53a5qFuoXiVT8RLwtg%2buYA%3d%3d"
+    },
+    "department_codes": [
+      "PHIL",
+      "LINGUIST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.524187"
+  },
+  {
+    "uid": "171550_9973_13687139_28112253",
+    "course_code": "VMS-202D-001",
+    "title": "INTRODUCTION TO VISUAL CULTURE.VMS-202D-001.",
+    "instructor": "Newkirk, Brandee",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 17  responded (35.29%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "IinzgNO1Ys7uXZ17HPyPWg%3d%3d",
+      "data-id3": "xi1I6AswJ8qoM3qAS2l8UQ%3d%3d"
+    },
+    "department_codes": [
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.524280"
+  },
+  {
+    "uid": "179255_10319_14225126_27445896",
+    "course_code": "ICS-502S-01",
+    "title": "GRAPHIC ETHNOGRAPHY.ICS-502S-01.CULANTH-504S-01.DOCST-512S-01.VMS-503S-01.",
+    "instructor": "Rosenblatt, Adam",
+    "term": "Spring 2025",
+    "area": "ICS",
+    "response_rate": "7 of 10  responded (70.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98851",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "h5bWxmNgK%2bXlti9aTBCW7w%3d%3d",
+      "data-id3": "%2bJM%2fp%2f7QiFadITIhPBlxGg%3d%3d"
+    },
+    "department_codes": [
+      "ICS",
+      "CULANTH",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.524362"
+  },
+  {
+    "uid": "179255_10319_14225161_27446127",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Supko, John",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "MbL8%2fdQ7zOc81pkYysTpug%3d%3d",
+      "data-id3": "pk%2bXL7kU6nw3Z4chJauDCQ%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525063"
+  },
+  {
+    "uid": "179255_10319_14225161_27991657",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "MbL8%2fdQ7zOc81pkYysTpug%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525173"
+  },
+  {
+    "uid": "179255_10319_14225164_28807964",
+    "course_code": "ISS-536S-01",
+    "title": "PUBLIC HISTORY & MEMORY.ISS-536S-01.HISTORY-536S-01.VMS-536S-01.",
+    "instructor": "Buerglener, Robert",
+    "term": "Spring 2025",
+    "area": "ISS",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98854",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "DtxwYPYyaLAPBVOQw9WpCg%3d%3d",
+      "data-id3": "%2fTh0F73Q%2fo5hlvAB1xpwcQ%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "HISTORY",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525257"
+  },
+  {
+    "uid": "179255_10319_14225185_27445866",
+    "course_code": "CULANTH-520S-01",
+    "title": "ECO-MEDIA.CULANTH-520S-01.LIT-522S-01.VMS-520S-01.",
+    "instructor": "Litzinger, Ralph",
+    "term": "Spring 2025",
+    "area": "CULANTHRO",
+    "response_rate": "5 of 10  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98829",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "b%2bFVsfz3qVFCRpx8oN0elA%3d%3d",
+      "data-id3": "3Y2LJ%2bcqASeQAkPS5CDz5g%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525336"
+  },
+  {
+    "uid": "179255_10319_14225228_27445874",
+    "course_code": "CMAC-660S-01",
+    "title": "GAMES, PLAY, AND SELFHOOD.CMAC-660S-01.AMES-660S-01.GSF-660S-01.ISS-660S-01.VMS-660S-01.",
+    "instructor": "Ginsburg, Shai",
+    "term": "Spring 2025",
+    "area": "CMAC",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "UZAwsy80ltqhYP387r6iFw%3d%3d",
+      "data-id3": "RLn6Ohgo9wAGJHGB9ltrjA%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "AMES",
+      "GSF",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525414"
+  },
+  {
+    "uid": "179255_10319_14225228_27446185",
+    "course_code": "CMAC-660S-01",
+    "title": "GAMES, PLAY, AND SELFHOOD.CMAC-660S-01.AMES-660S-01.GSF-660S-01.ISS-660S-01.VMS-660S-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Spring 2025",
+    "area": "CMAC",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "UZAwsy80ltqhYP387r6iFw%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "AMES",
+      "GSF",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525493"
+  },
+  {
+    "uid": "179281_10319_14261869_28596331",
+    "course_code": "CINE-301S-01",
+    "title": "MOVING IMAGE PRACTICE.CINE-301S-01.VMS-261S-01.",
+    "instructor": "Zubizarreta, Nora",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Wx%2bWuEo%2b93EUXj9ZkxXILA%3d%3d",
+      "data-id3": "%2fxKOak6%2fsXaLXItAr3X8pA%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525569"
+  },
+  {
+    "uid": "179281_10319_14261875_28112107",
+    "course_code": "CINE-215-01",
+    "title": "HISTORY OF ANIMATED FILM.CINE-215-01.ISS-211-01.VMS-222-01.",
+    "instructor": "Herbert, Casey",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 21  responded (38.10%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "2r0kuWWZdoGSbk85pszo1g%3d%3d",
+      "data-id3": "5Xul2zlOsrsTBQiiYQMr0Q%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525644"
+  },
+  {
+    "uid": "179281_10319_14261905_28112068",
+    "course_code": "RELIGION-268-02",
+    "title": "RELIGION AND FILM.RELIGION-268-02.CINE-273-02.DOCST-268-02.VMS-269-02.",
+    "instructor": "Coates, Andrew",
+    "term": "Spring 2025",
+    "area": "RELIGION",
+    "response_rate": "9 of 39  responded (23.08%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "7OXOFPlo6n2Z3tbrQII7pw%3d%3d",
+      "data-id3": "QXlcIjbJA8RgZRyW3mLY%2fA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:33.525813"
+  },
+  {
+    "uid": "179281_10319_14261948_27991502",
+    "course_code": "ARTSVIS-375S-01",
+    "title": "RECYCLED CINEMA.ARTSVIS-375S-01.CINE-373S-01.DOCST-375S-01.LIT-373S-01.VMS-375S-01.",
+    "instructor": "Sudak, Jason",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 6  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "FaVz1HXc0VGuArFNUEsMeg%3d%3d",
+      "data-id3": "AbOWXT1HHyVKUoF6RP5%2fKg%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "DOCST",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293082"
+  },
+  {
+    "uid": "179281_10319_14261964_28112068",
+    "course_code": "RELIGION-268-01",
+    "title": "RELIGION AND FILM.RELIGION-268-01.CINE-273-01.DOCST-268-01.VMS-269-01.",
+    "instructor": "Coates, Andrew",
+    "term": "Spring 2025",
+    "area": "RELIGION",
+    "response_rate": "6 of 40  responded (15.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99028",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "fnZOl6wtorlrmBPgzi1cLQ%3d%3d",
+      "data-id3": "QXlcIjbJA8RgZRyW3mLY%2fA%3d%3d"
+    },
+    "department_codes": [
+      "RELIGION",
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293216"
+  },
+  {
+    "uid": "179281_10319_14261975_27445813",
+    "course_code": "CINE-201-01",
+    "title": "INTRO TO FILM STUDIES.CINE-201-01.DOCST-264-01.ENGLISH-181-01.VMS-289-01.",
+    "instructor": "Furtado, Gustavo",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "19 of 33  responded (57.58%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "UD%2fleN6fbGcqMFdt0dHObg%3d%3d",
+      "data-id3": "ekln6Qjn69v1aWHSYbuygg%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293299"
+  },
+  {
+    "uid": "179281_10319_14261984_28112147",
+    "course_code": "DOCST-227S-01",
+    "title": "SOCIOLOGY THRU PHOTOGRAPHY.DOCST-227S-01.PHOTO-227S-01.SOCIOL-352S-01.VMS-218S-01.",
+    "instructor": "Hyde, Katie",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "13 of 14  responded (92.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "kdo2QI7P4tT%2byHdjH8Mz1g%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "PHOTO",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293382"
+  },
+  {
+    "uid": "179281_10319_14261987_27446110",
+    "course_code": "AMES-432S-01",
+    "title": "STORYWORLDS.AMES-432S-01.CINE-270S-01.ICS-333S-01.VMS-384S-01.",
+    "instructor": "Chow, Eileen",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "7 of 17  responded (41.18%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "4X%2bnNmkm16zZggCvGHsH3w%3d%3d",
+      "data-id3": "bQQFUoukquPG0h%2bvAo1agQ%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293462"
+  },
+  {
+    "uid": "179281_10319_14261993_27445847",
+    "course_code": "GSF-265S-01",
+    "title": "DIGITAL FEMINISM.GSF-265S-01.CMAC-265S-01.COMPSCI-112S-01.I&E-265S-01.ISS-265S-01.SOCIOL-217S-01.VMS-286S-01.",
+    "instructor": "Henschel, Lauren",
+    "term": "Spring 2025",
+    "area": "GSF",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "q%2fSBioa5K8gpeUbzNR1otQ%3d%3d",
+      "data-id3": "GGmw1Ir1r%2fMIlJiyRwBb0Q%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "CMAC",
+      "COMPSCI",
+      "I&E",
+      "ISS",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293542"
+  },
+  {
+    "uid": "179281_10319_14261993_28112034",
+    "course_code": "GSF-265S-01",
+    "title": "DIGITAL FEMINISM.GSF-265S-01.CMAC-265S-01.COMPSCI-112S-01.I&E-265S-01.ISS-265S-01.SOCIOL-217S-01.VMS-286S-01.",
+    "instructor": "Gelfand, Rachel",
+    "term": "Spring 2025",
+    "area": "GSF",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "q%2fSBioa5K8gpeUbzNR1otQ%3d%3d",
+      "data-id3": "I222ioYFwEO7qHXxdme02w%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "CMAC",
+      "COMPSCI",
+      "I&E",
+      "ISS",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293622"
+  },
+  {
+    "uid": "179281_10319_14261995_30096936",
+    "course_code": "SPANISH-390S-01",
+    "title": "TOPICS IN SPANISH STUDIES.SPANISH-390S-01.ARTHIST-390S-01.ICS-390S-01.VMS-390S-02.",
+    "instructor": "Gabara, Esther",
+    "term": "Spring 2025",
+    "area": "ROMANCE",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99029",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "lpTxgx1fg%2ftKlLNIiCqr%2bw%3d%3d",
+      "data-id3": "G0JO%2fkuVBpnOTvyWejWLGw%3d%3d"
+    },
+    "department_codes": [
+      "SPANISH",
+      "ARTHIST",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293730"
+  },
+  {
+    "uid": "179281_10319_14262025_27991540",
+    "course_code": "I&E-250-01",
+    "title": "BUILDING GLOBAL AUDIENCES.I&E-250-01.ISS-250-01.VMS-249-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2025",
+    "area": "I&E",
+    "response_rate": "14 of 29  responded (48.28%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "dxR164dTqRo970WsPDV34A%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293815"
+  },
+  {
+    "uid": "179281_10319_14262027_28112056",
+    "course_code": "ENGLISH-290S-1-01",
+    "title": "SP TOP MEDIEVAL/EARLY MOD LIT.ENGLISH-290S-1-01.CINE-290S-01.MEDREN-290S-1-01.THEATRST-290S-6-01.VMS-290S-01.",
+    "instructor": "Witten, Derek",
+    "term": "Spring 2025",
+    "area": "ENGLISH",
+    "response_rate": "12 of 17  responded (70.59%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98988",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "V4%2bqcte0RPkQJrAoSZZOnA%3d%3d",
+      "data-id3": "a%2fRdlO0X%2bqkfGWzYYYXHyA%3d%3d"
+    },
+    "department_codes": [
+      "ENGLISH",
+      "CINE",
+      "MEDREN",
+      "THEATRST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.293898"
+  },
+  {
+    "uid": "179281_10319_14262039_28112128",
+    "course_code": "DOCST-115S-01",
+    "title": "INTRO TO B&W PHOTOGRAPHY.DOCST-115S-01.ARTSVIS-115S-01.PHOTO-115S-01.VMS-115S-01.",
+    "instructor": "Post-Rust, Susie",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "iaUDP%2bR5prAM1YKXcC4Mgw%3d%3d",
+      "data-id3": "PORtd70qpTK8YpehgC6O4g%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ARTSVIS",
+      "PHOTO",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294031"
+  },
+  {
+    "uid": "179281_10319_14262066_28596330",
+    "course_code": "ARTSVIS-223-01",
+    "title": "GRAPHIC DESIGN IN MULTIMEDIA.ARTSVIS-223-01.ISS-396-01.VMS-396-01.",
+    "instructor": "Lehner, Tash",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "16 of 17  responded (94.12%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "HIu05jspXgpAcxOxVOhGIA%3d%3d",
+      "data-id3": "KqkTUO29cYUE6koQNl98kw%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294115"
+  },
+  {
+    "uid": "179281_10319_14262123_28112109",
+    "course_code": "CINE-306S-01",
+    "title": "WRITING THE MOVIE.CINE-306S-01.ENGLISH-225S-01.VMS-360S-01.",
+    "instructor": "Hawkins, GARY",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 16  responded (37.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "JV2VaVTne0RnsOczLd3Y%2fA%3d%3d",
+      "data-id3": "pNVYRNdouVTH6%2fPO2kiBKw%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "ENGLISH",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294198"
+  },
+  {
+    "uid": "179281_10319_14262125_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.WRITING-253-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2025",
+    "area": "I&E",
+    "response_rate": "25 of 39  responded (64.10%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "%2bP5bJwvvubjRfa9%2f%2fNjUdA%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS",
+      "WRITING"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294279"
+  },
+  {
+    "uid": "179281_10319_14262130_28112110",
+    "course_code": "CINE-357S-01",
+    "title": "EDITING FOR FILM AND VIDEO.CINE-357S-01.DOCST-288S-01.VMS-356S-01.",
+    "instructor": "Haverkamp, James",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 11  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "q9e1D2FHgROW3zRNXVuvlw%3d%3d",
+      "data-id3": "B6IX8098ku1D7GunVAZ7Ug%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294357"
+  },
+  {
+    "uid": "179281_10319_14262132_28112163",
+    "course_code": "ENVIRON-315S-01",
+    "title": "ENVIRON. ISSUES & THE DOC ARTS.ENVIRON-315S-01.CINE-315S-01.DOCST-315S-01.LATAMER-315S-01.VMS-309S-01.",
+    "instructor": "Rojas Sotelo, Miguel",
+    "term": "Spring 2025",
+    "area": "NSOE",
+    "response_rate": "7 of 16  responded (43.75%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99019",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "v1Yrd2frJnoMgKGSSzY9Zw%3d%3d",
+      "data-id3": "S7AUUG3voCSGomOCsb%2bo9A%3d%3d"
+    },
+    "department_codes": [
+      "ENVIRON",
+      "CINE",
+      "DOCST",
+      "LATAMER",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294434"
+  },
+  {
+    "uid": "179281_10319_14262135_28112109",
+    "course_code": "ARTSVIS-303S-01",
+    "title": "WRITING THE SHORT FILM.ARTSVIS-303S-01.CINE-303S-01.VMS-338S-01.",
+    "instructor": "Hawkins, GARY",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 15  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "GtSDfTzhEmZB854PSW0%2bdg%3d%3d",
+      "data-id3": "pNVYRNdouVTH6%2fPO2kiBKw%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294509"
+  },
+  {
+    "uid": "179281_10319_14262168_28112064",
+    "course_code": "THEATRST-273S-01",
+    "title": "SCREENWRITING.THEATRST-273S-01.CINE-305S-01.ENGLISH-317S-01.VMS-387S-01.WRITING-273S-01.",
+    "instructor": "Bell, Neal",
+    "term": "Spring 2025",
+    "area": "THEATRST",
+    "response_rate": "12 of 16  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99035",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "4PuAVLsCmp38ECyZYnyOag%3d%3d",
+      "data-id3": "57TS2mBXeFv4jNUUlYJ1DQ%3d%3d"
+    },
+    "department_codes": [
+      "THEATRST",
+      "CINE",
+      "ENGLISH",
+      "VMS",
+      "WRITING"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294601"
+  },
+  {
+    "uid": "179281_10319_14262188_28112123",
+    "course_code": "AAAS-335-01",
+    "title": "HISTORY OF HIP-HOP.AAAS-335-01.CULANTH-335-01.ENGLISH-381-01.HISTORY-335-01.MUSIC-335-01.VMS-337-01.",
+    "instructor": "Douthit, Patrick",
+    "term": "Spring 2025",
+    "area": "AFRAMRST",
+    "response_rate": "18 of 135  responded (13.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "xfroPrQj7nfHi6lJHb8m6A%3d%3d",
+      "data-id3": "jkemIZ6c26zI3B0%2bARLaCg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "CULANTH",
+      "ENGLISH",
+      "HISTORY",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294692"
+  },
+  {
+    "uid": "179281_10319_14262191_27991731",
+    "course_code": "LIT-385-01",
+    "title": "MAFIA AT THE MOVIES.LIT-385-01.CINE-271-01.ITALIAN-385-01.VMS-385-01.",
+    "instructor": "Dainotto, Roberto",
+    "term": "Spring 2025",
+    "area": "LITERATURE",
+    "response_rate": "9 of 45  responded (20.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99007",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "k0Va3YzYvjH%2fY1jP2LwJlA%3d%3d",
+      "data-id3": "KtKnIEseQtzg0YYU10nHfw%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "CINE",
+      "ITALIAN",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:34.294772"
+  },
+  {
+    "uid": "179281_10319_14262201_27991657",
+    "course_code": "ARTSVIS-198-01",
+    "title": "EXPERIMENTAL INTERFACE DESIGN.ARTSVIS-198-01.CMAC-198-01.ISS-198-01.VMS-198-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "10 of 12  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "V6ndyjqIW0KUSWUKQ2zp%2fA%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.001499"
+  },
+  {
+    "uid": "179281_10319_14262202_30096932",
+    "course_code": "ARTHIST-432S-01",
+    "title": "PLEASURE QUARTERS TO TOKYO POP.ARTHIST-432S-01.AMES-452S-01.VMS-432S-01.",
+    "instructor": "Weisenfeld, Gennifer",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 17  responded (29.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "2Eg6bhkgziYAeBd9Agb8mA%3d%3d",
+      "data-id3": "8aRoOf6lLlVVXFl1VlcjSw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "AMES",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.001604"
+  },
+  {
+    "uid": "179281_10319_14262209_27991502",
+    "course_code": "CINE-210-01",
+    "title": "FILM GENRES.CINE-210-01.LIT-220-01.VMS-267-01.",
+    "instructor": "Sudak, Jason",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 15  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "ZSkZYAnUdVorZiMSC%2f1Zcg%3d%3d",
+      "data-id3": "AbOWXT1HHyVKUoF6RP5%2fKg%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.001696"
+  },
+  {
+    "uid": "179281_10319_14262218_27675586",
+    "course_code": "CINE-142-01",
+    "title": "LGBTQ/QUEER CINEMA.CINE-142-01.GSF-198-01.LIT-199-01.VMS-199-01.",
+    "instructor": "Boyette, Archer",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "11 of 14  responded (78.57%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "h4UHVvRGUVp6EKJxHlBtXA%3d%3d",
+      "data-id3": "G4ayOH3Ysq2%2fYt2E05L5tA%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "GSF",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.001800"
+  },
+  {
+    "uid": "179281_10319_14262219_27991539",
+    "course_code": "DOCST-101-01",
+    "title": "TRADITIONS IN DOC STUDIES.DOCST-101-01.ICS-111-01.VMS-103-01.",
+    "instructor": "Hogan, Wesley",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "9 of 12  responded (75.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "gntTdkpuQB4TE%2fbh6Jp%2f%2fQ%3d%3d",
+      "data-id3": "bqVyaGI0V2MBuPv81W7zQw%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "ICS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.001897"
+  },
+  {
+    "uid": "179281_10319_14262223_28112140",
+    "course_code": "PHIL-212-01",
+    "title": "PHILOSOPHY OF MIND.PHIL-212-01.LINGUIST-208-01.VMS-302-01.",
+    "instructor": "Ho, Ting Fung",
+    "term": "Spring 2025",
+    "area": "PHILOSOPHY",
+    "response_rate": "5 of 23  responded (21.74%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99022",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "g0QbcTOUT7MHAji71dseUw%3d%3d",
+      "data-id3": "53a5qFuoXiVT8RLwtg%2buYA%3d%3d"
+    },
+    "department_codes": [
+      "PHIL",
+      "LINGUIST",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.001978"
+  },
+  {
+    "uid": "179281_10319_14262233_27991676",
+    "course_code": "AMES-129-01",
+    "title": "MASTERS OF CHINESE CINEMA.AMES-129-01.CINE-250-01.LIT-214-01.VMS-235-01.",
+    "instructor": "Hong, Guo-Juin",
+    "term": "Spring 2025",
+    "area": "AMES",
+    "response_rate": "17 of 18  responded (94.44%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "Lymt0vPjKIE19RfqeWOh%2bw%3d%3d",
+      "data-id3": "Gue8wq%2fp%2buXf%2bpoRatUq3A%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "CINE",
+      "LIT",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.002066"
+  },
+  {
+    "uid": "179281_10319_14262237_28112123",
+    "course_code": "AAAS-330-01",
+    "title": "HIP HOP CINEMA.AAAS-330-01.VMS-335-01.",
+    "instructor": "Douthit, Patrick",
+    "term": "Spring 2025",
+    "area": "AFRAMRST",
+    "response_rate": "6 of 40  responded (15.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98963",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "oEbPxSFkbBvCoxAY2ClIAA%3d%3d",
+      "data-id3": "jkemIZ6c26zI3B0%2bARLaCg%3d%3d"
+    },
+    "department_codes": [
+      "AAAS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.002150"
+  },
+  {
+    "uid": "179281_10319_14262324_28112147",
+    "course_code": "DOCST-224S-01",
+    "title": "LITERACY/PHOTOGRAPHY.DOCST-224S-01.EDUC-244S-01.PHOTO-224S-01.VMS-207S-01.",
+    "instructor": "Hyde, Katie",
+    "term": "Spring 2025",
+    "area": "DOCST",
+    "response_rate": "11 of 12  responded (91.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98982",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "PDA6FIV7m2rIAiPNF2fM3A%3d%3d",
+      "data-id3": "kOVbqwovGadEfCug4YwcYg%3d%3d"
+    },
+    "department_codes": [
+      "DOCST",
+      "EDUC",
+      "PHOTO",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.002391"
+  },
+  {
+    "uid": "179281_10319_14262421_27446170",
+    "course_code": "VMS-383-01",
+    "title": "DISABILITY AND DESIGN.VMS-383-01.",
+    "instructor": "Olson, Mark",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 8  responded (62.50%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "UvcA6PI%2brdLoMHxMJIlKmg%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.002595"
+  },
+  {
+    "uid": "179281_10319_14262427_30096938",
+    "course_code": "VMS-327S-01",
+    "title": "THEORIES VISUAL/MEDIA STUDIES.VMS-327S-01.",
+    "instructor": "Stiles, Kristine",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "15 of 17  responded (88.24%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "%2bJP3gSvE2cVarixGozgsIw%3d%3d",
+      "data-id3": "Oq6M%2fy13RdGuWf1YMzA9Kg%3d%3d"
+    },
+    "department_codes": [
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.003044"
+  },
+  {
+    "uid": "187125_10662_14677211_27991405",
+    "course_code": "PUBPOL-390A-01",
+    "title": "DUKE-ADM ST ABR: ADV TOP.PUBPOL-390A-01.ARTHIST-390A-01.HISTORY-390A-01.VMS-390A-01.",
+    "instructor": "Rogerson, Kenneth",
+    "term": "Summer I 2025",
+    "area": "PPS",
+    "response_rate": "11 of 11  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99026",
+      "data-id1": "jEWplQlB%2bshe3uI7LSNBtw%3d%3d",
+      "data-id2": "aqWpXxRA3v%2bAJKv4xvrF6A%3d%3d",
+      "data-id3": "Z%2b4PgL9uuXXOpZJh2Qusmw%3d%3d"
+    },
+    "department_codes": [
+      "PUBPOL",
+      "ARTHIST",
+      "HISTORY",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:49:35.003178"
+  }
+]

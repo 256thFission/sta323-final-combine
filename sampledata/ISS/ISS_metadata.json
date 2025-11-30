@@ -1,0 +1,1302 @@
+[
+  {
+    "uid": "154503_9169_12241480_27446185",
+    "course_code": "CMAC-580S-01",
+    "title": "DIGITAL HUMANITIES PROSEM 1.CMAC-580S-01.ARTHIST-580S-01.HCVIS-580S-01.ISS-580S-01.VMS-580S-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Fall 2023",
+    "area": "CMAC",
+    "response_rate": "8 of 16  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "Ym8AmIg6zrB6ADSPRlQRVQ%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "ARTHIST",
+      "HCVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.227713"
+  },
+  {
+    "uid": "154503_9169_12241630_27991657",
+    "course_code": "ARTSVIS-510S-01",
+    "title": "BODY AS ELECTROCHEMICAL COMP.ARTSVIS-510S-01.CMAC-666S-01.ISS-666S-01.VMS-510S-01.",
+    "instructor": "Seaman, William",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 10  responded (90.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "oFKDdS55NxZ9Z%2b%2f2m6Ga8w%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.227867"
+  },
+  {
+    "uid": "154503_9169_12241652_27991519",
+    "course_code": "I&E-511-01",
+    "title": "DESIGNING ETHICAL TECH.I&E-511-01.ISS-511-01.PUBPOL-514-01.",
+    "instructor": "Chernik, Aria",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98850",
+      "data-id1": "t%2fFkKASUrBF6qRsNV5Za2w%3d%3d",
+      "data-id2": "wKqV6qY%2fuYacPnLsrgFk%2fA%3d%3d",
+      "data-id3": "JJNymSPmwHSR2d86cA0AmQ%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.227952"
+  },
+  {
+    "uid": "153858_9169_12282381_28111933",
+    "course_code": "ISS-125FS-001",
+    "title": "FOUNDATIONS OF GAME DESIGN.ISS-125FS-001.",
+    "instructor": "Miller, Marshall",
+    "term": "Fall 2023",
+    "area": "ISS",
+    "response_rate": "5 of 15  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "oFWW%2bd7iFKhZXvHbi9HsyA%3d%3d",
+      "data-id3": "wHiFe6QY1ivjO0WijJuLCw%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:24:05.228031"
+  },
+  {
+    "uid": "153858_9169_12282742_27466668",
+    "course_code": "I&E-290-02",
+    "title": "SPECIAL TOPICS.I&E-290-02.ISS-290-02.SCISOC-290-02.",
+    "instructor": "Park, Isaac",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "15 of 60  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "1K5EVh8%2bUCCvTiV7o10dag%3d%3d",
+      "data-id3": "SfarxJWNcFzfy4sT2IFwZQ%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "ISS",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228104"
+  },
+  {
+    "uid": "153858_9169_12282742_28112113",
+    "course_code": "I&E-290-02",
+    "title": "SPECIAL TOPICS.I&E-290-02.ISS-290-02.SCISOC-290-02.",
+    "instructor": "Peters, Amy",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "15 of 60  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "1K5EVh8%2bUCCvTiV7o10dag%3d%3d",
+      "data-id3": "F7V58YLk%2fCQrLAz9ye8yDg%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "ISS",
+      "SCISOC"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228177"
+  },
+  {
+    "uid": "153858_9169_12282787_28112116",
+    "course_code": "COMPSCI-290-01",
+    "title": "TOPICS IN COMPUTER SCIENCE.COMPSCI-290-01.ECE-290-01.ISS-290-01.PUBPOL-290-12.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Fall 2023",
+    "area": "COMPSCI",
+    "response_rate": "17 of 59  responded (28.81%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "DkcreYNBxVYxaLTaO2esLA%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228251"
+  },
+  {
+    "uid": "153858_9169_12282803_27445874",
+    "course_code": "AMES-188FS-01",
+    "title": "GAMES AND CULTURE.AMES-188FS-01.ICS-186FS-01.ISS-188FS-01.LIT-188FS-01.POLSCI-186FS-01.VMS-188FS-01.",
+    "instructor": "Ginsburg, Shai",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "5 of 16  responded (31.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "d4Ced2bGY59BSsm4YRsxFw%3d%3d",
+      "data-id3": "RLn6Ohgo9wAGJHGB9ltrjA%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:24:05.228325"
+  },
+  {
+    "uid": "153858_9169_12282803_28112075",
+    "course_code": "AMES-188FS-01",
+    "title": "GAMES AND CULTURE.AMES-188FS-01.ICS-186FS-01.ISS-188FS-01.LIT-188FS-01.POLSCI-186FS-01.VMS-188FS-01.",
+    "instructor": "Ching, Leo",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "5 of 16  responded (31.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "d4Ced2bGY59BSsm4YRsxFw%3d%3d",
+      "data-id3": "4G1msGgAG2flWYXX4adIow%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:24:05.228397"
+  },
+  {
+    "uid": "153858_9169_12282849_27446185",
+    "course_code": "CMAC-187FS-01",
+    "title": "DIGITAL STORYTELLING.CMAC-187FS-01.ISS-187FS-01.VMS-187FS-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Fall 2023",
+    "area": "CMAC",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98975",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "5qlBXytoJgb1kkR8zanj%2fA%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    },
+    "department_codes": [],
+    "scraped_at": "2025-11-24T16:24:05.228469"
+  },
+  {
+    "uid": "153858_9169_12282858_28112077",
+    "course_code": "AMES-435S-01",
+    "title": "CHINESE MEDIA AND POP CULTURE.AMES-435S-01.ISS-435S-01.POLSCI-435S-01.",
+    "instructor": "Liu, Kang",
+    "term": "Fall 2023",
+    "area": "AMES",
+    "response_rate": "15 of 18  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "%2bcXkcH%2fH4a3q2O7QewQXVQ%3d%3d",
+      "data-id3": "ug84OTt3ty%2b9HZW03R9JiA%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "ISS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228540"
+  },
+  {
+    "uid": "153858_9169_12282963_28112034",
+    "course_code": "GSF-265S-01",
+    "title": "DIGITAL FEMINISM.GSF-265S-01.CMAC-265S-01.COMPSCI-112S-01.I&E-265S-01.ISS-265S-01.SOCIOL-217S-01.VMS-286S-01.",
+    "instructor": "Gelfand, Rachel",
+    "term": "Fall 2023",
+    "area": "GSF",
+    "response_rate": "10 of 15  responded (66.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "A1tx7iX1sZ%2bFsnxlm4VE2A%3d%3d",
+      "data-id3": "I222ioYFwEO7qHXxdme02w%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "CMAC",
+      "COMPSCI",
+      "I&E",
+      "ISS",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228618"
+  },
+  {
+    "uid": "153858_9169_12283049_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "27 of 41  responded (65.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "9NvDGy4GKtK7OPN%2bvxU25Q%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228694"
+  },
+  {
+    "uid": "153858_9169_12283071_27446170",
+    "course_code": "ARTSVIS-242L-001",
+    "title": "INTERACTIVE GRAPHICS.ARTSVIS-242L-001.ISS-294L-001.VMS-397L-001.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2023",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 28  responded (32.14%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "Gw9S2qLzGgM%2bTCdRWo0Psw%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228770"
+  },
+  {
+    "uid": "153858_9169_12283090_27991540",
+    "course_code": "I&E-252-01",
+    "title": "LEARNING TO FAIL.I&E-252-01.CMAC-252-01.ISS-252-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Fall 2023",
+    "area": "I&E",
+    "response_rate": "18 of 22  responded (81.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "CXKh9aSpy32PI3IeTeHnew%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228844"
+  },
+  {
+    "uid": "153858_9169_12283129_28112219",
+    "course_code": "ISS-112-01",
+    "title": "THE GOOGLIZATION OF KNOWLEDGE.ISS-112-01.CULANTH-112-01.PJMS-112-01.",
+    "instructor": "Daniel, Linda",
+    "term": "Fall 2023",
+    "area": "ISS",
+    "response_rate": "9 of 23  responded (39.13%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "0CGUV5NEPtJnnj%2bKVx7R0g%3d%3d",
+      "data-id3": "yYNbByl0ToPMOzAZQAPtOA%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "CULANTH",
+      "PJMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228917"
+  },
+  {
+    "uid": "153858_9169_12283171_28111888",
+    "course_code": "ISS-110-01",
+    "title": "INFORMATION, SOCIETY & CULTURE.ISS-110-01.COMPSCI-110-01.PHIL-110-01.PUBPOL-110-01.",
+    "instructor": "Giugni, Astrid",
+    "term": "Fall 2023",
+    "area": "ISS",
+    "response_rate": "9 of 16  responded (56.25%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "CtmkEaIRhsSP75R5T115eg%3d%3d",
+      "data-id2": "0rcy1anFwsofYF0PRPCHmw%3d%3d",
+      "data-id3": "PBf%2frrBlzAFamzHHO8LIwQ%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "COMPSCI",
+      "PHIL",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.228991"
+  },
+  {
+    "uid": "161337_9470_12750880_28112039",
+    "course_code": "ARTHIST-306S-01",
+    "title": "CREATIVE CARTOGRAPHY.ARTHIST-306S-01.ARTSVIS-306S-01.ISS-306S-01.",
+    "instructor": "Triplett, Edward",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 13  responded (53.85%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "w8MI60yH%2fHVRTcJpq%2f2mCA%3d%3d",
+      "data-id3": "0MsD1sOTUa1RprMonpNf8Q%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ARTSVIS",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.229062"
+  },
+  {
+    "uid": "161337_9470_12750942_27446001",
+    "course_code": "CULANTH-172-01",
+    "title": "ANTHROPOLOGY OF DESIGN AND UX.CULANTH-172-01.CMAC-172-01.I&E-172-01.ISS-172-01.SOCIOL-172-01.",
+    "instructor": "Baker, Lee",
+    "term": "Spring 2024",
+    "area": "CULANTHRO",
+    "response_rate": "13 of 29  responded (44.83%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "ETx02ZA4ypRTzyVzVahIzA%3d%3d",
+      "data-id3": "uJmh7CUQg%2frvDQy9mjaFKA%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "CMAC",
+      "I&E",
+      "ISS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.229135"
+  },
+  {
+    "uid": "161337_9470_12750960_27991730",
+    "course_code": "CLST-360-01",
+    "title": "HISTORY OF THE BOOK.CLST-360-01.HISTORY-367-01.ISS-360-01.MEDREN-346-01.",
+    "instructor": "Woods, Jennifer",
+    "term": "Spring 2024",
+    "area": "CLASSICAL",
+    "response_rate": "10 of 20  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "UU13wN9wKHNZ%2bPebtWRMFg%3d%3d",
+      "data-id3": "PN7aohsRiTF7ccCwQeZQcA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "ISS",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:24:05.229204"
+  },
+  {
+    "uid": "161337_9470_12751037_27991657",
+    "course_code": "ARTSVIS-198-01",
+    "title": "EXPERIMENTAL INTERFACE DESIGN.ARTSVIS-198-01.CMAC-198-01.ISS-198-01.VMS-198-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 9  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "fhub6jIrq1Qv1Rond0zQpQ%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.387638"
+  },
+  {
+    "uid": "161337_9470_12751095_28112107",
+    "course_code": "CINE-215-01",
+    "title": "HISTORY OF ANIMATED FILM.CINE-215-01.ISS-211-01.VMS-222-01.",
+    "instructor": "Herbert, Casey",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 35  responded (22.86%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "qFPFPfBjGLlDoGOaxphMhg%3d%3d",
+      "data-id3": "5Xul2zlOsrsTBQiiYQMr0Q%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.387829"
+  },
+  {
+    "uid": "161337_9470_12751258_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2024",
+    "area": "I&E",
+    "response_rate": "35 of 43  responded (81.40%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "diPedf6wyCrVt03YqSREGw%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.387924"
+  },
+  {
+    "uid": "161337_9470_12751300_27991707",
+    "course_code": "ARTHIST-305L-001",
+    "title": "VIRTUAL MUSEUMS.ARTHIST-305L-001.ARTSVIS-305L-001.CLST-240L-001.ISS-305L-001.VMS-332L-001.",
+    "instructor": "Forte, Maurizio",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 11  responded (54.55%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "2IfRs0kYs9aOfu4jFuJHkQ%3d%3d",
+      "data-id2": "USw4rBXyxgo8mdBtRSsYlQ%3d%3d",
+      "data-id3": "5YgJdEgqfwkv78eOl2QmQw%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ARTSVIS",
+      "CLST",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388007"
+  },
+  {
+    "uid": "161325_9470_12752141_28112039",
+    "course_code": "ARTHIST-719S-02",
+    "title": "CREATIVE CARTOGRAPHY.ARTHIST-719S-02.ARTSVIS-719S-02.CMAC-719S-02.ISS-719S-02.",
+    "instructor": "Triplett, Edward",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 13  responded (38.46%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "s5AEgkVh3dmXMgq0AIbAnw%3d%3d",
+      "data-id3": "0MsD1sOTUa1RprMonpNf8Q%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ARTSVIS",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388122"
+  },
+  {
+    "uid": "161325_9470_12752204_27446127",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Supko, John",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "85viLBsLqIvF%2f9oCN8kFdw%3d%3d",
+      "data-id3": "pk%2bXL7kU6nw3Z4chJauDCQ%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388428"
+  },
+  {
+    "uid": "161325_9470_12752204_27991657",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "85viLBsLqIvF%2f9oCN8kFdw%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388543"
+  },
+  {
+    "uid": "161325_9470_12752216_28112116",
+    "course_code": "COMPSCI-586-01",
+    "title": "USABLE SECURITY AND PRIVACY.COMPSCI-586-01.ECE-657-01.ISS-586-01.PUBPOL-586-01.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Spring 2024",
+    "area": "COMPSCI",
+    "response_rate": "9 of 31  responded (29.03%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "GlYX8YEBYWdfpWXsr2usRw%3d%3d",
+      "data-id2": "woa9Mq9HhV4EB4NzhSeshg%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388633"
+  },
+  {
+    "uid": "171571_9973_13645654_30096933",
+    "course_code": "CINE-757S-01",
+    "title": "EDITING FOR FILM AND VIDEO.CINE-757S-01.DOCST-757S-01.ISS-757S-01.VMS-757S-01.",
+    "instructor": "Lion, Jenny",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 6  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "L89dIwn5nnIsAQm4roRzcA%3d%3d",
+      "data-id3": "YeeZ6hHLf%2b954gMq42nrbg%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "DOCST",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388719"
+  },
+  {
+    "uid": "171571_9973_13645671_27991657",
+    "course_code": "ARTSVIS-510S-01",
+    "title": "BODY AS ELECTROCHEMICAL COMP.ARTSVIS-510S-01.CMAC-666S-01.ISS-666S-01.VMS-510S-01.",
+    "instructor": "Seaman, William",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "9 of 10  responded (90.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "bRpW7VcvgCDIGWl8f8Eesw%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388803"
+  },
+  {
+    "uid": "171571_9973_13645716_27446170",
+    "course_code": "VMS-565S-01",
+    "title": "NEW MEDIA, MEMORY, AND ARCHIVE.VMS-565S-01.CMAC-565S-01.ISS-565S-01.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 14  responded (50.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "wpyhrbXDnzncVWYG3KCp1A%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "VMS",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388886"
+  },
+  {
+    "uid": "171571_9973_13645726_27446170",
+    "course_code": "ARTHIST-581S-01",
+    "title": "HIST & CULT VIZ PROSEMINAR 2.ARTHIST-581S-01.CMAC-581S-01.HCVIS-581S-01.ISS-581S-01.VMS-581S-01.",
+    "instructor": "Olson, Mark",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 9  responded (55.56%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "q5OO4BI97gXGGxeB4X%2bILQ%3d%3d",
+      "data-id2": "3r2khbTkkD8ywzmZ6XT0Gg%3d%3d",
+      "data-id3": "nL9jzaU2TsH0Q7NyCraK9A%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "CMAC",
+      "HCVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.388968"
+  },
+  {
+    "uid": "171550_9973_13686552_28111888",
+    "course_code": "ISS-110-01",
+    "title": "INFORMATION, SOCIETY & CULTURE.ISS-110-01.COMPSCI-110-01.PHIL-110-01.PUBPOL-110-01.",
+    "instructor": "Giugni, Astrid",
+    "term": "Fall 2024",
+    "area": "ISS",
+    "response_rate": "8 of 8  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "hsoo11zsxGGFzZhADvS%2fIg%3d%3d",
+      "data-id3": "PBf%2frrBlzAFamzHHO8LIwQ%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "COMPSCI",
+      "PHIL",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.389050"
+  },
+  {
+    "uid": "171550_9973_13686567_27991540",
+    "course_code": "I&E-252-01",
+    "title": "LEARNING TO FAIL.I&E-252-01.CMAC-252-01.ISS-252-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Fall 2024",
+    "area": "I&E",
+    "response_rate": "19 of 22  responded (86.36%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "yP0fn9R5HxIIFVOltOq4AQ%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.389128"
+  },
+  {
+    "uid": "171550_9973_13686595_30187779",
+    "course_code": "ISS-310S-01",
+    "title": "ARCHIVES AS DATA.ISS-310S-01.CMAC-310S-01.VMS-310S-01.",
+    "instructor": "Jacobs, Hannah",
+    "term": "Fall 2024",
+    "area": "ISS",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "yis409z2dU7WL%2bksC3tZrw%3d%3d",
+      "data-id3": "Y4ES6xeYP4G8iFLLUY5%2bLg%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "CMAC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.389205"
+  },
+  {
+    "uid": "171550_9973_13686647_28112077",
+    "course_code": "AMES-435S-01",
+    "title": "CHINESE MEDIA AND POP CULTURE.AMES-435S-01.ISS-435S-01.POLSCI-435S-01.",
+    "instructor": "Liu, Kang",
+    "term": "Fall 2024",
+    "area": "AMES",
+    "response_rate": "13 of 17  responded (76.47%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98965",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "M%2bcPrDOE9dw4vXYgI9YqPw%3d%3d",
+      "data-id3": "ug84OTt3ty%2b9HZW03R9JiA%3d%3d"
+    },
+    "department_codes": [
+      "AMES",
+      "ISS",
+      "POLSCI"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.389284"
+  },
+  {
+    "uid": "171550_9973_13686664_29084382",
+    "course_code": "LIT-317S-01",
+    "title": "MEDIA THEORY.LIT-317S-01.CINE-204S-01.ISS-214S-01.VMS-328S-01.",
+    "instructor": "Pujol Leon, Ernest",
+    "term": "Fall 2024",
+    "area": "LITERATURE",
+    "response_rate": "7 of 10  responded (70.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99007",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "tEJqSGT%2bXdxbZZC%2bjhk3Ng%3d%3d",
+      "data-id3": "f4p4ZuYq40eqrlDNC%2fx11A%3d%3d"
+    },
+    "department_codes": [
+      "LIT",
+      "CINE",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.390120"
+  },
+  {
+    "uid": "171550_9973_13686740_28112116",
+    "course_code": "COMPSCI-226-01",
+    "title": "USER RESEARCH METHODS.COMPSCI-226-01.ECE-253-01.ISS-266-01.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Fall 2024",
+    "area": "COMPSCI",
+    "response_rate": "18 of 44  responded (40.91%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98976",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "m0cX82sbmyKN%2bq5ixkaLLQ%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.390202"
+  },
+  {
+    "uid": "171550_9973_13686804_28111933",
+    "course_code": "CMAC-125L-001",
+    "title": "FOUNDATIONS OF GAME DESIGN.CMAC-125L-001.ISS-125L-001.VMS-125L-001.",
+    "instructor": "Miller, Marshall",
+    "term": "Fall 2024",
+    "area": "CMAC",
+    "response_rate": "5 of 20  responded (25.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98975",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "rHaTJcaOeouTW0ng%2fysLQA%3d%3d",
+      "data-id3": "wHiFe6QY1ivjO0WijJuLCw%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.390280"
+  },
+  {
+    "uid": "171550_9973_13686838_28112050",
+    "course_code": "ARTSVIS-209-01",
+    "title": "3D MODELING AND ANIMATION.ARTSVIS-209-01.CINE-351-01.CMAC-351-01.ISS-209-01.VMS-351-01.",
+    "instructor": "Salvatella De Prada, Raquel",
+    "term": "Fall 2024",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 15  responded (33.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "HP8zYvgHMu4RgRcgcT4J7g%3d%3d",
+      "data-id3": "3JRaQBnEubnMnQZJEYrNZg%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CINE",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:06.390356"
+  },
+  {
+    "uid": "171550_9973_13686879_28112219",
+    "course_code": "ISS-112-01",
+    "title": "THE GOOGLIZATION OF KNOWLEDGE.ISS-112-01.CULANTH-112-01.JAM-112-01.",
+    "instructor": "Daniel, Linda",
+    "term": "Fall 2024",
+    "area": "ISS",
+    "response_rate": "8 of 19  responded (42.11%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "99003",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "orlByv8VbMbfktd4BEpQ8w%3d%3d",
+      "data-id3": "yYNbByl0ToPMOzAZQAPtOA%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "CULANTH",
+      "JAM"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.238914"
+  },
+  {
+    "uid": "171550_9973_13686902_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Fall 2024",
+    "area": "I&E",
+    "response_rate": "26 of 41  responded (63.41%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "YgV%2fL%2bBBQP1%2fm%2fx2ayVf6g%3d%3d",
+      "data-id2": "W3Uqk%2bz0OXVPuCi%2bW0vvIg%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239011"
+  },
+  {
+    "uid": "179255_10319_14225161_27446127",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Supko, John",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "MbL8%2fdQ7zOc81pkYysTpug%3d%3d",
+      "data-id3": "pk%2bXL7kU6nw3Z4chJauDCQ%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239091"
+  },
+  {
+    "uid": "179255_10319_14225161_27991657",
+    "course_code": "ARTSVIS-575S-01",
+    "title": "GENERATIVE MEDIA AUTHORSHIP.ARTSVIS-575S-01.CMAC-575S-01.ISS-575S-01.MUSIC-575S-01.VMS-575S-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "7 of 7  responded (100.00%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "MbL8%2fdQ7zOc81pkYysTpug%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "MUSIC",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239170"
+  },
+  {
+    "uid": "179255_10319_14225164_28807964",
+    "course_code": "ISS-536S-01",
+    "title": "PUBLIC HISTORY & MEMORY.ISS-536S-01.HISTORY-536S-01.VMS-536S-01.",
+    "instructor": "Buerglener, Robert",
+    "term": "Spring 2025",
+    "area": "ISS",
+    "response_rate": "5 of 11  responded (45.45%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98854",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "DtxwYPYyaLAPBVOQw9WpCg%3d%3d",
+      "data-id3": "%2fTh0F73Q%2fo5hlvAB1xpwcQ%3d%3d"
+    },
+    "department_codes": [
+      "ISS",
+      "HISTORY",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239245"
+  },
+  {
+    "uid": "179255_10319_14225166_28112116",
+    "course_code": "COMPSCI-586-01",
+    "title": "USABLE SECURITY AND PRIVACY.COMPSCI-586-01.ECE-657-01.ISS-586-01.PUBPOL-586-01.",
+    "instructor": "Emami Naeini, Pardis",
+    "term": "Spring 2025",
+    "area": "COMPSCI",
+    "response_rate": "14 of 38  responded (36.84%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98827",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "ws3A3akfSrHfm2WOI0f4DQ%3d%3d",
+      "data-id3": "ZA5u8xvLfOB60C4hbk35kg%3d%3d"
+    },
+    "department_codes": [
+      "COMPSCI",
+      "ECE",
+      "ISS",
+      "PUBPOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239323"
+  },
+  {
+    "uid": "179255_10319_14225209_28112039",
+    "course_code": "ARTHIST-719S-01",
+    "title": "CREATIVE CARTOGRAPHY.ARTHIST-719S-01.ARTSVIS-719S-01.CMAC-719S-01.ISS-719S-01.",
+    "instructor": "Triplett, Edward",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "6 of 13  responded (46.15%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98816",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "TuwbqeHYtyj1qdkc5%2b0Gyw%3d%3d",
+      "data-id3": "0MsD1sOTUa1RprMonpNf8Q%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ARTSVIS",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239398"
+  },
+  {
+    "uid": "179255_10319_14225228_27445874",
+    "course_code": "CMAC-660S-01",
+    "title": "GAMES, PLAY, AND SELFHOOD.CMAC-660S-01.AMES-660S-01.GSF-660S-01.ISS-660S-01.VMS-660S-01.",
+    "instructor": "Ginsburg, Shai",
+    "term": "Spring 2025",
+    "area": "CMAC",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "UZAwsy80ltqhYP387r6iFw%3d%3d",
+      "data-id3": "RLn6Ohgo9wAGJHGB9ltrjA%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "AMES",
+      "GSF",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239471"
+  },
+  {
+    "uid": "179255_10319_14225228_27446185",
+    "course_code": "CMAC-660S-01",
+    "title": "GAMES, PLAY, AND SELFHOOD.CMAC-660S-01.AMES-660S-01.GSF-660S-01.ISS-660S-01.VMS-660S-01.",
+    "instructor": "Szabo, Victoria",
+    "term": "Spring 2025",
+    "area": "CMAC",
+    "response_rate": "5 of 12  responded (41.67%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98825",
+      "data-id1": "1bIssf4suJZu%2bqhY%2bpldxA%3d%3d",
+      "data-id2": "UZAwsy80ltqhYP387r6iFw%3d%3d",
+      "data-id3": "BvecyrNpmuZAIglCF9YS2g%3d%3d"
+    },
+    "department_codes": [
+      "CMAC",
+      "AMES",
+      "GSF",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239547"
+  },
+  {
+    "uid": "179281_10319_14261875_28112107",
+    "course_code": "CINE-215-01",
+    "title": "HISTORY OF ANIMATED FILM.CINE-215-01.ISS-211-01.VMS-222-01.",
+    "instructor": "Herbert, Casey",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "8 of 21  responded (38.10%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "2r0kuWWZdoGSbk85pszo1g%3d%3d",
+      "data-id3": "5Xul2zlOsrsTBQiiYQMr0Q%3d%3d"
+    },
+    "department_codes": [
+      "CINE",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239626"
+  },
+  {
+    "uid": "179281_10319_14261919_27991730",
+    "course_code": "CLST-360-01",
+    "title": "HISTORY OF THE BOOK.CLST-360-01.HISTORY-367-01.ISS-360-01.MEDREN-346-01.",
+    "instructor": "Woods, Jennifer",
+    "term": "Spring 2025",
+    "area": "CLASSICAL",
+    "response_rate": "5 of 21  responded (23.81%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98974",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "0VsdcG%2fQonv2Ly5sxHtVag%3d%3d",
+      "data-id3": "PN7aohsRiTF7ccCwQeZQcA%3d%3d"
+    },
+    "department_codes": [
+      "CLST",
+      "HISTORY",
+      "ISS",
+      "MEDREN"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239770"
+  },
+  {
+    "uid": "179281_10319_14261993_27445847",
+    "course_code": "GSF-265S-01",
+    "title": "DIGITAL FEMINISM.GSF-265S-01.CMAC-265S-01.COMPSCI-112S-01.I&E-265S-01.ISS-265S-01.SOCIOL-217S-01.VMS-286S-01.",
+    "instructor": "Henschel, Lauren",
+    "term": "Spring 2025",
+    "area": "GSF",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "q%2fSBioa5K8gpeUbzNR1otQ%3d%3d",
+      "data-id3": "GGmw1Ir1r%2fMIlJiyRwBb0Q%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "CMAC",
+      "COMPSCI",
+      "I&E",
+      "ISS",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239867"
+  },
+  {
+    "uid": "179281_10319_14261993_28112034",
+    "course_code": "GSF-265S-01",
+    "title": "DIGITAL FEMINISM.GSF-265S-01.CMAC-265S-01.COMPSCI-112S-01.I&E-265S-01.ISS-265S-01.SOCIOL-217S-01.VMS-286S-01.",
+    "instructor": "Gelfand, Rachel",
+    "term": "Spring 2025",
+    "area": "GSF",
+    "response_rate": "10 of 17  responded (58.82%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98996",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "q%2fSBioa5K8gpeUbzNR1otQ%3d%3d",
+      "data-id3": "I222ioYFwEO7qHXxdme02w%3d%3d"
+    },
+    "department_codes": [
+      "GSF",
+      "CMAC",
+      "COMPSCI",
+      "I&E",
+      "ISS",
+      "SOCIOL",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.239957"
+  },
+  {
+    "uid": "179281_10319_14262025_27991540",
+    "course_code": "I&E-250-01",
+    "title": "BUILDING GLOBAL AUDIENCES.I&E-250-01.ISS-250-01.VMS-249-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2025",
+    "area": "I&E",
+    "response_rate": "14 of 29  responded (48.28%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "dxR164dTqRo970WsPDV34A%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240037"
+  },
+  {
+    "uid": "179281_10319_14262059_27991540",
+    "course_code": "I&E-252-01",
+    "title": "LEARNING TO FAIL.I&E-252-01.CMAC-252-01.ISS-252-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2025",
+    "area": "I&E",
+    "response_rate": "15 of 21  responded (71.43%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "nLcqU6BipzgX%2fPL%2bICcHEQ%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240113"
+  },
+  {
+    "uid": "179281_10319_14262066_28596330",
+    "course_code": "ARTSVIS-223-01",
+    "title": "GRAPHIC DESIGN IN MULTIMEDIA.ARTSVIS-223-01.ISS-396-01.VMS-396-01.",
+    "instructor": "Lehner, Tash",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "16 of 17  responded (94.12%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "HIu05jspXgpAcxOxVOhGIA%3d%3d",
+      "data-id3": "KqkTUO29cYUE6koQNl98kw%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240186"
+  },
+  {
+    "uid": "179281_10319_14262099_28112039",
+    "course_code": "ARTHIST-306S-01",
+    "title": "CREATIVE CARTOGRAPHY.ARTHIST-306S-01.ARTSVIS-306S-01.ISS-306S-01.",
+    "instructor": "Triplett, Edward",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "5 of 14  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "RJu05ktPouhOhX3U5ymWjQ%3d%3d",
+      "data-id3": "0MsD1sOTUa1RprMonpNf8Q%3d%3d"
+    },
+    "department_codes": [
+      "ARTHIST",
+      "ARTSVIS",
+      "ISS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240263"
+  },
+  {
+    "uid": "179281_10319_14262125_27991540",
+    "course_code": "I&E-253-01",
+    "title": "SOCIAL MARKETING.I&E-253-01.CMAC-253-01.ISS-253-01.VMS-255-01.WRITING-253-01.",
+    "instructor": "Dinin, Aaron",
+    "term": "Spring 2025",
+    "area": "I&E",
+    "response_rate": "25 of 39  responded (64.10%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98999",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "%2bP5bJwvvubjRfa9%2f%2fNjUdA%3d%3d",
+      "data-id3": "lEcO8z%2bUbcEi0GRRy2h3AA%3d%3d"
+    },
+    "department_codes": [
+      "I&E",
+      "CMAC",
+      "ISS",
+      "VMS",
+      "WRITING"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240341"
+  },
+  {
+    "uid": "179281_10319_14262201_27991657",
+    "course_code": "ARTSVIS-198-01",
+    "title": "EXPERIMENTAL INTERFACE DESIGN.ARTSVIS-198-01.CMAC-198-01.ISS-198-01.VMS-198-01.",
+    "instructor": "Seaman, William",
+    "term": "Spring 2025",
+    "area": "ART&AHIST",
+    "response_rate": "10 of 12  responded (83.33%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98967",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "V6ndyjqIW0KUSWUKQ2zp%2fA%3d%3d",
+      "data-id3": "4Nj%2bygE1G78Fra3nK1g3CA%3d%3d"
+    },
+    "department_codes": [
+      "ARTSVIS",
+      "CMAC",
+      "ISS",
+      "VMS"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240415"
+  },
+  {
+    "uid": "179281_10319_14262383_27446001",
+    "course_code": "CULANTH-172-01",
+    "title": "ANTHROPOLOGY OF DESIGN AND UX.CULANTH-172-01.CMAC-172-01.I&E-172-01.ISS-172-01.SOCIOL-172-01.",
+    "instructor": "Baker, Lee",
+    "term": "Spring 2025",
+    "area": "CULANTHRO",
+    "response_rate": "15 of 42  responded (35.71%)\n\n\n\n View Report\r\n                            \n\n\n\n Download PDF",
+    "data_ids": {
+      "data-id0": "98978",
+      "data-id1": "z7Dsht4caaqNbXz0r4KoNA%3d%3d",
+      "data-id2": "bAd5PFpT2etByCTTN5dhVA%3d%3d",
+      "data-id3": "uJmh7CUQg%2frvDQy9mjaFKA%3d%3d"
+    },
+    "department_codes": [
+      "CULANTH",
+      "CMAC",
+      "I&E",
+      "ISS",
+      "SOCIOL"
+    ],
+    "scraped_at": "2025-11-24T16:24:07.240489"
+  }
+]

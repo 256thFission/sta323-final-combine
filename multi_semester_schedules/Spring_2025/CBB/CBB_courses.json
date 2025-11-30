@@ -1,0 +1,636 @@
+[
+  {
+    "index": 1,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "014567",
+    "crse_offer_nbr": 1,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/07/2026",
+    "end_dt": "04/15/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8709,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "SEM",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "510S",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Credit / No Credit",
+    "wait_tot": 0,
+    "wait_cap": 30,
+    "class_capacity": 30,
+    "enrollment_total": 18,
+    "enrollment_available": 12,
+    "descr": "Computational Biology Seminar",
+    "rqmnt_designtn": "",
+    "units": "1",
+    "combined_section": "N",
+    "enrl_stat": "O",
+    "enrl_stat_descr": "Open",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "Elizabeth Hauser",
+        "email": "elizabeth.hauser@duke.edu"
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      }
+    ],
+    "section_type": "SEM",
+    "meetings": [
+      {
+        "days": "Mo",
+        "start_time": "12.00.00.000000",
+        "end_time": "13.00.00.000000",
+        "start_dt": "01/07/2026",
+        "end_dt": "04/15/2026",
+        "bldg_cd": "7738",
+        "bldg_has_coordinates": true,
+        "facility_descr": "French Science 4233",
+        "room": "4233",
+        "facility_id": "77384233",
+        "instructor": "Elizabeth Hauser,\n\r-,\n\r-,\n\r-,\n\r-"
+      }
+    ],
+    "crse_attr": "BLTN,COMP,REG",
+    "crse_attr_value": "BLTN-01-G,BLTN-01-Z,COMP-*,REG-CONV",
+    "reserve_caps": [],
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "A weekly series of seminars on topics in computational biology presented by invited speakers, Duke faculty and CBB doctoral and certificate students. This course is required for all first and second year CBB students. In addition, all certificate students must register and receive credit for the seminar for four semesters"
+  },
+  {
+    "index": 2,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "015531",
+    "crse_offer_nbr": 2,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/07/2026",
+    "end_dt": "04/15/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8712,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "LEC",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "511",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Graded",
+    "wait_tot": 0,
+    "wait_cap": 30,
+    "class_capacity": 30,
+    "enrollment_total": 15,
+    "enrollment_available": 15,
+    "descr": "Journal Club",
+    "rqmnt_designtn": "",
+    "units": "1",
+    "combined_section": "N",
+    "enrl_stat": "O",
+    "enrl_stat_descr": "Open",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "Elizabeth Hauser",
+        "email": "elizabeth.hauser@duke.edu"
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      }
+    ],
+    "section_type": "Lecture",
+    "meetings": [
+      {
+        "days": "We",
+        "start_time": "15.30.00.000000",
+        "end_time": "16.30.00.000000",
+        "start_dt": "01/07/2026",
+        "end_dt": "04/15/2026",
+        "bldg_cd": "7540",
+        "bldg_has_coordinates": true,
+        "facility_descr": "GSRB I 4002",
+        "room": "4002",
+        "facility_id": "75404002",
+        "instructor": "-,\n\rElizabeth Hauser,\n\r-,\n\r-,\n\r-"
+      }
+    ],
+    "crse_attr": "BLTN,CURR,REG,USE",
+    "crse_attr_value": "BLTN-01-Z,BLTN-G,CURR-R,REG-CONV,USE-NS",
+    "reserve_caps": [],
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "A weekly series of discussions led by students that focus on current topics in computational biology. Topics of discussion may come from recent or seminal publications in computational biology or from research interests currently being pursued by students. First and second year CBB doctoral and certificate students are strongly encouraged to attend as well as any student interested in learning more about the new field of computational biology"
+  },
+  {
+    "index": 3,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "015067",
+    "crse_offer_nbr": 1,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/07/2026",
+    "end_dt": "04/15/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8710,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "LEC",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "540",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Graded",
+    "wait_tot": 3,
+    "wait_cap": 20,
+    "class_capacity": 20,
+    "enrollment_total": 20,
+    "enrollment_available": 0,
+    "descr": "Statistical Methods for Computational Biology",
+    "rqmnt_designtn": "",
+    "units": "3",
+    "combined_section": "Y",
+    "combined_descr": "This is a combined section class",
+    "enrl_stat": "W",
+    "enrl_stat_descr": "Wait List",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "Scott C Schmidler",
+        "email": "scott.schmidler@duke.edu"
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      }
+    ],
+    "section_type": "Lecture",
+    "meetings": [
+      {
+        "days": "MoWe",
+        "start_time": "13.25.00.000000",
+        "end_time": "14.40.00.000000",
+        "start_dt": "01/07/2026",
+        "end_dt": "04/15/2026",
+        "bldg_cd": "7704",
+        "bldg_has_coordinates": true,
+        "facility_descr": "Perkins LINK 072 (Classroom 6)",
+        "room": "072",
+        "facility_id": "7704072",
+        "instructor": "Scott C Schmidler,\n\r-,\n\r-,\n\r-,\n\r-"
+      }
+    ],
+    "crse_attr": "BLTN,REG",
+    "crse_attr_value": "BLTN-01-G,BLTN-01-Z,REG-C",
+    "reserve_caps": [],
+    "reserved_combined_info": {
+      "class_enrl_cap": 20,
+      "combined_enrl_cap": 20,
+      "enrl_tot_other_combined": 2
+    },
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "Methods of statistical inference and stochastic modeling with application to functional genomics and computational molecular biology. Topics include: statistical theory underlying sequence analysis and database searching; Markov models; elements of Bayesian and likelihood inference; multivariate high-dimensional regression models, applied linear regress analysis; discrete data models; multivariate data decomposition methods (PCA, clustering, multi-dimensional scaling); software tools for statistical computing. Prerequisites: multivariate calculus, linear algebra and Statistical Science 611."
+  },
+  {
+    "index": 4,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "014451",
+    "crse_offer_nbr": 1,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/07/2026",
+    "end_dt": "04/15/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8685,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "LEC",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "590",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Graded",
+    "wait_tot": 10,
+    "wait_cap": 20,
+    "class_capacity": 20,
+    "enrollment_total": 23,
+    "enrollment_available": 0,
+    "descr": "Special Topics in Computational Biology",
+    "rqmnt_designtn": "",
+    "units": "3",
+    "combined_section": "Y",
+    "combined_descr": "This is a combined section class",
+    "enrl_stat": "W",
+    "enrl_stat_descr": "Wait List",
+    "topic": "COMP BIOLOGY SEMINAR",
+    "instructors": [
+      {
+        "name": "Bruce Donald",
+        "email": "brd@cs.duke.edu"
+      }
+    ],
+    "section_type": "Lecture",
+    "meetings": [
+      {
+        "days": "Tu",
+        "start_time": "13.25.00.000000",
+        "end_time": "15.55.00.000000",
+        "start_dt": "01/07/2026",
+        "end_dt": "04/15/2026",
+        "bldg_cd": "7756",
+        "bldg_has_coordinates": true,
+        "facility_descr": "North Building 311",
+        "room": "311",
+        "facility_id": "7756311",
+        "instructor": "Bruce Donald"
+      }
+    ],
+    "crse_attr": "BLTN,COMP,CURR,REG,TRIN,USE",
+    "crse_attr_value": "BLTN-01-G,BLTN-01-Z,COMP-TOP,CURR-R,REG-NOSU,TRIN-NW,TRIN-QC,USE-NS,USE-QS",
+    "reserve_caps": [],
+    "reserved_combined_info": {
+      "class_enrl_cap": 20,
+      "combined_enrl_cap": 20,
+      "enrl_tot_other_combined": 15
+    },
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": ""
+  },
+  {
+    "index": 5,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "017832",
+    "crse_offer_nbr": 1,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/05/2026",
+    "end_dt": "04/24/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8713,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "IND",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "591",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Credit / No Credit",
+    "wait_tot": 0,
+    "wait_cap": 30,
+    "class_capacity": 30,
+    "enrollment_total": 4,
+    "enrollment_available": 26,
+    "descr": "Independent Study",
+    "rqmnt_designtn": "",
+    "units": "1 - 9",
+    "combined_section": "N",
+    "enrl_stat": "O",
+    "enrl_stat_descr": "Open",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "David Edwin Carlson",
+        "email": "david.carlson@duke.edu"
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      }
+    ],
+    "section_type": "IND",
+    "meetings": [
+      {
+        "days": "TBA",
+        "start_time": "",
+        "end_time": "",
+        "start_dt": "01/05/2026",
+        "end_dt": "04/24/2026",
+        "facility_id": "TBA",
+        "facility_descr": "TBA",
+        "instructor": "David Edwin Carlson,\n\r-,\n\r-,\n\r-,\n\r-"
+      }
+    ],
+    "crse_attr": "BLTN,COMP,REG",
+    "crse_attr_value": "BLTN-01-G,BLTN-01-Z,COMP-IND,REG-CONV",
+    "reserve_caps": [],
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "Faculty directed experimental or theoretical research."
+  },
+  {
+    "index": 6,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "018910",
+    "crse_offer_nbr": 1,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/01/2026",
+    "end_dt": "05/08/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8714,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "INR",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "700",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Credit / No Credit",
+    "wait_tot": 0,
+    "wait_cap": 30,
+    "class_capacity": 30,
+    "enrollment_total": 0,
+    "enrollment_available": 30,
+    "descr": "Internship",
+    "rqmnt_designtn": "",
+    "units": "1",
+    "combined_section": "N",
+    "enrl_stat": "O",
+    "enrl_stat_descr": "Open",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "David Edwin Carlson",
+        "email": "david.carlson@duke.edu"
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      }
+    ],
+    "section_type": "INR",
+    "meetings": [
+      {
+        "days": "TBA",
+        "start_time": "",
+        "end_time": "",
+        "start_dt": "01/01/2026",
+        "end_dt": "05/08/2026",
+        "facility_id": "TBA",
+        "facility_descr": "TBA",
+        "instructor": "David Edwin Carlson,\n\r-,\n\r-,\n\r-,\n\r-"
+      }
+    ],
+    "crse_attr": "BLTN,REG",
+    "crse_attr_value": "BLTN-01-G,REG-D",
+    "reserve_caps": [],
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "Student gains practical experience by taking an internship in industry, and writes a report about this experience. Requires prior consent from the student's advisor and from the director of graduate studies. May be repeated with consent of the advisor and the director of graduate studies. Credit/no credit grading only."
+  },
+  {
+    "index": 7,
+    "institution": "DUKEU",
+    "institution_descr": "Duke University",
+    "crse_id": "029414",
+    "crse_offer_nbr": 2,
+    "strm": "1950",
+    "session_code": "1",
+    "session_descr": "Regular Academic Session",
+    "class_section": "01",
+    "location": "DURHAM",
+    "location_descr": "Durham",
+    "start_dt": "01/07/2026",
+    "end_dt": "04/15/2026",
+    "class_stat": "A",
+    "campus": "DUKE",
+    "campus_descr": "Duke University",
+    "class_nbr": 8327,
+    "acad_career": "GRAD",
+    "acad_career_descr": "Graduate",
+    "component": "LEC",
+    "subject": "CBB",
+    "subject_descr": "Computational Bio Bioinformat",
+    "catalog_nbr": "916",
+    "class_type": "E",
+    "schedule_print": "Y",
+    "acad_group": "A&S",
+    "instruction_mode": "P",
+    "instruction_mode_descr": "In Person",
+    "acad_org": "CBB",
+    "grading_basis": "Credit / No Credit",
+    "wait_tot": 0,
+    "wait_cap": 0,
+    "class_capacity": 30,
+    "enrollment_total": 0,
+    "enrollment_available": 30,
+    "descr": "Career Development and Prep II",
+    "rqmnt_designtn": "",
+    "units": "1",
+    "combined_section": "Y",
+    "combined_descr": "This is a combined section class",
+    "enrl_stat": "O",
+    "enrl_stat_descr": "Open",
+    "topic": "",
+    "instructors": [
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "Laura Coutts",
+        "email": "laura.coutts@duke.edu"
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      },
+      {
+        "name": "-",
+        "email": ""
+      }
+    ],
+    "section_type": "Lecture",
+    "meetings": [
+      {
+        "days": "Tu",
+        "start_time": "15.05.00.000000",
+        "end_time": "16.20.00.000000",
+        "start_dt": "01/07/2026",
+        "end_dt": "04/15/2026",
+        "bldg_cd": "8141",
+        "bldg_has_coordinates": true,
+        "facility_descr": "Hock Plaza 11025",
+        "room": "11025",
+        "facility_id": "814111025",
+        "instructor": "-,\n\rLaura Coutts,\n\r-,\n\r-,\n\r-,\n\r-,\n\r-"
+      }
+    ],
+    "crse_attr": "BLTN,REG",
+    "crse_attr_value": "BLTN-01-G,REG-C,REG-D",
+    "reserve_caps": [],
+    "reserved_combined_info": {
+      "class_enrl_cap": 30,
+      "combined_enrl_cap": 30,
+      "enrl_tot_other_combined": 0
+    },
+    "isInCart": false,
+    "isEnrolled": false,
+    "isWaitlisted": false,
+    "icons": [],
+    "catalog_description": "Students gain a holistic view of career choices and how to structure a targeted job search. The curriculum focuses on exploring different career options in academia or industry, communicating unique value to employers, and organizing a job search. May be repeated with the consent of the advisor and the Director of Graduate Studies."
+  }
+]
