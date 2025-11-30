@@ -1,0 +1,113 @@
+---
+title: "instructorrank"
+format: pdf
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(stringr)
+library(tidyr)
+library(purrr)
+```
+
+```{r}
+responsessta <- read_csv("C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim/STA/evaluations_responses.csv")
+
+responsesstatsci <- read_csv("C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim/STATSCI/evaluations_responses.csv")
+
+statdept <- rbind(responsessta, responsesstatsci)
+
+```
+
+```{r}
+make_prop_table <- function(department,
+                            base_dir = "C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim",
+                            min_total = 30) {
+  csv_path <- file.path(base_dir, department, "evaluations_responses.csv")
+  department_df <- read_csv(csv_path, show_col_types = FALSE)
+  department_df <- department_df |>
+    mutate(course_clean = str_extract(course, "[A-Za-z]+-\\d+"))
+  instructorrank <- department_df |>
+    filter(question_number == 3) |>
+    mutate(weight_num = as.integer(str_extract(weight, "\\d+"))) |>
+    filter(!is.na(weight_num)) |>
+    mutate(
+      good_val = weight_num %in% c(4, 5),
+      bad_val  = weight_num %in% c(1, 2, 3)
+    ) |>
+    group_by(instructor) |>
+    summarize(
+      good  = sum(frequency[good_val], na.rm = TRUE),
+      bad   = sum(frequency[bad_val], na.rm = TRUE),
+      total = good + bad,
+      .groups = "drop"
+    ) |>
+    filter(total > min_total) |>
+    mutate(
+      prop_good = good / total,
+      prop_bad  = bad / total
+    ) |>
+    arrange(desc(prop_good))
+
+  courserank <- department_df |>
+    filter(question_number == 5) |>
+    mutate(weight_num = as.integer(str_extract(weight, "\\d+"))) |>
+    filter(!is.na(weight_num)) |>
+    mutate(
+      good_val = weight_num %in% c(4, 5),
+      bad_val  = weight_num %in% c(1, 2, 3)
+    ) |>
+    group_by(course = course_clean) |>
+    summarize(
+      good  = sum(frequency[good_val], na.rm = TRUE),
+      bad   = sum(frequency[bad_val], na.rm = TRUE),
+      total = good + bad,
+      .groups = "drop"
+    ) |>
+    filter(total > min_total) |>
+    mutate(
+      prop_good = good / total,
+      prop_bad  = bad / total
+    ) |>
+    arrange(desc(prop_good))
+
+  combo_df <- department_df |>
+    select(instructor, course = course_clean) |>
+    distinct() |>
+    semi_join(instructorrank, by = "instructor") |>
+    semi_join(courserank, by = "course") |>
+    left_join(instructorrank %>% select(instructor, instr_prop_good = prop_good),
+              by = "instructor") |>
+    left_join(courserank %>% select(course, course_prop_good = prop_good),
+              by = "course") |>
+    mutate(prop_good_combo = instr_prop_good * course_prop_good) |>
+    distinct(instructor, course, .keep_all = TRUE) |>
+    arrange(desc(prop_good_combo))
+
+  print(combo_df)
+  
+  return(combo_df)
+}
+
+```
+
+```{r}
+ggplot(prop_per_inst, aes(x = prop_good)) +
+  geom_histogram()
+
+ggplot(prop_per_inst, aes(x = bad, y = good)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE)
+
+ggplot(prop_per_inst, aes(x = instructor, y = prop_good)) +
+  geom_point()
+
+
+lelele <- make_prop_table("STA")
+ggplot(lelele, aes(x = instr_prop_good, y = course_prop_good)) +
+    geom_point()
+```
+
+

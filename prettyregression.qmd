@@ -1,0 +1,168 @@
+---
+title: "prettycourseanalysis"
+format: pdf
+editor: visual
+---
+
+```{r}
+library(dplyr)
+library(stringr)
+library(tidyr)
+library(purrr)
+```
+
+
+```{r}
+# note that I expect our app to have a dropdown for qnum, group_a, and group_b
+#note may need to build out infrastructure for responses and questions dfs for other departments if we want to do that
+
+welch_test_summary <- function(m1, s1, n1, m2, s2, n2) {
+  se <- sqrt(s1^2 / n1 + s2^2 / n2)
+  t  <- (m1 - m2) / se
+
+  df <- (s1^2 / n1 + s2^2 / n2)^2 /
+    ((s1^2 / n1)^2 / (n1 - 1) + (s2^2 / n2)^2 / (n2 - 1))
+
+  p  <- 2 * pt(abs(t), df = df, lower.tail = FALSE)
+
+  tibble(t = t, df = df, p_value = p)
+}
+
+analyze_question <- function(qnum, questions_df, responses_df, group_a, group_b) {
+
+  output <- match.arg(output)
+
+  patt_a <- paste0(group_a, collapse = "|")
+  patt_b <- paste0(group_b, collapse = "|")
+
+  assign_group <- function(df) {
+    df |>
+      mutate(group = case_when(str_detect(course, patt_a) ~ "A",
+                               str_detect(course, patt_b) ~ "B",
+                               TRUE ~ NA_character_)) |>
+      filter(!is.na(group))
+  }
+
+  if (qnum == 9L) {courses_q <- questions_df |>
+      filter(question_number == qnum, !is.na(response_rate)) |>
+      assign_group()
+
+    if (nrow(courses_q) == 0) {
+      warning("No rows found for question ", qnum, " with the provided group patterns.")
+      return(NULL)
+    }
+
+    agg_groups <- courses_q |>
+      group_by(question_number, group) |>
+      summarise(n = sum(total_responses, na.rm = TRUE),
+                mean = sum(mean * total_responses, na.rm = TRUE) / sum(total_responses, na.rm = TRUE),
+                sd_within = sum(std * total_responses, na.rm = TRUE) / sum(total_responses, na.rm = TRUE),
+                .groups = "drop")
+
+    joined <- agg_groups |>
+      pivot_wider(names_from = group,
+                  values_from = c(n, mean, sd_within),
+                  names_sep = "_")
+
+    if (nrow(joined) == 0) {
+      warning("No aggregated result after pivot. Check data and patterns.")
+      return(NULL)
+    }
+
+    test_row <- welch_test_summary(
+      m1 = joined$mean_A, s1 = joined$sd_within_A, n1 = joined$n_A,
+      m2 = joined$mean_B, s2 = joined$sd_within_B, n2 = joined$n_B
+    )
+
+    single_row <- tibble(question_number = joined$question_number,
+                         n_A = joined$n_A, n_B = joined$n_B,
+                         mean_A = joined$mean_A, mean_B = joined$mean_B,
+                         sd_A = joined$sd_within_A, sd_B = joined$sd_within_B) |>
+      bind_cols(test_row)
+
+    return(single_row)
+
+  } else {
+    courses_r <- responses_df |>
+      filter(question_number == qnum, !is.na(response_rate)) |>
+      mutate(weight_num = as.integer(str_extract(weight, "\\d+"))) |>
+      filter(!is.na(weight_num)) |>
+      mutate(good_val = weight_num %in% c(4,5),
+             bad_val  = weight_num %in% c(1,2,3)) |>
+      assign_group()
+
+    if (nrow(courses_r) == 0) {
+      warning("No rows found for question ", qnum, " with the provided group patterns.")
+      return(NULL)
+    }
+
+    per_sem_course <- courses_r |>
+      group_by(semester, course, question_number, group) |>
+      summarize(
+        good = sum(frequency[good_val], na.rm = TRUE),
+        bad  = sum(frequency[bad_val], na.rm = TRUE),
+        total = good + bad,
+        .groups = "drop"
+      )
+
+    per_question <- per_sem_course |>
+      group_by(question_number, group) |>
+      summarise(
+        good = sum(good, na.rm = TRUE),
+        bad  = sum(bad, na.rm = TRUE),
+        total = sum(total, na.rm = TRUE),
+        .groups = "drop"
+      )
+
+    joined <- per_question |>
+      pivot_wider(names_from = group, values_from = c(good, bad, total), names_sep = "_")
+
+    if (nrow(joined) == 0) {
+      warning("No aggregated group row available.")
+      return(NULL)
+    }
+
+    x <- c(joined$good_A %||% 0, joined$good_B %||% 0)
+    n <- c(joined$total_A %||% 0, joined$total_B %||% 0)
+
+    if (any(n == 0)) {
+      warning("One of the groups has total = 0; prop.test may be invalid.")
+    }
+
+    p_value <- tryCatch({
+      prop.test(x = x, n = n, correct = FALSE)$p.value
+    }, error = function(e) NA_real_)
+
+    prop_A <- ifelse(n[1] > 0, x[1] / n[1], NA_real_)
+    prop_B <- ifelse(n[2] > 0, x[2] / n[2], NA_real_)
+    diff   <- prop_A - prop_B
+
+    result_tbl <- tibble(
+      question_number = qnum,
+      good_A = x[1], total_A = n[1], prop_A = prop_A,
+      good_B = x[2], total_B = n[2], prop_B = prop_B,
+      diff = diff,
+      p_value = p_value
+    )
+    
+    return(result_tbl)
+  }
+}
+
+`%||%` <- function(a, b) if (is.null(a)) b else a
+```
+
+
+```{r}
+questions <- read_csv("C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim/STA/evaluations_questions.csv")
+
+responses <- read_csv("C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim/STA/evaluations_responses.csv")
+```
+
+```{r}
+
+out_q9 <- analyze_question(5, questions, responses, group_a = c("221"), group_b = c("210","211"))
+
+out_q9
+```
+
