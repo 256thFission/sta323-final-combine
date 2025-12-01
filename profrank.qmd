@@ -13,9 +13,9 @@ library(purrr)
 ```
 
 ```{r}
-responsessta <- read_csv("C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim/STA/evaluations_responses.csv")
+responsessta <- read_csv("~/sta323-final-combine/sampledata/STA/evaluations_responses.csv")
 
-responsesstatsci <- read_csv("C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim/STATSCI/evaluations_responses.csv")
+responsesstatsci <- read_csv("~/sta323-final-combine/sampledata/STATSCI/evaluations_responses.csv")
 
 statdept <- rbind(responsessta, responsesstatsci)
 
