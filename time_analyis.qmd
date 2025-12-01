@@ -10,7 +10,7 @@ editor: visual
 ---
 
 ```{r}
-install.packages("ggpubr")
+#install.packages("ggpubr")
 ```
 
 # Setup

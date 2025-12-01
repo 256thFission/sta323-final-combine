@@ -24,11 +24,25 @@ statdept <- rbind(responsessta, responsesstatsci)
 ```{r}
 make_prop_table <- function(department,
                             base_dir = "C:/Users/ctr22/OneDrive - Duke University/Documents/data/dataslim/dataslim",
-                            min_total = 30) {
+                            min_total = 0,
+                            level = c("both", "undergrad", "grad")) {
+  level <- match.arg(level)
+
   csv_path <- file.path(base_dir, department, "evaluations_responses.csv")
   department_df <- read_csv(csv_path, show_col_types = FALSE)
+
   department_df <- department_df |>
-    mutate(course_clean = str_extract(course, "[A-Za-z]+-\\d+"))
+    mutate(course_clean = str_extract(course, "[A-Za-z]+-\\d+")) |>
+    mutate(course_num = as.integer(str_extract(course_clean, "\\d+")))
+  if (level == "undergrad") {
+    department_df <- department_df |>
+      filter(!is.na(course_num) & course_num < 500)
+  } else if (level == "grad") {
+    department_df <- department_df |>
+      filter(!is.na(course_num) & course_num >= 500)
+  }
+  # else "both" -> no filtering
+
   instructorrank <- department_df |>
     filter(question_number == 3) |>
     mutate(weight_num = as.integer(str_extract(weight, "\\d+"))) |>
@@ -87,7 +101,7 @@ make_prop_table <- function(department,
     arrange(desc(prop_good_combo))
 
   print(combo_df)
-  
+
   return(combo_df)
 }
 
